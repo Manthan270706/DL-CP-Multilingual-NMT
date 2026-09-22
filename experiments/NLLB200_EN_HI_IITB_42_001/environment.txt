@@ -1,0 +1,33 @@
+============================================================
+MULTILINGUAL NMT PROJECT - SYSTEM ENVIRONMENT REPORT
+============================================================
+
+Python Version : 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]
+Platform       : Windows-11-10.0.26200-SP0
+Processor      : Intel64 Family 6 Model 191 Stepping 2, GenuineIntel
+CUDA Available : True
+CUDA Version   : 12.8
+Device Count   : 1
+  Device 0: NVIDIA GeForce RTX 5050 Laptop GPU (7.96 GB VRAM)
+
+Key Packages:
+  - accelerate     : 1.15.0
+  - black          : 26.5.1
+  - comet          : 2.2.7
+  - datasets       : 5.0.1
+  - evaluate       : 0.4.6
+  - matplotlib     : 3.11.2
+  - nltk           : 3.10.3
+  - numpy          : 1.26.4
+  - pandas         : 3.0.6
+  - peft           : 0.21.0
+  - pytest         : 9.1.1
+  - ruff           : unknown
+  - sacrebleu      : 2.6.0
+  - scipy          : 1.17.1
+  - seaborn        : 0.13.2
+  - sklearn        : 1.9.1
+  - streamlit      : 1.60.0
+  - tokenizers     : 0.22.2
+  - transformers   : 4.57.6
+============================================================

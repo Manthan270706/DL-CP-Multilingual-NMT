@@ -1,0 +1,46 @@
+# Dataset Configuration
+# Master Decision Register Section 5 & Manifest Section 3
+
+canonical_schema:
+  - "sample_id"
+  - "source_language"
+  - "target_language"
+  - "source_text"
+  - "target_text"
+  - "dataset_source"
+  - "split"
+
+split_ratio:
+  train: 0.80
+  val: 0.10
+  test: 0.10
+
+cleaning_rules:
+  min_chars: 1
+  max_chars: 1000
+  min_words: 1
+  max_words: 100
+  max_word_length_ratio: 3.5
+  normalize_unicode: "NFKC"
+  strip_html: true
+  remove_duplicate_pairs: true
+  remove_empty: true
+  remove_identical_src_tgt: true
+
+sources:
+  en-hi:
+    primary: "cfilt/iitb-english-hindi"
+    fallback_opus: "opus_books"
+    subset: null
+  en-mr:
+    primary: "opus100"
+    fallback_opus: "tatoeba"
+    opus_name: "en-mr"
+  en-fr:
+    primary: "opus_books"
+    fallback_opus: "tatoeba"
+    opus_name: "en-fr"
+  en-de:
+    primary: "opus_books"
+    fallback_opus: "tatoeba"
+    opus_name: "en-de"

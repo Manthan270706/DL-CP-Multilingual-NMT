@@ -1,0 +1,14 @@
+{
+  "elapsed_seconds": 14.029,
+  "device": "cuda",
+  "peak_vram_mb": 2858.08,
+  "peak_vram_gb": 2.791,
+  "allocated_vram_mb": 2363.27,
+  "reserved_vram_mb": 3022.0,
+  "parameters": {
+    "total": 610879488,
+    "trainable": 610879488,
+    "frozen": 0
+  },
+  "model_size_mb": 2331.2741928100586
+}

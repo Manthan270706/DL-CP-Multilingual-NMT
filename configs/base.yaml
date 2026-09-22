@@ -1,0 +1,8 @@
+# Base Configuration for Multilingual NMT Project
+seed: 42
+project_name: "Multilingual-NMT-Project"
+output_dir: "experiments"
+data_dir: "data"
+models_dir: "models"
+log_level: "INFO"
+device: "cuda" # Automatically falls back to cpu if cuda unavailable

@@ -1,0 +1,101 @@
+sample_id,source_text,reference_text,prediction,model_id,source_language,target_language,error_category
+en_mr_Helsinki-NLP_opus-100_en-mr_0000011,You keep out of this.,तुम्ही याच्यातून बाहेरच राहा.,हे तुझ्यावर कर.,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000013,She died yesterday afternoon.,त्या काल दुपारी वारल्या.,ती काल दुपारी मेली.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000015,Play many different solitaire games,अनेक वेगवेगळे सॉलिटेयर खेळ खेळा,खेळांची यादी,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000060,Do you come here every day?,तू इथे दररोज येतोस का?,तू इथे दररोज येतोस का?,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000065,XPat 2,एक्सपैट 2Name,2shComment,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000083,Creating checksum,चेकसम बनवत आहे,कार्यरत आहे,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000095,Sit down there.,तिथे खाली बस.,खाली बस.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000112,When did you have your wall painted?,तू तुझी भिंत कधी रंगवून घेतलीस?,तू तुझी भिंत कधी बांधलीस?,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000127,Nicaragua,निकारागुआName,% 1,marian_en_mr,en,mr,extra_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000135,Unable to find the cursor theme archive %1.,कर्सर सुत्रयोजना संग्रह% 1 शोधण्यास अपयशी.,सुत्रयोजना% 1 संचयीत करतेवेळी त्रुटी आढळली.% 2,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000136,Comment on the currently selected backend,निवडलेले बॅकएन्ड करीता प्राधान्यता निश्चित केली नाही. NAME OF TRANSLATORS,निवडलेले कार्यरत सुत्रयोजनाची निवड करा,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000157,dim screen %1,पडदा पूर्णतया डिम करा,पडदा% 1,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000161,Paste,पोजComment,पुन्हा सुरू करा,marian_en_mr,en,mr,extra_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000166,Zoom _out,लहान करा (_o),बाहेर पडा (_A),marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000174,Do you know what she said?,तिने काय म्हटलं तुला माहीत आहे का?,तू तिला काय सांगितलंस?,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000202,I want to learn Chinese next year.,मला पुढच्या वर्षी चिनी शिकायची आहे.,मला पुढच्या वर्षी चिनी शिकायची आहे.,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000203,of Sivan,तमुज चा,तमुज चाEthiopian month 7 - ShortNamePossessive,marian_en_mr,en,mr,untranslated_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000211,%s is outdated; dropping whole template!,%s कालबाह्य आहे; संपूर्ण नमूना सोडून देत आहे!,%s: %s; %s सोडून देत आहे!,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000216,Nothing to Disable,अकार्यान्वीत करीता काहिच उपलब्ध नाही,अकार्यान्वीत केले नाही,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000221,Nobody was home.,घरी कोणी नव्हतं.,घरी कोणीही नव्हतं.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000222,Hardware Sensors,हार्डवेअर सेन्सर,Comment,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000228,He is angry with you.,तो तुझ्यावर रागवलेला आहे.,तो तुझ्यावर रागावला आहे.,marian_en_mr,en,mr,word_order
+en_mr_Helsinki-NLP_opus-100_en-mr_0000252,I can run.,मला धावता येतं.,मी धावते.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000253,Is there a cat on the table?,टेबलावर मांजर आहे का?,टेबलावर मांजर आहे का?,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000292,How many countries are members of the United Nations?,किती देशं संयुक्त राष्ट्रांचे सदस्य आहेत?,आफ्रिकेत किती देश आहेत?,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000302,Gen,am,स्तब्ध करा@ action,marian_en_mr,en,mr,extra_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000316,Go back,@ info,परत,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000323,The latter half of the film was interesting.,चित्रपटाचा नंतरचा भाग मनोरंजक होता.,चित्रपट होता चित्रपट.,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000324,Digit set:,@ item currency name and currency code,बाब:,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000362,The default color may only be used as a background.,मुलभुत रंग फक्त पार्श्वभूमी म्हणून कदाचित वापरला जाईल.,@ title: group,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000377,Do Not Create,बनवू नका,बनवा (S),marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000387,Switch between virtual desktops,आभासी डेस्कटॉप बदलवाName,डेस्कटॉप डेस्कटॉप डेस्कटॉप,marian_en_mr,en,mr,repetition
+en_mr_Helsinki-NLP_opus-100_en-mr_0000399,Dolphin General,डॉल्फिन दृश्यComment,Krosssen,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000410,The window does not get an entry on the pager,चौकटला pager अंतर्गत नोंदणी प्राप्त होत नाही,मुख्य चौकट अंतर्गत चौकट अंतर्गत एक चौकट आढळले नाही,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000418,Do you want to see my room?,माझी खोली बघायची आहे का?,तुला माझी खोली बघायची आहे का?,marian_en_mr,en,mr,word_order
+en_mr_Helsinki-NLP_opus-100_en-mr_0000432,Algeria is Africa's largest country.,अल्जीरिया आफ्रिकेचा सर्वात मोठा देश आहे.,आफ्रिका हा एक देश आहे.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000434,You're mine.,तू माझा आहेस.,तू माझी आहेस.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000440,I'll go get it.,मी जाऊन आणतो.,मी जाईन.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000445,Select size to print font:,फॉन्टची छपाई करण्याकरीता आकार निवडा:,फॉन्ट आकार (i):,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000447,Can we go over there?,आपण तिथे जाऊ शकतो का?,आपण तिथे जाऊ शकतो का?,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000490,It won't take much longer.,अजून जास्त वेळ लागणार नाही.,वेळ लागणार नाहीये.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000515,I don't get it.,कळलं नाही.,मी ते साफ करू शकत नाही.,marian_en_mr,en,mr,extra_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000524,I've never climbed Mt. Fuji.,मी फुजी पर्वत कधीच चढले नाहीये.,मी स्वप्न बघत नाहीये.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000539,Whose fault is it?,कोणाची चूक आहे?,कोणाची चूक आहे?,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000541,He knows how to talk to customers.,ग्राहकांशी कसं बोलतात त्याला माहीत आहे.,त्याला इंग्रजी शिकायला खूप आवडतं.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000551,I'm afraid of dogs.,मी कुत्र्यांशी घाबरतो.,मी कुत्रेांना घाबरते.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000562,The king crushed his enemies.,राजाने त्याच्या शत्रूंना चेंगरून टाकलं.,(२ शमु.,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000563,The following NEW packages will be installed:,पुढील नवीन पॅकेजेस संस्थापित करण्यात येतीलः,खालील पॅकेजेस संस्थापित होतील:,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000566,Konqueror Behavior You can configure how Konqueror behaves as a file manager here.,Konqueror वर्तन तुम्ही Konqueror ला फाइल व्यवस्थापक नुरूप येथे संयोजीत करू शकता.,"तुम्हाला नवीन फाइल पासून पुन्हा सुरू करायचे असल्यास, कृपया पुन्हा प्रयत्न करा.",marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000576,Who is she?,त्या कोण आहेत?,ती कोण आहे?,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000582,Tom is absent.,टॉम अनुपस्थित आहे.,टॉम रोममध्ये आहे.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000591,She gave it to him.,तिने ते त्याला दिलं.,तिने त्यांना दिलं.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000599,Is there any sugar?,थोडी साखर आहे का?,साखर आहे का?,marian_en_mr,en,mr,word_order
+en_mr_Helsinki-NLP_opus-100_en-mr_0000608,I saw five men.,मी पाच माणसांना बघितलं.,मी दोन माणसांना पाहिलं.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000610,Major,मोरियाName,मोठे करा,marian_en_mr,en,mr,extra_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000655,This is big.,हे मोठं आहे.,हा मोठा आहे.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000660,& Fixed font:,ठराविक रूंदीचे फॉन्ट (F):,फॉन्ट (F):,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000671,Paste,चिटकवा@ action,पुन्हा सुरू करा,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000672,drawing area,चित्रण क्षेत्र,क्षेत्र,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000675,REINSTALL,पुर्नसंस्थापित करा,A button on a Remote Control,marian_en_mr,en,mr,untranslated_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000705,Recent Document,अलिकडील दस्तऐवज,साधन,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000707,I gave him my address.,मी त्याला माझा पत्ता दिला.,मी त्यांना माझा पत्ता दिला.,marian_en_mr,en,mr,word_order
+en_mr_Helsinki-NLP_opus-100_en-mr_0000710,plugin,प्लगइन,प्लगइन,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000713,They made me go there.,त्यांनी मला तिथे जायला लावलं.,त्या तिथे गेल्या.,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000748,He slammed his door shut.,त्याने दरवाजा आपटून बंद केला.,त्याने दार बंद केला.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000749,%s has no override entry,%s ला ओव्हरराईड/दुर्लक्षित जागा नाही,%s ला उघडणे अशक्य,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000777,I don't see anybody inside.,मला आत कोणी दिसत नाहीये.,मला कोणीच दिसत नाहीये.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000779,Web server,जाल परिसेवक,वेब अनुप्रयोग,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000824,GhostView,घोस्टव्यूGenericName,(यश.,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000825,Who built it?,ते कोणी बांधलं?,आग कोणी लावली?,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000826,DMA-Channels,DMA- मार्गComment,D- Bus,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000842,Closed (%1),@ info bug status,बंद करा,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000852,Genre,श्रेणी,Indian National weekday 3 - LongDayName,marian_en_mr,en,mr,untranslated_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000864,You speak.,बोल.,तू बोल.,marian_en_mr,en,mr,extra_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000866,Configure Shown Data,@ label:: textbox,डेस्कटॉप संयोजीत करा,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000874,"Expected a number after -q=, got %s",-q नंतर एक क्रमंाक अपेक्षित आहे. %sे मिळाले,%s - %s (%s) -%s,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000882,I do work related to computers.,मी कॉम्प्यूटरसंबंधित काम करते.,मला संगणकाचा वापर करायचा आहे.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000883,European Alphabets,यूरोपीय अक्षरKCharSelect section name,कॅनेडियन@ item Text character set,marian_en_mr,en,mr,untranslated_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000888,I ran away in a hurry.,मी घाईत पळून गेले.,मी घाईत पळून गेले.,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000908,Username:,वापरकर्त्याचे नाव:,क्षेत्र:,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000909,The removal request failed.,काढूण टाकण्याची विनंती अपयशी.,विनंती अपयशी.,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0000915,Title:,शिर्षक:,शिर्षक:,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000917,Happy Canada Day!,शुभ कॅनडा दिवस!,कॅनडामधील सावध राहा!,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000918,System wide font,प्रणाली वरील फॉन्ट,फॉन्ट अकार्यान्वीत करा,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000924,Remove the following packages:,खालील पॅकेजेस काढून टाका.,खालील पॅकेजेस काढून टाका.,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0000941,End of options,पर्याय समाप्त,क्रिया पर्याय,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000957,I can't see well.,मला ठीकपणे बघता येत नाहिये.,मला दिसत नाहीये.,marian_en_mr,en,mr,grammar
+en_mr_Helsinki-NLP_opus-100_en-mr_0000959,Invalid Proxy Setting,अवैध प्रॉक्सी संयोजना,अवैध अवैध आदेश,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000964,Tom understood.,टॉमला कळलं.,टॉमला समजलं.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0000989,These pencils are the same color.,या पेन्सिली एकाच रंगाच्या आहेत.,या रंगाचा रंग रंग अतिशय रंग आहे.,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001021,Does Tom have a girlfriend?,टॉमकडे गर्लफ्रेंड आहे का?,टॉमकडे गर्लफ्रेंड आहे का?,marian_en_mr,en,mr,none
+en_mr_Helsinki-NLP_opus-100_en-mr_0001027,I believe you.,मी तुमच्यावर विश्वास ठेवतो.,माझा तुमच्यावर विश्वास आहे.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001028,Chichewa,चिचेवाName,Yibo,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001043,"He liked Ann, but then his parents didn't.","त्याला अॅन आवडत होती, पण त्याच्या आई-वडीलांना नाही.","रॉबर्टला त्याची आई आवडते, पण त्याला ते आवडलं नाही.",marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001049,They're ugly.,त्या कुरूप आहेत.,ते जुळे आहेत.,marian_en_mr,en,mr,ambiguity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001062,& Comment:,टिपण्णी (C):,संयोजना (S):,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001063,License Agreement,परवाना करार,धर्मादाय योजना,marian_en_mr,en,mr,named_entity
+en_mr_Helsinki-NLP_opus-100_en-mr_0001070,Close Connection,जुळवणी बंद करा (e),बंद करा,marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0001075,%s: Unable to parse input line '%s',%s: इनपुट लाईन '%s' पार्से करणे अशक्य,"%s: ""%s"": %s",marian_en_mr,en,mr,missing_words
+en_mr_Helsinki-NLP_opus-100_en-mr_0001082,Skipping already downloaded file '%s',आधीच डाऊनलोड केलेली '%s' फाईल सोडून द्या,"""%s"" उघडणे अशक्य",marian_en_mr,en,mr,missing_words

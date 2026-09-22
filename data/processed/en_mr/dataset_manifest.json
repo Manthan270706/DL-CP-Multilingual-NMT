@@ -1,0 +1,64 @@
+{
+  "source_language": "en",
+  "target_language": "mr",
+  "direction": "en-mr",
+  "dataset_name": "Helsinki-NLP/opus-100",
+  "provenance": {
+    "dataset_name": "Helsinki-NLP/opus-100",
+    "configuration": "en-mr",
+    "provider": "Language Technology Research Group, University of Helsinki / OPUS",
+    "license": "CC-BY-4.0 / Open Data",
+    "original_size": 27007,
+    "version": "1.0.0",
+    "split_loaded": "train"
+  },
+  "cleaning_stats": {
+    "initial_rows": 27007,
+    "null_or_empty_removed": 8,
+    "duplicate_pairs_removed": 672,
+    "identical_src_tgt_removed": 556,
+    "length_filtered": 670,
+    "final_rows": 25101
+  },
+  "split_seed": 42,
+  "split_ratios": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "split_counts": {
+    "train": 20045,
+    "val": 2541,
+    "test": 2515,
+    "total_cleaned": 25101
+  },
+  "leakage_audit": {
+    "has_leakage": false,
+    "has_pair_leakage": false,
+    "has_source_leakage": false,
+    "train_size": 20045,
+    "val_size": 2541,
+    "test_size": 2515,
+    "pair_overlaps": {
+      "train_val": 0,
+      "train_test": 0,
+      "val_test": 0
+    },
+    "source_overlaps": {
+      "train_val": 0,
+      "train_test": 0,
+      "val_test": 0
+    }
+  },
+  "checksums_sha256": {
+    "train_csv": "5956ff8548a3bd8c6440b19ed40b8a05840daaaae70441b7a75e7e0bc0885887",
+    "val_csv": "a6741d09148a8d41ce7945d340d8edffb78a8672b52dd20ef6d86a409129a660",
+    "test_csv": "18e23787adcaddfc89466641cc4e2068b03afdad00045ebe43c473ed05618562"
+  },
+  "frozen_at_utc": "2026-09-21T17:02:57.264179+00:00",
+  "paths": {
+    "train": "data\\processed\\en_mr\\train.csv",
+    "val": "data\\processed\\en_mr\\val.csv",
+    "test": "data\\processed\\en_mr\\test.csv"
+  }
+}

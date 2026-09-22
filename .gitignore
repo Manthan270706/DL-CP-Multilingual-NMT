@@ -1,0 +1,83 @@
+# ==========================================
+# Python & Bytecode
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# ==========================================
+# Testing, Linting & Coverage
+# ==========================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.cache
+coverage.xml
+*.cover
+.hypothesis/
+
+# ==========================================
+# IDEs & OS Files
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ==========================================
+# Model Weights & Binary Checkpoints
+# ==========================================
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+*.onnx
+checkpoints/
+models/checkpoints/
+
+# ==========================================
+# Raw Data & Cache
+# ==========================================
+data/raw/*
+!data/raw/.gitkeep
+hf_cache/
+.cache/
+
+# ==========================================
+# Build & Packaging
+# ==========================================
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+*.manifest
+*.spec
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logs/

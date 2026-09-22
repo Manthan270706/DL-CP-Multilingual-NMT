@@ -1,0 +1,28 @@
+# Frozen Model Registry Configuration
+# Master Decision Register Section 3 & Manifest Section 1
+
+models:
+  marian:
+    family: "marian"
+    type: "pair_specific"
+    description: "MarianMT baseline models from Helsinki-NLP"
+    checkpoints:
+      en-hi: "Helsinki-NLP/opus-mt-en-hi"
+      en-mr: "Helsinki-NLP/opus-mt-en-mr"
+      en-fr: "Helsinki-NLP/opus-mt-en-fr"
+      en-de: "Helsinki-NLP/opus-mt-en-de"
+    supports_multilingual: false
+
+  mbart50:
+    family: "mbart50"
+    type: "multilingual"
+    description: "mBART-50 Many-to-Many multilingual model"
+    checkpoint: "facebook/mbart-large-50-many-to-many-mmt"
+    supports_multilingual: true
+
+  nllb200:
+    family: "nllb"
+    type: "multilingual"
+    description: "NLLB-200 distilled 600M primary multilingual model"
+    checkpoint: "facebook/nllb-200-distilled-600M"
+    supports_multilingual: true

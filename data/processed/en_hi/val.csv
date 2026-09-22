@@ -1,0 +1,997 @@
+sample_id,source_language,target_language,source_text,target_text,dataset_source,split
+en_hi_iitb_english_hindi_0000003,en,hi,The default plugin layout for the top panel,ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000005,en,hi,Highlight duration,अवधि को हाइलाइट रकें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000041,en,hi,Col _ lection,संग्रह,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000049,en,hi,Absolute position,निरपेक्ष स्थिति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000058,en,hi,Locale,स्थान-विशिष्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000059,en,hi,_ Image,छवि (_ I),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000064,en,hi,Selected columns,चुने गए स्तंभ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000070,en,hi,Header:,शीर्षकः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000078,en,hi,Te _ xt,पाठ (_ x),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000081,en,hi,Maximum value,अधिकतम मान,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000098,en,hi,LDTP,एलडीटीपी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000122,en,hi,interactive% s is not actionable,अंतर्क्रियात्मक% s कार्रवाई करने योग्य नहीं है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000130,en,hi,% s does not belong to a set,% s किसी समुच्चय का सदस्य नहीं है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000131,en,hi,% (rolename) s index% (num) d does not match row and column,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000135,en,hi,_ Contents,विषय सूची (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000142,en,hi,Refresh selected node 's children,चुनी गई आसंधियों (नोड) के शिशुओं को ताजा करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000153,en,hi,Global Hotkeys,सार्वत्रिक फटाफट कुंजियां,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000158,en,hi,Fill color:,भराई का रंगः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000170,en,hi,Title,शीर्षक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000177,en,hi,Plugin Errors,प्लग-इन त्रुटियां,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000192,en,hi,Content type,विषय प्रकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000459,en,hi,Caption:,शीर्षकः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000571,en,hi,Plugin Errors,प्लग-इन त्रुटियांviewport,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000791,en,hi,Default window height,तयशुदा विंडो ऊंचाई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0000807,en,hi,Window width,विंडो की चौड़ाई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001602,en,hi,Documents,दस्तावेज़,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001605,en,hi,Generic,ज़ेनेरिक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001606,en,hi,Important,महत्वपूर्ण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001612,en,hi,No read,नहीं पढ़ा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001693,en,hi,Statistics of games played,खेल पुनः प्रारंभ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001716,en,hi,_ Leave Fullscreen,पूर्ण स्क्रीन छोड़ें (_ L),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001722,en,hi,reserve,आरक्षितslot type,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001739,en,hi,Backbone,रीढ़,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001757,en,hi,Eight Off,आठ बन्द,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001764,en,hi,Forty Thieves,चालीस चोर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001766,en,hi,Freecell,फ्रीसेल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001775,en,hi,Hopscotch,हॉपस्कॉच,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001778,en,hi,Jumbo,भारी भरकम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001782,en,hi,Klondike,क्लॉन्डिके,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001799,en,hi,Scorpion,वृश्चिक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001801,en,hi,Seahaven,सीहैवन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001812,en,hi,Thieves,चोर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001822,en,hi,Yield,उपज,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001825,en,hi,JOKER,जोकरcard symbol,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001827,en,hi,2,2number,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001838,en,hi,1,1number,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001857,en,hi,six of diamonds,ईंट का छक्का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001879,en,hi,two of spades,हुकुम का दुक्का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001892,en,hi,black joker,काला जोकर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001898,en,hi,Window width,विंडो चौड़ाई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001908,en,hi,Total:,कुलः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001916,en,hi,N / A,लागू नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001920,en,hi,Main game:,मुख्य खेलः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001925,en,hi,translator - credits,रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001932,en,hi,_ Report,रिपोर्ट करें (_ R),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001959,en,hi,_ Click to Move,बढ़ने के लिये क्लिक करें (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001969,en,hi,"This usually occurs when you run an older version of Aisleriot which does not have the game you last played. The default game, Klondike, is being started instead.","यह प्रायः होता है जब आप एसलिरियोट के पुराने संस्करण को चलाते हैं जिसने खेल नहीं खेला है जो आप अंतिम में खेले हैं. मूलभूत खेल, Klondike, बदले में आरंभ हो रहा है.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001971,en,hi,Base Card: Ace,आधार पत्ताः इक्का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0001982,en,hi,the ace of clubs,चिड़ी का इक्का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002046,en,hi,Move ~ a onto an empty right slot.,~ a को एक खाली दाएँ स्लॉट में ले जाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002049,en,hi,Move ~ a onto the red joker.,~ a को लाल जोकर पर ले जाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002055,en,hi,Move ~ a onto the six of clubs.,~ a को चिड़ी का छक्का पर ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002060,en,hi,Move ~ a onto the jack of clubs.,~ a को चिड़ी का गुलाम पर ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002074,en,hi,Move ~ a onto the jack of spades.,~ a को एक हुकुम का गुलाम पर ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002084,en,hi,Move ~ a onto the eight of hearts.,~ a को एक लाल पान का अट्ठा पर ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002091,en,hi,Move ~ a onto the two of diamonds.,~ a को एक ईंट का दुक्का पर ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002112,en,hi,Remove the eight of clubs.,चिड़ी का बादशाह हटाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002117,en,hi,Remove the king of clubs.,चिड़ी का बादशाह हटाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002134,en,hi,Remove the three of hearts.,लाल पान का दहला हटाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002155,en,hi,Remove the jack of diamonds.,ईंट का बादशाह हटाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002168,en,hi,Just because a crosswalk looks like a hopscotch board doesn 't mean it is one,"सिर्फ इसलिए कि हापस्काच बोर्ड पारपथ जैसे दिखता है, इसका मतलब यह नहीं कि वह यही है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002169,en,hi,Look both ways before you cross the street,"जब आप सड़क पार करें, तो दोनों तरफ देखें",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002196,en,hi,Deal a card,एक पत्ता बांटें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002206,en,hi,Remove the twos,दुक्की मिटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002214,en,hi,Remove the tens,दहला मिटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002220,en,hi,Move something onto an empty tableau slot.,किसी वस्तु को खाली तस्वीर खाँचे में ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002239,en,hi,Place the queen of clubs next to the jack of clubs.,चिड़ी की गुलाम के बगल में चिड़ी के दहला को रखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002250,en,hi,Place the jack of spades next to the ten of spades.,हुकुम की गुलाम के बगल में हुकुम के दहला को रखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002260,en,hi,Place the nine of hearts next to the eight of hearts.,लाल पान की नहला के बगल में लाल पान के अट्ठा को रखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002268,en,hi,Place the five of diamonds next to the four of diamonds.,ईंट का पंजा के बगल में ईंट का छक्का को रखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002272,en,hi,Place the nine of diamonds next to the eight of diamonds.,ईंट का नहला के बगल में ईंट का अट्ठा को रखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002273,en,hi,Place the ten of diamonds next to the nine of diamonds.,ईंट का दहला के बगल में ईंट का नहला को रखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002278,en,hi,Deals left: ~ a,बायीँ डीलः ~ a,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002292,en,hi,Move waste to stock,बेकार को भण्डार में ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0002319,en,hi,Allow temporary spots use,अस्थायी स्पॉट उपयोग स्वीकारें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003280,en,hi,FILE,फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003283,en,hi,Session management options:,सत्र प्रबंधन विकल्पः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003314,en,hi,empty slot on foundation,आधार पर खाली खाँचा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003334,en,hi,an empty slot on tableau,तस्वीर में एक खाली खाँचा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003336,en,hi,Move a King on to the empty tableau slot,खाली तस्वीर खाँचा पर बादशाह को ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003363,en,hi,an empty space,एक खाली जगह,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003409,en,hi,an empty tableau pile,एक खाली पठारी ढेर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003417,en,hi,three,तीन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003422,en,hi,eight,अट्ठा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003425,en,hi,jack,जोकर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003430,en,hi,spades,हुकुम के पत्ते,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003432,en,hi,diamonds,ईंट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003508,en,hi,the appropriate Foundation pile,उचित संस्थापन ढेर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003869,en,hi,Move ~ a onto an empty right slot.,~ a को एक खाली दाएं खाँचा में ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003872,en,hi,Move ~ a onto the red joker.,~ a को लाल जोकर पर घुमाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003878,en,hi,Move ~ a onto the six of clubs.,~ a को चिड़ी का छक्का पर घुमाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003883,en,hi,Move ~ a onto the jack of clubs.,~ a को चिड़ी का गुलाम पर घुमाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003897,en,hi,Move ~ a onto the jack of spades.,~ a को हुकुम का गुलाम पर घुमाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003907,en,hi,Move ~ a onto the eight of hearts.,~ a को लाल पान का अट्ठा पर घुमाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0003914,en,hi,Move ~ a onto the two of diamonds.,~ a को ईंट का दुक्का पर घुमाएँ.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004436,en,hi,Move ~ a onto an empty right slot.,~ a को एक खाली फील्ड में ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004439,en,hi,Move ~ a onto the red joker.,~ a को पट्ट से बाहर ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004445,en,hi,Move ~ a onto the six of clubs.,चिड़ी का छक्का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004450,en,hi,Move ~ a onto the jack of clubs.,चिड़ी का गुलाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004464,en,hi,Move ~ a onto the jack of spades.,हुकुम का गुलाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004474,en,hi,Move ~ a onto the eight of hearts.,लाल पान का अट्ठा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004481,en,hi,Move ~ a onto the two of diamonds.,ईंट का दुक्का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004561,en,hi,Move something onto an empty tableau slot.,किसी वस्तु को तस्वीर के खाली खाँचे में ले जाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0004587,en,hi,Remove the king of clubs.,चिड़ी का बादशाह,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0005944,en,hi,Move Up,ऊपर जायें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0005994,en,hi,"Cannot execute command: ""% s""",रिमोट कड़ियों को नहीं चला सकता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006001,en,hi,Select a plugin,अंजूटा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006005,en,hi,Activated plugins,अंजूटा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006084,en,hi,Clean module,सभी बंद करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006086,en,hi,_ Build (% s),% u फाइल्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006101,en,hi,General Class Properties,लाग आन की जानकारी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006147,en,hi,Use revision:,सत्रें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006150,en,hi,Whole project,ग्लेड योजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006172,en,hi,Debugger:,श्रेणी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006177,en,hi,Command Line Parameters:,निर्देश पंक्ति की प्रविष्टि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006202,en,hi,_ Hide paths,हस्ताछर शामिल करो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006218,en,hi,Disp,सूची,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006231,en,hi,Enable Breakpoint,ब्रेकपाइंट को समायोजित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006255,en,hi,_ Attach to Process...,फाइल जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006258,en,hi,Say goodbye to the debugger,प्रोग्राम डिबगर के अंदर चलाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006301,en,hi,Show Line Markers,पंक्ति संख्या प्रदर्शित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006311,en,hi,Unable to execute:% s.,% s को क्रियान्वित करने में असफल% d (% s),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006316,en,hi,Thread,पीथ्रेड्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006318,en,hi,Ins _ pect / Evaluate...,रेग्युलर एक्सप्रेशन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006343,en,hi,Help display,फाइल चयन करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006346,en,hi,Close file,फाइल कापी करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006369,en,hi,Disable auto - format,उपलब्ध प्रारूप,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006371,en,hi,Documents,खाली दस्तावेज,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006375,en,hi,Indent Setting,इंडेन्टेशन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006381,en,hi,Preview,प्रिंट पूर्व दर्शन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006387,en,hi,Top,ऊपर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006392,en,hi,Save _ As...,सभी को संग्रहित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006394,en,hi,Save A _ ll,सभी संग्रहित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006397,en,hi,Close All Files,सभी बंद करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006398,en,hi,Close all files,सभी खुली फाइलों को बंद करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006402,en,hi,Swap c header and source file,जावा सोर्स कोड,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006414,en,hi,Select _ All,सभी चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006416,en,hi,Select to _ Brace,शब्द चुनो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006417,en,hi,Select the text in the matching braces,पूरे टेक्स्ट को टेक्स्ट फील्ड में में चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006418,en,hi,Select _ Code Block,फोकस करने पर चयन करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006429,en,hi,_ Start of Block,नया प्रोजेक्ट बनाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006430,en,hi,Go to the start of the current block,वर्तमान दस्तावेज में शैल आउटपुट को प्रविष्ट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006454,en,hi,Delete the selected text from the editor,चयनित पाठ्य को हटाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006489,en,hi,Editor code commenting,छैतिज पैमाना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006490,en,hi,Editor navigations,छैतिज पैमाना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006570,en,hi,Tag Declaration,स्थिर घोषणाओं को छोड़ दें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006581,en,hi,Toggle Line numbers,पंक्ति संख्या,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006602,en,hi,C / C + + source files,सी + + सोर्स कोड,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006614,en,hi,_ New...,खोलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006625,en,hi,Open recent files,एक फाइल खोलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006652,en,hi,C + + Source File,सी + + सोर्स कोड,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006656,en,hi,Python Source File,सोर्सफोर्ज,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006694,en,hi,_ Show Clipboard,टिप्स (संकेतों) को दिखाएं (_ i),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006716,en,hi,started:,स्टार्टअप,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006719,en,hi,Are you sure you want to remove the selected todo item?,"क्या आप निश्चित ही ""% s"" को ट्रेश से स्थायी तौर पर डिलीट करना चाहते हैं",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006760,en,hi,/ View / Hide Items that Are Past Due Date,/ View/Todo List/Hide Items without an end date,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006761,en,hi,Create a Task List,एक नयी फाइल का निर्माण करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006762,en,hi,/ _ New,नयी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006781,en,hi,Header _ cpp,शीर्ष,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006784,en,hi,Header _ perl,शीर्ष,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006803,en,hi,Errors:,त्रुटि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006813,en,hi,Warning message indicator style:,वार्निंग संदेश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006814,en,hi,Warnings:,चेतावनियां,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006843,en,hi,Function Call Tree,हिस्से,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006879,en,hi,_ Add To Project,प्रोजेक्ट में सोर्स जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006891,en,hi,Loaded Project... Initializing,प्रोजेक्ट खोलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006898,en,hi,Enter the basic Project information,लान्चर सूचना का सम्पादन करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006907,en,hi,New project has been created successfully,सफलतापूर्वक फ्लापी को फार्मेट किया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006926,en,hi,Main class,निर्देश पुस्तिका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006930,en,hi,Plugin class name,रंग का नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006938,en,hi,Sample action,टैग लिस्ट प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006940,en,hi,SamplePlugin,टैग लिस्ट प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006941,en,hi,Actions,श्रेणी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006967,en,hi,Setting,समायोजन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0006978,en,hi,Fin _ d in Files...,फ़ाइल को जोडे... (_ F),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007036,en,hi,Update completed,मिनट्स को अपडेट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007042,en,hi,Commit replaced,सबको कमिट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007058,en,hi,Tag _ Definition,फ्लैग की स्थिति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007064,en,hi,_ Find Usage,फिर से ढूंढो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007068,en,hi,Goto symbol,देख रहा है% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007075,en,hi,Save all files,सभी खुली फाइलों को बंद करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007077,en,hi,Standard error:,मानक माॅनीकर फैक्ट्री,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007101,en,hi,Error when loading external tools,आइकान को लोड करने में त्रुटि% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007117,en,hi,Failed to create pipe to '% s':% s,प्रोजेक्ट लोड करने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007125,en,hi,Memory leaks,मेमोरी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007127,en,hi,Shared Object,विघटित लायब्रेरी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007136,en,hi,Session:,श्रेणी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007139,en,hi,User name,यूजर नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007188,en,hi,Glade File,फाइलनाम बदलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007202,en,hi,Anjuta Class Generator Plugin,उत्पन्न करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007203,en,hi,C + + / GObject Class,सामान्य नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007204,en,hi,Class Generator,उत्पन्न करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007209,en,hi,<: Enter Here,सिकुडि फ़ाइल को बडा करे,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007210,en,hi,Additional,एड़ीशनल टेक्स्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007218,en,hi,C _ ompile:,तुलना करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007224,en,hi,Directories,डायरेक्ट्री,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007230,en,hi,GUI editor command:,शैल निर्देश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007233,en,hi,Headers,शीर्ष,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007255,en,hi,Optimization,एनीमेशन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007264,en,hi,Projects:,प्रोजेक्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007273,en,hi,_ Language:,भाषा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007276,en,hi,_ Terminal:,टर्मिनल में चलाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007277,en,hi,dialog4,डायलाग 1,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007291,en,hi,Auto generate Project,एक नया प्रोजेक्ट बनाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007295,en,hi,Cleaning whole of the Project:,प्रोजेक्ट में सोर्स जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007300,en,hi,Warning,चेतावनी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007302,en,hi,The target executable of this Project is not executable,चयनित फाइल चलाने योग्य नहीं है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007307,en,hi,* Output Header File:,हैडर (शीर्षक) क्लिक किए जाने योग्य,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007319,en,hi,Reload System Defaults,डिफाल्ट फोन्ट को पुनः प्रयोग करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007320,en,hi,_ Save Theme As,....... नाम से संग्रहित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007325,en,hi,% s is not a '. h' file!,% s नियमित फाइल नहीं है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007329,en,hi,_ General,सामान्य,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007339,en,hi,Insert a switch template,एक फाइल प्रविष्ट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007359,en,hi,Inspect memory,डालो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007369,en,hi,Show CPU register contents,विषय वस्तु के चारों ओर के उठाव का प्रकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007373,en,hi,Add Watch Expression,रेग्युलर एक्सप्रेशन खोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007375,en,hi,Modify Watch Expression,रेग्युलर एक्सप्रेशन खोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007379,en,hi,/ _ ToDo,टूल्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007384,en,hi,/ _ Help,सहायता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007401,en,hi,Self,स्वयं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007415,en,hi,Preview,पूर्वावलोकन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007426,en,hi,Memory leaks,स्मृति रिसाव,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007436,en,hi,Powerful debugging tool.,शक्तिशाली डिबगिंग औजार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007437,en,hi,Valgrind Plugin,वालग्रिंड प्लगिन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007447,en,hi,Hebrew,हिब्रू,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007453,en,hi,Chinese Traditional,चीनी पारम्परिक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007467,en,hi,Select a plugin,प्लगिन चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007471,en,hi,Activated plugins,सक्रिय प्लगिन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007491,en,hi,Missing,अनुपस्थित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007502,en,hi,Select Program to run:,चलाने के लिए प्रोग्राम चुनेंः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007515,en,hi,Profiling,प्रोफाइलिंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007518,en,hi,make (\\ [\\d +\\])?: \\s + Entering\\s + directory\\s + `(. +) ',make (\\ [\\d + \\])?: \\s + Entering\\s + directory\\s + `(. +) ',iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007520,en,hi,make (\\ [\\d +\\])?: \\s + Leaving\\s + directory\\s + `(. +) ',make (\\ [\\d + \\])?: \\s + Leaving\\s + directory\\s + `(. +) ',iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007545,en,hi,Password:,पासवर्डः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007553,en,hi,_ Remove,हटाएं (_ R),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007554,en,hi,_ Update,अद्यतन करें (_ U),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007586,en,hi,Pass,पास,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007590,en,hi,Show Line Markers,पंक्ति मार्कर्स दिखाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007595,en,hi,File,फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007603,en,hi,Thread,लड़ी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007617,en,hi,Save _ As...,ऐसे सहेजें... (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007623,en,hi,Select _ All,सभी चुनें (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007663,en,hi,Type:,क़िस्मः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007690,en,hi,High,उच्च,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007691,en,hi,Medium,मध्यम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007695,en,hi,n / a,n/a,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007742,en,hi,A sample SDL project,नमूना SDL प्रोजेक्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007755,en,hi,Generic,जेनेरिक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007768,en,hi,Main class,मुख्य वर्ग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007769,en,hi,Makefile project,मेकफाइल परियोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007787,en,hi,Sample action,नमूना क्रिया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007802,en,hi,Actions,क्रिया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007809,en,hi,Setting,विन्यास,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007822,en,hi,View Log,लॉग देखिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007824,en,hi,Diff,डिफ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007839,en,hi,Current buffer,मौजूदा बफर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007849,en,hi,Project Defaults,परियोजना तयशुदा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007864,en,hi,Anjuta frequently asked questions,अंजुटा बार बार पूछे जाने वाले प्रश्न,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007879,en,hi,Autocomplete,स्वतःपूर्ण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007900,en,hi,Glade File,ग्लेड फाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007904,en,hi,Todo Plugin for Anjuta.,Anjut के लिए टूडू प्लगिन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007917,en,hi,Anjuta Class Generator Plugin,Anjuta वर्ग जनक प्लगिन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007918,en,hi,C + + / GObject Class,C + +/GObject Class,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007919,en,hi,Class Generator,वर्ग जनक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007923,en,hi,Run Program,प्रोग्राम चलाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0007932,en,hi,Local,स्थानीय,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008628,en,hi,Use revision:,संशोधनः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008649,en,hi,Disable,अक्षम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008703,en,hi,Remove bookmark,सभी मिटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008708,en,hi,Top,को,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008789,en,hi,Advanced options,आपरेशन चलाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008791,en,hi,Install directory:,प्रोजेक्ट संस्थापित करें (_ I),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008832,en,hi,Select a file,प्लगिन चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008842,en,hi,_ Apply...,नक़ल...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008882,en,hi,HTML export options:,विकल्प,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008923,en,hi,Location:,स्थान (_ L):,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008933,en,hi,GbfProject Object,परियोजना नामः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0008945,en,hi,Warning,चेतावनीः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009118,en,hi,Indent:,स्वचालित हाशिया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009164,en,hi,Makefile backend,मेकफाइल आधारित परियोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009277,en,hi,General Class Properties,समूह गुण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009318,en,hi,Debugger:,डिबगर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009449,en,hi,Lisp Module,मोड्यूल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009529,en,hi,_ Reset tree...,रिसेट करें (_ R),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009575,en,hi,To - do Manager,कार्य प्रबंधक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009629,en,hi,_ Add to Project,परियोजना में जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009727,en,hi,Print line numbers,पंक्ति संख्याएं दिखाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009874,en,hi,Min character for completion,कोड समाप्ति सक्रिय करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009944,en,hi,Font size,फ़ॉन्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0009946,en,hi,Color,रंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010007,en,hi,Args:% s,दाखिल हो रहा हैः% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010105,en,hi,Close Other,अन्य,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010592,en,hi,Unknown error in module% s,अज्ञात त्रुटि इंच से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010597,en,hi,Anjuta was not able to automatically determine the encoding of the file you want to open.,Anjuta नहीं को का फ़ाइल को खोलें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010624,en,hi,"Cannot execute command: ""% s""",कार्यान्वित करें कमांड से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010642,en,hi,Current stack of profiles,मौज़ूदा का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010661,en,hi,% s: Install it from '% s',से. संस्थापित करें से से. नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010695,en,hi,Column 1,स्तम्भ 1,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010712,en,hi,Project doesn 't exist or invalid path,परियोजना या अवैध,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010740,en,hi,No executables in this project!,नहीं इंच यह!,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010755,en,hi,warning: - old,चेतावनीः-old,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010799,en,hi,Clean module,मॉड्यूल साफ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010802,en,hi,_ Build (% s),बिल्ड से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010823,en,hi,General Class Properties,सामान्य वर्ग गुण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010834,en,hi,Constants / Variables,स्थिरांक/चर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010835,en,hi,Python Class,पायथन वर्ग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010837,en,hi,Initializer Arguments:,आरंभिक आर्गुमेंट्सः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010838,en,hi,Methods,विधि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010840,en,hi,Imports,आयात,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010844,en,hi,Vala Class,वाला वर्ग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010883,en,hi,CVS Preferences,सीवीएस वरीयताएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010897,en,hi,Whole project,पूर्ण प्रोजेक्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010910,en,hi,Choose file or directory to get the status from:,फ़ाइल या निर्देशिका को स्थिति पाने के लिए चुनेंः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010915,en,hi,Use revision:,रिवीजन का उपयोग करेंः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010969,en,hi,_ Hide paths,पथ छुपाएँ (_ H),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010970,en,hi,Hide process para _ meters,छुपाएँ process अनुच्छेद मीटर्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010978,en,hi,_ Automatic update,स्वचालित अद्यतन (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0010998,en,hi,Pass:,पासः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011001,en,hi,Start Debugger,डिबगर प्रारंभ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011002,en,hi,Debugger:,डिबगरः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011026,en,hi,Enable Breakpoint,ब्रेकपाइंट सक्षम करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011070,en,hi,Say goodbye to the debugger,कहें को,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011091,en,hi,Step _ Out,चरण बाहर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011108,en,hi,Shared Object,साझेदारी वस्तु,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011139,en,hi,Unable to execute:% s.,को कार्यान्वित करें से..,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011161,en,hi,_ Go to,जाएँ को,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011176,en,hi,Remove bookmark,पुस्तकचिह्न हटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011180,en,hi,Close file,फ़ाइल बंद करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011192,en,hi,Save files interval in minutes,सहेजें फ़ाइल अंतराल इंच मिनट्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011203,en,hi,Save _ As...,ऐसे सहेजें (_ A) ...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011205,en,hi,Save A _ ll,सभी सहेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011210,en,hi,Close all files,बंद करें सभी फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011212,en,hi,Close other documents,बंद करें अन्य दस्तावेज़,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011236,en,hi,Select _ Code Block,चुनें कोड रोकें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011248,en,hi,_ Start of Block,प्रारंभ का रोकें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011249,en,hi,Go to the start of the current block,जाएँ को प्रारंभ का,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011269,en,hi,Highlight All,सभी आलोकित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011270,en,hi,Highlight all occurrences,सभी आवृत्ति आलोकित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011290,en,hi,Delete the selected text from the editor,मिटाएँ चयनित पाठ से,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011303,en,hi,_ Line End Characters,पंक्ति अंत वर्ण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011310,en,hi,Zoom out: Decrease font size,ज़ूम बाहर आकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011322,en,hi,Switch to next document,बदलें को दस्तावेज़,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011326,en,hi,Jump to the previous bookmark in the file,जम्प को इंच फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011335,en,hi,Editor code commenting,संपादक कोड,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011336,en,hi,Editor navigations,संपादक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011352,en,hi,Autosave failed for% s,स्वतः सहेजें असफल के लिए से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011375,en,hi,C / C + + source files,C/C + + श्रोत फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011382,en,hi,Hypertext markup files,हायपर-टेक्स्ट फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011400,en,hi,Open recent files,खोलें फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011408,en,hi,"Do not show binary files (. o,. la, etc.)",नहीं द्विपदीय फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011434,en,hi,C + + Source File,C + + स्रोत फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011438,en,hi,Python Source File,पायथन स्रोत फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011444,en,hi,Missing name,अनुपस्थित नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011452,en,hi,Lisp Module,लिप्स मोड्यूल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011459,en,hi,Unable to parse project file,को फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011470,en,hi,Common additional linker flags for all targets in this group.,सामान्य अतिरिक्त फ्लैग्स के लिए सभी लक्ष्य इंच यह समूह.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011472,en,hi,Common additional C preprocessor flags for all targets in this group.,सामान्य अतिरिक्त सी फ्लैग्स के लिए सभी लक्ष्य इंच यह समूह.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011477,en,hi,Java compiler flags:,जावा कंपाइलर फ्लैग्सः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011490,en,hi,List of custom installation directories used by targets in this group.,सूची का पसंदीदा अधिष्ठापन प्रयुक्त द्वारा लक्ष्य इंच यह समूह.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011496,en,hi,Additional libraries:,अतिरिक्त लाइब्रेरीः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011501,en,hi,Additional C compiler flags for this target.,अतिरिक्त सी फ्लैग्स के लिए यह लक्ष्य.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011508,en,hi,Additional Yacc or Bison parser generator flags for this target.,अतिरिक्त Yacc या फ्लैग्स के लिए यह लक्ष्य.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011512,en,hi,Include this target in the distributed package.,इनक्लूड यह लक्ष्य इंच वितरित पैकेज.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011533,en,hi,Program exited with error code% s,प्रोग्राम के साथ त्रुटि कोड से. नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011569,en,hi,Show source revision in log message,दिखाएँ श्रोत इंच संदेश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011602,en,hi,Commit on fast - forward merges,कमिट पर तेज आगे,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011604,en,hi,Repository to push to:,रेपोसिटरी को दबाएं कोः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011605,en,hi,Branches:,निगरानी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011611,en,hi,Previous commit; Drop or enter a different revision here,पिछला छोडें या एंटर a,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011620,en,hi,Stashed Changes:,परिवर्तनः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011633,en,hi,Please enter a revision.,कृपया एंटर a.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011635,en,hi,Commit% s. diff,कमिट से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011636,en,hi,No revision selected,नहीं चयनित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011646,en,hi,Branch:% s,शाखा से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011647,en,hi,Tag:% s,टैग% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011664,en,hi,Changes to be committed,परिवर्तन को कमिट किया जाना है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011671,en,hi,Merge a revision into the current branch,मिलाएं a,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011697,en,hi,Start a rebase operation relative to the selected remote repository,प्रारंभ a को चयनित रिमोट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011703,en,hi,Abort the rebase and return the repository to its previous state,छोड़ें और लौटाएँ को state,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011706,en,hi,Apply selected stash,लागू करें चयनित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011709,en,hi,Apply stashed changes back into the working tree and the index,लागू करें पीछे ट्री और अनुक्रमणिका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011711,en,hi,Show a diff of the selected stash,दिखाएँ a का चयनित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011757,en,hi,Warning message indicator style:,चेतावनी संदेश शैलीः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011760,en,hi,Warnings:,चेतावनियाँः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011761,en,hi,Errors:,त्रुटियाँः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011779,en,hi,Add _ module,जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011807,en,hi,Location:,स्थानः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011819,en,hi,Specify _ where to create the target:,को लक्ष्यः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011824,en,hi,Add Library,जोड़ें लाइब्रेरी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011830,en,hi,_ Module name:,मोड्यूल नामः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011834,en,hi,GbfProject Object,वस्तु,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011838,en,hi,Are you sure you want to remove the following group from the project?,को मिटाएँ अनुसरण कर रहा है समूह से नहीं नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011839,en,hi,Are you sure you want to remove the following target from the project?,को मिटाएँ अनुसरण कर रहा है लक्ष्य से नहीं नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011856,en,hi,Failed to retrieve URI info of% s:% s,असफल को यूआरआई सूचना का से. से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011865,en,hi,Add a module to a target,जोड़ें a को a लक्ष्य,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011879,en,hi,_ Add to Project,जोड़ें को परियोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011884,en,hi,Sort shortcuts,छाँटें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011895,en,hi,Directory properties,निर्देशिका गुण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011963,en,hi,Adds C + + support to the project so that C + + source files can be built,सी समर्थन को सी श्रोत फ़ाइल बिल्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011986,en,hi,Require Package:,पैकेजः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011989,en,hi,Anjuta plugin project that uses libanjuta framework,Anjuta प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011990,en,hi,"Project name must not contain spaces, because it will be the name of the project build target (executable, library etc.)",परियोजना नाम नहीं नाम का लक्ष्य,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011992,en,hi,Display title of the plugin,प्रदर्शक का प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011996,en,hi,Plugin class name,प्लगइन वर्ग नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0011998,en,hi,"Comma separated, other plugins that this plugin depends on. It could be either primary interface name or plugin location (library: class)",विराम चिह्न अन्य यह प्लगइन डिपेंड्स पर प्राथमिक अतरफलक नाम या प्लगइन स्थान वर्ग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012006,en,hi,Shell values to watch,शेल को,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012028,en,hi,Generic JavaScript,जेनेरिक जावास्क्रिप्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012051,en,hi,GTK + (Application),GTK अनुप्रयोग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012080,en,hi,Export snippets from the database,निर्यात से डाटाबेस,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012095,en,hi,Snippet Name:,स्निपेट नामः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012106,en,hi,Keywords are used for better searching of the snippets. They should be relevant to the snippet content. Type them separated by a single space.,बीजशब्द प्रयुक्त के लिए खोज रहा है का संबंधित को प्रकार द्वारा a एकल स्थान.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012126,en,hi,Header,शीर्षिका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012132,en,hi,Highlight syntax,उभारें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012138,en,hi,Show marks,दिखाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012139,en,hi,Show right margin,दिखाएँ दायाँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012154,en,hi,Subversion Preferences,सबवर्सन वरीयताएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012177,en,hi,Whole Project,परियोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012179,en,hi,Diff Selected Revisions,डिफ चयनित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012181,en,hi,Copy files / folders,नक़ल फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012218,en,hi,Merge changes into your working copy,मिलाएं कॉपी करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012228,en,hi,Subversion: File will be added on next commit.,सबवर्सन फ़ाइल पर.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012238,en,hi,Subversion: Retrieving log...,सबवर्सन पुनःप्राप्त कर रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012240,en,hi,Subversion: Retrieving file...,सबवर्सन पुनःप्राप्त कर रहा है फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012254,en,hi,Subversion: Update complete.,सबवर्सन अद्यतन पूर्ण.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012258,en,hi,Valid from:,तब से वैधः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012259,en,hi,Valid until:,तब तक वैधः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012262,en,hi,Added:% s,जोड़ा गया से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012263,en,hi,Resolved:% s,हल से.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012278,en,hi,% s:% d files scanned out of% d,से. d फ़ाइल बाहर का d,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012290,en,hi,Use currently selected profile in GNOME terminal,उपयोग चयनित इंच गनोम टर्मिनल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012295,en,hi,Ctrl - Z,Ctrl-Z,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012301,en,hi,Save all files,सभी फ़ाइल सहेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012308,en,hi,Standard error:,मानक त्रुटिः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012334,en,hi,Error when loading external tools,त्रुटि उपकरण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012339,en,hi,Selected URI in the file manager plugin,चयनित यूआरआई इंच फ़ाइल प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012344,en,hi,Selected file name without extension in the file manager plugin,चयनित फ़ाइल नाम इंच फ़ाइल प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012351,en,hi,Selected file name without extension in the project manager plugin,चयनित फ़ाइल नाम इंच प्लगइन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012361,en,hi,Same as output,आउटपुट जैसे समान,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012381,en,hi,Do you prefer coffee to tea? Check it out.,को जाँच बाहर.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012387,en,hi,_ Lock Dock Layout,बंद करें डॉक ले-आउट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012424,en,hi,Do not load last session on startup,नहीं अंतिम सत्र पर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012425,en,hi,Do not load last project and files on startup,नहीं अंतिम और फ़ाइल पर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012428,en,hi,Dock switcher style:,डॉक शैलीः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012446,en,hi,Indent:,हाशियाः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012463,en,hi,Comment / Uncomment,टिप्पणी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012510,en,hi,"C + + and Java support plugin for code completion, auto - indentation, etc.",सी और जावा समर्थन प्लगइन के लिए कोड स्वचालित.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012523,en,hi,Allow to execute program without debugger.,स्वीकारें को कार्यान्वित करें प्रोग्राम.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012537,en,hi,Gjs repository 's directory:,से. निर्देशिका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012538,en,hi,Min character for completion,न्यून. के लिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012555,en,hi,Font size,फ़ॉन्ट आकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012557,en,hi,Font size in points,पाइंट्स में फ़ॉन्ट आकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012559,en,hi,Offset of text above the baseline (below the baseline if rise is negative),पाठ को बेसलाइन (आधार पंक्ति) से ऊपर रखें (यदि व = द्धि ऋणात्मक हो तो आधार पंक्ति से नीचे रखें),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012560,en,hi,Strikethrough,लिखकर काट दें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012564,en,hi,Scale,मापक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012596,en,hi,A graph painter for the inheritance of the classes.,A के लिए का वर्ग.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012814,en,hi,Module target name must be of the form 'xxx. la',साझेदारी लक्ष्य नाम का फ़ॉर्म,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012875,en,hi,_ Check Project,प्रोजेक्ट साफ करें (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012876,en,hi,Check whole project,पूरा प्रोजेक्ट साफ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0012887,en,hi,_ Check Module,साफ मोड्यूल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0013582,en,hi,Append signed - off - by line,अंत में जोड़ें का द्वारा लकीर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0013785,en,hi,Python Indentation,स्मार्ट हाशिया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0013862,en,hi,Makefile backend,Makefiles,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0013910,en,hi,Folder properties,मोड्यूल गुण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0013933,en,hi,"Are you sure you want to remove the element ""% s"" from the project?",को मिटाएँ अनुसरण कर रहा है से नहीं नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0013983,en,hi,_ Folder name:,मोड्यूल नामः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0014156,en,hi,The program is already running. Do you want to stop it before restarting a new instance?,प्रोग्राम है कार्यशील को फिर से चालू करें?,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0016160,en,hi,Add Snippets Group...,जोड़ें स्निपेट समूह,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026005,en,hi,View local Anjuta documentation,मैन दस्तावेज़ीकरण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026305,en,hi,The end index of the AtkHyperlink object,एटीके-हायपरलिंक वस्तु की अंतिम सूची,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026317,en,hi,color chooser,रंग चयनक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026323,en,hi,dial,डायल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026340,en,hi,menu,मेन्यू,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026361,en,hi,statusbar,स्थिति-पट्टी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026362,en,hi,table,सारणी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026377,en,hi,header,शीर्षिका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026382,en,hi,autocomplete,स्वतः समाप्त,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026384,en,hi,embedded component,एंबेडेड घटक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026390,en,hi,page,पृष्ठ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026395,en,hi,input method window,इनपुट विधि विंडो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026422,en,hi,Accessible Table Caption Object,पहुँच योग्य सारणी शीर्षक वस्तु,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0026425,en,hi,The number of links which the current AtkHypertext has,कड़ी की संख्या जो कि वर्तमान एटीके-हायपरटेक्स्ट में हैं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027666,en,hi,Congratulations! You have finished all Atomix levels.,बधाई! आपने एटामिक्स के सभी स्तर पार कर लिये,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027695,en,hi,AT - SPI Registry,एटी-एसपीआई रजिस्ट्री,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027709,en,hi,Balsa Mail Client,बल्सा फिल्टर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027732,en,hi,Unable to load message body to match filter,संदेश की बाडी को मैच फिल्टर में लोड करने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027736,en,hi,Error when trashing messages:% s,संदेश को कचरे में भेजते हुए गलती,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027774,en,hi,request _ Message Disposition Notification by default,संदेश प्राप्ति को नोटिफिकेशन का निवेदन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027804,en,hi,Accept _ Save,ग्रहण करो &-सेव,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027806,en,hi,Connection to% s timed out. Abort?,% s से सम्बन्ध बंद हो गया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027813,en,hi,signing and encryption failed,SSL असफल:% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027816,en,hi,could not create context,अस्थायी फाईल% s बनाने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027830,en,hi,Cannot load mailbox% s,मेलबाक्स% s को लोड नहीं कर सका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027842,en,hi,% s: Opening% s Refcount:% d,LibBalsaMailboxPop3:% s खोल रहा है रेफकाउन्ट:% d,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027845,en,hi,Cannot write to temporary file% s,अस्थाई फाईल% s को खोलने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027851,en,hi,"Failed to sync mailbox ""% s""",पत्र डालने का सन्दूक खोजने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027857,en,hi,Mailbox does not exist.,मेलबाक्स बन गया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027866,en,hi,% s: could not open% s.,% s नहीं खोल पाया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027876,en,hi,Retrieving Message% d of% d,% d का% d मैसेज निकाल रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027888,en,hi,russian,रसियन (केओआई),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027892,en,hi,Cannot open% s:% s,मेलबाक्स फिर से नहीं खोल पाया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027922,en,hi,Saving sent message to% s failed:% s,पढ़े हुए मैसेजों को पहुंचा रहा है% s पर...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027939,en,hi,_ User Name:,उपयोगकर्ता का नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027956,en,hi,"Couldn 't create a directory: mkdir () failed on pathname ""% s"", with error ""% s"".","डायरेक्टरी नहीं बना पाया: mkdir () पाथनाम ""% s"" पर असफल रहा",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027959,en,hi,This will exit Balsa. Do you really want to do this?,इससे आप बाल्सा से बाहर आ जाएंगे क्या आप वाकई ये करना चाहते हैं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027960,en,hi,GnomeCard Address Book,जीनोम कार्ड पता किताब,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027974,en,hi,Mail Files,पत्र फाइलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027979,en,hi,Your _ password:,पासवर्ड,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027986,en,hi,Balsa E - mail reader,बल्सा फिल्टर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0027994,en,hi,LDAP Address Book,LDAP पता किताब,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028004,en,hi,Delete entry,कचरे में भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028011,en,hi,_ Re - Import,पुन आयात करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028018,en,hi,Suggest complete addresses:,एक से ज्यादा पतों से इस तरह व्यवहार करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028029,en,hi,_ User Address Book DN,पता किताब चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028034,en,hi,Opening remote mailbox% s. The _ password for% s @% s:,रिमोट (सुदूर) पत्र डालने के सन्दूक को खोलें% s% s @% s के लिए पासवर्ड हैः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028040,en,hi,Move to Trash failed:% s,कचरे में भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028045,en,hi,Forward _ Inline...,आगे भेजें लकीर के अन्दर वाले को...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028046,en,hi,_ Store Address...,पता बचाओ....,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028049,en,hi,T _ oggle,टागल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028051,en,hi,_ Unread,नहीं पढ़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028055,en,hi,"Moved to ""% s"".",कचरे में भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028067,en,hi,Select message part to display,इस अंश को पाने के लिए सूचना भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028069,en,hi,Not found,होस्ट नहीं मिला,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028070,en,hi,Previous,पिछला,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028071,en,hi,Next,अगला,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028077,en,hi,"Could not access message% u in mailbox ""% s"".",पत्र डालने का सन्दूक खोजने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028079,en,hi,alternative parts,अंश को बचाओ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028087,en,hi,_ Copy to folder...,इस फोल्डर में कापी करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028088,en,hi,Could not create URI for% s,% s नहीं बचाया जा सकाः% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028107,en,hi,Unlink% s:% s,% s पर% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028109,en,hi,Error loading attached image:% s,% s को लोड करने में गलती:% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028123,en,hi,Sending the external body request failed:% s,पढ़े हुए मैसेजों को पहुंचा रहा है% s पर...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028124,en,hi,Reply...,उत्तर दें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028138,en,hi,First Name,पहला नामः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028146,en,hi,Type:,प्रकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028154,en,hi,Match when one of these flags is set:,मिलान करें जब इनमें से कोई चिन्ह (फ्लैग) चालू हो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028176,en,hi,_ Remove,हटाओ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028179,en,hi,Match when message date is in the interval:,मिलान करें जब तारीख इस (इन्टरवैल) में हो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028200,en,hi,Run program:,प्रोग्राम चलाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028201,en,hi,Send to Trash,कचरे में भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028234,en,hi,_ Update,अपडेट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028254,en,hi,_ Folder name:,सबफोल्डर का नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028271,en,hi,Remove from list and _ disk,सूची और डिस्क को हटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028279,en,hi,Rename of% s to% s failed:% s,पुन नामकरण% s का% s में असफल:% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028286,en,hi,_ Delete messages from server after download,डाउनलोड के बाद सर्वर से आने वाले संदेशों को मिटा दें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028289,en,hi,Fi _ lter Command:,फिल्टर का नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028293,en,hi,Always,हमेशा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028294,en,hi,_ Subscribe for new mail check,नई मेल के लिए जांच समर्थ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028296,en,hi,Scanning% s. Please wait...,पत्र डालने का सन्दूक% s खुल रहा है कपया प्रतीछा करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028316,en,hi,"The path ""% s"" does not lead to a mailbox.",मेलबाक्स% s वैध नहीं लगता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028320,en,hi,Get new mail on startup,स्टार्टअप नयी चिट्ठी लाओ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028325,en,hi,Opens first unread mailbox,पहला अपठित मेलबाक्स खोलो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028367,en,hi,Local MH mailbox...,लोकल एम एच मेलबाक्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028371,en,hi,"New ""MH"" mailbox...",लोकल एम एच मेलबाक्स,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028394,en,hi,_ Contents,जारी रखें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028395,en,hi,About Balsa,बल्सा:% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028396,en,hi,Select _ All,सबको छाँटें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028404,en,hi,_ Select All,सबको छाँटें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028418,en,hi,Reply to all recipients of the current message,सभी वर्तमान काल के संदेश भेजने वालों को उत्तर दें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028424,en,hi,_ Forward...,आगे बढ़ाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028428,en,hi,Forward _ inline...,इनलाईन को आगे भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028448,en,hi,_ Toggle Flag,चिन्हित किए हुओं को टागल करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028451,en,hi,Toggle deleted flag,नए संदेश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028462,en,hi,_ Wrap,लपेटें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028480,en,hi,No threading at all,कोई थ्रेडिंग नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028498,en,hi,Checking Mail...,डाक जाँची जा रही है...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028502,en,hi,Sending error:% s,% s त्रुटि भेजी जा रही है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028509,en,hi,S _ ubject,विषय,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028515,en,hi,No duplicates found,एफ टी पी साईट:% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028521,en,hi,Close the message window,विंडो बनाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028526,en,hi,Message from% s:% s,नया संदेश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028543,en,hi,Remote mailbox servers,रिपोर्ट मेलबाक्स सरवर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028552,en,hi,Incoming,अंदर आने वाले,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028560,en,hi,Play sound,आवाज प्ले करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028563,en,hi,Quoted and flowed text,कोटेड तथा फ्लोड टेक्स्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028574,en,hi,Word wrap,शव्द,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028579,en,hi,Copy outgoing messages to sentbox,बाहर भेजे जाने वाले संदेशों को सेंटवाक्स में कापी करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028591,en,hi,Automatically view message when mailbox opened,मेलबाक्स खुलने पर स्वत संदेश को दिखाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028604,en,hi,Quote level% d color,रोडेट लेवल% d रंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028611,en,hi,Subject font:,विषय,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028612,en,hi,Sorting and threading,थ्रेडिंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028613,en,hi,Default sort column:,मिटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028644,en,hi,Show in list,कंसोल में छापें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028652,en,hi,Close message window,विंडो बनाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028654,en,hi,Page% d of% d,% d का% d मैसेज निकाल रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028681,en,hi,_ Italian,इटालियन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028684,en,hi,_ Latvian,लटावियन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028693,en,hi,_ Spanish,स्पेनिश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028698,en,hi,_ Language,भाषा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028701,en,hi,Include a file,फाइल लगाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028702,en,hi,_ Attach File...,फाइल जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028703,en,hi,Attach a file,फाइलें जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028719,en,hi,Select _ Identity...,आयडेंटिटी चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028720,en,hi,Select the Identity to use for the message,संदेश के लिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028721,en,hi,_ Edit with Gnome - Editor,जीनोम एडिटर से एडिट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028725,en,hi,_ Queue,क्यू,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028730,en,hi,Too _ lbar,उपकरण बार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028740,en,hi,(No name),कोई हेडर नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028755,en,hi,F _ rom:,यहाँ से,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028756,en,hi,S _ ubject:,विषय,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028761,en,hi,No subject,विषय,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028776,en,hi,Could not save message.,मैसेज को अपेण्ड नहीं कर पाया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028792,en,hi,Message could not be sent,% s नहीं खोल पाया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028795,en,hi,Send failed:% s% s,क्लोज असफल रहा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028798,en,hi,Message postponed.,सन्देश,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028819,en,hi,No address book selected....,कोई पता किताब नहीं चुनी....,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028831,en,hi,Next unread,अगला अपठित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028854,en,hi,Toolbar options,उपकरण बार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028856,en,hi,Preview,प्रीव्यू,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028886,en,hi,Rings Chart,रिंग चार्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028896,en,hi,Could not analyze volume.,वॉल्यूम का विश्लेषण नहीं कर सका.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028899,en,hi,translator - credits,"राजेश रंजन (rranjan @redhat. com, rajeshkajha @yahoo. com)",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028968,en,hi,Select _ devices to include in file system scan:,फाइलसिस्टम स्कैन में शामिल करने के लिए डिवाइस चुनेंः (_ d),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0028975,en,hi,Statusbar is Visible,प्रस्थिति पट्टी दृश्यमान है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029013,en,hi,View as Rings Chart,बतौर रिंग चार्ट देखें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029014,en,hi,View as Treemap Chart,ट्रीमैप चार्ट रूप में देखें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029017,en,hi,Too many arguments. Only one directory can be specified.,कई वितर्क. केवल एक निर्देशिका निर्दिष्ट की जा सकती है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029033,en,hi,Scan,स्कैन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029055,en,hi,_ User Name:,उपयोक्ता नाम (_ U):,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029237,en,hi,"Could not scan some of the folders contained in ""% s""","फ़ोल्डर ""% s"" स्कैन नहीं कर सका या कुछ इसके फ़ोल्डर को जो यह समाहित करता है.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029247,en,hi,IM Viewer,आईएम दर्शक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029267,en,hi,No results were found.,कुछ नही मिला,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029275,en,hi,Location:,अनुप्रयोग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029282,en,hi,E - Mail,"ई-मेलInstant-Messagegtk-infoShow Information ""),"" gtk-info",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029289,en,hi,Date Received:,पाने की तिथि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029300,en,hi,Site:,साइटः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029306,en,hi,Folders,फ़ोल्डर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029317,en,hi,Desktop Search,डेस्कटॉप खोज,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029318,en,hi,No Recent Searches,हालिया कोई खोज नहीं (_ S),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029327,en,hi,Type in search terms,खोजने के लिए पद टाईप करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029330,en,hi,Search service started,खोज सेवा चल नहीं रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029347,en,hi,Search for data on your desktop,डेस्कटॉप पर डॉटा के लिए खोजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029367,en,hi,Type:,प्रकारः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029373,en,hi,Native _ format,देशी प्रारूप (_ f),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029380,en,hi,Display debug statements on stdout for Brasero burn library,ब्रैसेरो बर्न लाइब्रेरी के लिए stdout पर डिबग कथन दिखाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029398,en,hi,Analysing files,फाइल विश्लेषित कर रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029404,en,hi,% s element could not be created,% s तत्व को बनाया नहीं जा सकाgrafted,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029408,en,hi,The format of the disc image could not be identified,इस डिस्क छवि का प्रारूप नहीं पहचाना जा सका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029409,en,hi,Please set it manually,कृपया इसे दस्ती रूप से सेट करें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029418,en,hi,Burning DVD (Simulation),डीवीडी लिख रहा है (सिमुलेशन),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029441,en,hi,Simulation of video disc burning,विडियो डिस्क बर्निंग का सिमुलेशन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029459,en,hi,Please replace the disc with a recordable CD.,कृपया डिस्क को किसी रिकार्ड करने योग्य डिस्क से बदलें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029483,en,hi,A file could not be created at the location specified for temporary files,कोई फ़ाइल को नहीं बनाया जा सका अस्थायी फ़ाइल के लिए बताए स्थान पर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029493,en,hi,The disc in the drive holds data.,इस ड्राइव में डिस्क में आँकड़ा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029501,en,hi,CD - RW audio discs may not play correctly in older CD players.,CD-RW ऑडियो डिस्क पुराने सीडी प्लेयर में ठीक से बज नहीं सकता है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029502,en,hi,Recording audio tracks on a rewritable disc is not advised.,फिर लिखने योग्य डिस्क में ऑडियो ट्रैक की रिकॉर्डिंग सलाहकारी नहीं है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029503,en,hi,Do you want to continue with full Windows compatibility disabled?,क्या आप पूर्ण विंडोज़ सुसंगतता के निष्क्रिय रहने के साथ जारी रहना चाहते हैं?,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029524,en,hi,_ View Log,लॉग देखें (_ V),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029547,en,hi,Please insert a recordable CD or DVD if you don 't want to write to an image file.,कृपया एक रिकार्ड करने योग्य सीडी या डीवीडी घुसाएँ यदि आप किसी छवि फ़ाइल पर लिखना नहीं चाहते हैं.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029555,en,hi,This is not supported by the current active burning backend.,यह मौजूदा सक्रिय लेखन बैकेंड के द्वारा समर्थित नहीं है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029578,en,hi,Disc Burning Setup,डिस्क बर्निंग सेटअप,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029581,en,hi,"There is only one selected file (""% s""). It is the image of a disc and its contents can be burnt.","केवल एक चुनी (""% s"") फाइल है. यह डिस्क की छवि है और इसकी सामग्री लिखी जा सकती है.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029589,en,hi,Burning CD / DVD,CD/DVD लिख रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029605,en,hi,Unknown song,अज्ञात गीतby,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029607,en,hi,SVCD image,एसवीसीडी छवि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029626,en,hi,"Brasero will simulate the burning and if it is successful, go on with actual burning after 10 seconds","ब्रैसेरो लिखने का सिमुलेट करेगा और यदि यह सफल है, 10 सेकेंड में वास्तविक लेखन करें",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029644,en,hi,"If you choose to keep it, programs may not be able to recognize the file type properly.","यदि आप इसे बनाए रखना चाहते हैं, प्रोग्राम फ़ाइल प्रकार को ठीक से पहचानने में समर्थ नहीं है.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029657,en,hi,Select Disc Image,डिस्क छवि चुनें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029661,en,hi,Menu,मेन्यू,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029666,en,hi,"% s,% d%% done","% s,% d%% संपन्न",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029688,en,hi,The file is not stored locally,फाइल स्थानीय रूप से जमा नहीं है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029695,en,hi,Close this notification window,यह अधिसूचना विंडो बंद करेंDisc Image,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029700,en,hi,Vertical gradient,लंवबत ढालDisc Image,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029701,en,hi,_ Image,चित्र (_ I) Disc Image,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029712,en,hi,Set Bac _ kground Properties,पृष्ठभूमि गुण सेट करें (_ k),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029720,en,hi,The project could not be opened,परियोजना खोली नहीं जा सकी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029744,en,hi,DVD - ROM,डीवीडी-रोम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029757,en,hi,Audio and data% s in% s,% s ध्वनि और आँकड़ा% s में,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029759,en,hi,Data% s in% s,% s आँकड़ा% s में,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029762,en,hi,Blank disc (% s),रिक्त डिस्क (% s),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029802,en,hi,Disc name,डिस्क नाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029808,en,hi,Blank this CD or DVD disc,इस सीडी या डीवीडी डिस्क को खाली करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029820,en,hi,E _ ject,बाहर निकालें (_ j),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029822,en,hi,_ Blank...,खाली (_ B)...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029836,en,hi,translator - credits,संगीता कुमारी (sangeeta09 @gmail. com),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029841,en,hi,Brasero Disc Burner,ब्रेसेरो डिस्क बर्नर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029860,en,hi,"The pane to display with data projects. It should be one of the following: ""Chooser"" or ""Search"".","आँकड़ा परियोजना के साथ दिखाने के लिए पट्टी. इसे निम्न में एक होना चाहिएः ""Chooser"" या ""Search"".",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029872,en,hi,Default width for video preview.,वीडियो पूर्वावलोकन के लिए तयशुदा चौड़ाई.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029875,en,hi,Should brasero filter hidden files,क्या ब्रैसेरो को छुपी फ़ाइलों को फिल्टर करना चाहिए.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029878,en,hi,"Should brasero replace symbolic links by their target files in the project. Set to true, brasero will replace symbolic links.","क्या ब्रैसेरो को परियोजना में लक्षित फाइलों के द्वारा सांकेतिक कड़ी से बदला जाना चाहिए. सही पर सेट करें, ब्रैसेरो सांकेतिक कड़ी को बदलेगा.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029893,en,hi,Pause,ठहरें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029916,en,hi,The disc is ready for use.,डिस्क प्रयोग के लिए तैयार है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029926,en,hi,An unknown error occured,एक अनजान त्रुटि उत्पन्न हुई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029959,en,hi,Song start:,गीत आरंभः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0029991,en,hi,Al _ ways Add Such File,ऐसी फाइलें हमेशा जोड़े (_ w),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030010,en,hi,Movies,मूवी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030018,en,hi,Set a vertical layout,लंबबत खाका सेट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030022,en,hi,Start and stop playing,चलाना आरंभ करें या रोकें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030031,en,hi,Add files to the project,परियोजना में फ़ाइल जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030035,en,hi,_ Burn...,लिखें (_ B)...,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030036,en,hi,Burn the disc,डिस्क लिखें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030061,en,hi,"Emptying a project will remove all files already added. All the work will be lost. Note that files will not be deleted from their own location, just no longer listed here.","किसी परियोजना को खाली करना जोड़ी गई सभी पहले की फाइलों को हटा देगा. सभी कार्य नष्ट हो जाएंगे. नोट करें कि फाइल जो मिटाई नहीं जाएगी इनके अपने स्थान से, बस अब केवल सूचीबद्ध नहीं है.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030073,en,hi,Save project as Brasero audio project,बतौर ब्रैसेरो ऑडियो परियोजना सहेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030074,en,hi,Save project as a plain text list,बतौर सादा पाठ सूची परियोजना सहेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030089,en,hi,New _ Video Project,नया वीडियो परियोजना (_ V),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030134,en,hi,Open a md5 file,एक md5 फाइल खोलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030137,en,hi,Estimated size:% s,अनुमानित आकारः% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030153,en,hi,PATH TO DEVICE,युक्ति का पथ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030155,en,hi,PATH TO COVER,आवरण का पथ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030173,en,hi,Analysing track% 02i,ट्रैक% 02i का विश्लेषण कर रहा है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030200,en,hi,"Enable ""- immed"" flag (see cdrecord manual)","""-immed"" फ्लैग सक्रिय करें (देखें cdrecord manual)",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030219,en,hi,"""% s"" could not be opened (% s)","""% s"" खोला नहीं जा सका (% s)",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030228,en,hi,"Libisofs reported an error while creating directory ""% s""","Libisofs ने एक त्रुटि दी जब ""% s"" निर्देशिका बना रहा है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030234,en,hi,File Downloader,फ़ाइल डाउनलोडकर्ता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030238,en,hi,Normalize allows to set consistent sound levels between tracks,सामान्यीकरण ट्रैक के बीच सतत ध्वनि स्तर सेट करने की छूट देता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030241,en,hi,Error while getting duration,अवधि पाने के दौरान त्रुटि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030247,en,hi,"If you split the track, the size of the new track will be shorter than 6 seconds and will be padded.","यदि आप ट्रैक को बांटते हैं, नए ट्रैक का आकार 6 सेकेंड से कम छोटा होगा और पैड किया जाएगा.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030249,en,hi,The track wasn 't split.,ट्रैक बांटा नहीं गया था.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030254,en,hi,_ Don 't split,मत बाँटें (_ D),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030259,en,hi,Method to be used to split the track,ट्रैक बांटने के लिए प्रयुक्त विधि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030263,en,hi,Split track for each silence,हर मौन के लिए ट्रैक बांटें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030274,en,hi,Merge a selected slice with the next selected one,एक चुना गया स्लाइस मिलाएँ दूसरे चयनित के साथ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030289,en,hi,_ Eject,बाहर निकालें (_ E),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030310,en,hi,Allows to check file integrities on a disc,डिस्क पर फाइल अखंडता को जाँचने की अनुमति दें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030320,en,hi,Song titles,गीत शीर्षक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030324,en,hi,Substitute text,पाठ प्रतिस्थापित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030327,en,hi,at the begining,"शुरू मेंInsertInsert ""[Entry]"" at the end",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030328,en,hi,at the end,अंत में,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030332,en,hi,{number},{संख्या},iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030335,en,hi,Remove the selected videos from the project,परियोजना से चयनित वीडियो हटाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030336,en,hi,Do you want to search for video files inside the directory?,क्या आप निर्देशिका के भीतर वीडियो फाइल खोजना चाहते हैं?,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030511,en,hi,Data DVD successfully burned,आँकड़ा डीवीडी सफलतापूर्वक लिखा गया,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030526,en,hi,Make _ Several Copies,अन्य कॉपी बनाएँ (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030573,en,hi,The drive cannot burn,ड्राइल बंद नहीं किया जा सकता है (% s),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030594,en,hi,%. 1f× (BD),%. 1f x (BD),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030630,en,hi,Select Disc Image,डिस्क छवि चुनेंdisc,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030779,en,hi,Create a copy of this CD or DVD,इस सीडी या डीवीडी डिस्क की कॉपी करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030795,en,hi,_ Blank...,खाली (_ B),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030825,en,hi,"Whether to use the ""- use - the - force - luke = dao"" flag with growisofs","क्या ""-use-the-force-luke = dao"" फ्लैग को growisofs के साथ प्रयोग करना है.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030927,en,hi,Burn as _ Image,छवि लिखें (_ i),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030988,en,hi,_ Burn...,लिखें (_ B),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0030999,en,hi,"If you choose to create a new empty project, the file selection will be discarded.","यदि आप नई परियोजना बनाने के लिए चुनते हैं, सभी परिवर्तन नष्ट हो जाएंगे.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031001,en,hi,_ Keep File Selection,मौज़ूदा स्थान बनाए रखें (_ K),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031044,en,hi,Brasero — New Data Disc Project,ब्रैसेरो-नया डाटा डिस्क परियोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031079,en,hi,Open an MD5 file,एक md5 फाइल खोलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031103,en,hi,PATH TO IMAGE,युक्ति का पथ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031135,en,hi,Copies any disc to a disc image,readcd का प्रयोग डिस्क छवि बनाने के लिए करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031165,en,hi,"libisofs reported an error while creating directory ""% s""","Libisofs ने एक त्रुटि दी जब ""% s"" निर्देशिका बना रहा है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031180,en,hi,Converts any song file into a format suitable for audio CDs,Vob किसी वीडियो फाइल को वीडियो DVD के लिए उपयुक्त प्रारूप में ट्रांसकोड करने की छूट देता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031309,en,hi,Burn the contents of the burn: / / URI,burn:// URI की अंतर्वस्तु लिखें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0031541,en,hi,Unknown song,अज्ञात गीत,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0032288,en,hi,Brasero notification,ब्रैसेरो सूचना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0032410,en,hi,Make _ Several Copies,कई कॉपी बनाएँ (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0032460,en,hi,The drive cannot burn,ड्राइल बंद नहीं किया जा सकता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0032919,en,hi,Brasero — New Data Disc Project,ब्रैसेरो — नया डाटा डिस्क परियोजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033011,en,hi,"libisofs reported an error while creating directory ""% s""","libisofs ने एक त्रुटि दी जब ""% s"" निर्देशिका बना रहा है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033147,en,hi,"Whether to use the ""- use - the - force - luke = dao"" flag with growisofs","क्या ""-use-the-force-luke = dao"" फ्लैग को growisofs के साथ प्रयोग करना है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033197,en,hi,Please install the following required applications and libraries manually and try again:,कृपया निम्न आवश्यक अनुप्रयोगों और लायब्रेरीज़ को दस्ती रूप से अधिष्ठापित और फिर कोशिश करेंः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033276,en,hi,If you import them you will be able to see and use them once the current selection of files is burned.,यदि आप उन्हें आयात करते हैं तो आप एक बार लिखे हुए फाइल के मौजूदा चयन को देख और उन्हें उपयोग कर सकेगे.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033288,en,hi,The disc could not be ejected though it needs to be removed for the current operation to continue.,डिस्क बाहर निकाला नहीं जा सकता हालांकि इसे हटाना जरुरी है मौजूदा प्रक्रिया को जारी रखने के लिए.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033599,en,hi,Align right,क्रमबद्ध दायाँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033615,en,hi,% s element could not be created,% s तत्व को बनाया नहीं जा सका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033657,en,hi,Copies any disc to a disc image,कोई डिस्क डिस्क छवि को नक़ल बनाता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033729,en,hi,Converts any song file into a format suitable for audio CDs,ऑडियो सीडी के लिए उपयुक्त प्रारूप में किसी भी गीत फ़ाइल में बदलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033791,en,hi,"Some of the selected songs are suitable for creating DTS tracks. This type of audio CD track provides a higher quality of sound but can only be played by specific digital players. Note: if you agree, normalization will not be applied to these tracks.","चयनित गीतोँ में से कुछ डीटीएस ट्रैकस बनाने के लिए उपयुक्त हैं. इस प्रकार का ऑडियो ट्रैक उच्च गुणवत्ता ध्वनि प्रदान करता है लेकिन केवल विशिष्ट डिजिटल प्लेयर्स में बजाया जायेगा नोटः अगर आप सहमत हैं, इन ट्रैकस पर सामान्यकरण नहीं लागू होगा.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033813,en,hi,PATH TO IMAGE,छवि का पथ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033817,en,hi,Burn the contents of the burn: / / URI,बर्न की अंतर्वस्तु लिखेंः// URI,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033839,en,hi,Burn as _ Image,बतौर छवि लिखें (_ I),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033939,en,hi,"If you choose to create a new empty project, the file selection will be discarded.","यदि आप नई रिक्त परियोजना बनाने के लिए चुनते हैं, सभी फ़ाइल चयन नष्ट हो जाएंगे.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0033941,en,hi,_ Keep File Selection,फ़ाइल चयन बनाए रखें (_ K),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0034022,en,hi,{number},{संख्या}/,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0038851,en,hi,Your _ email address:,आपका ईमेल पता (_ e):,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0038867,en,hi,This key determines the GTK + module to load for crash collecting support.,यह कुंजी GTK + मॉड्यूल को निर्धारित करता है क्रैश संग्रह समर्थन के लिए लोड के लिए.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0038875,en,hi,Text file to include in the report,रपट मे समाहित करने हेतु पाठ फ़ाइल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0038893,en,hi,Server returned bad state. This is most likely a server issue and should be reported to bugmaster @ gnome. org% s,सर्वर ने गलत स्थिति लौटाया. यह संभवतः सर्वर मुद्दा है और bugmaster @gnome. org को रिपोर्ट की जानी चाहिए% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0038917,en,hi,Either - - appname or - - package arguments are required.,या तो-- appname या-- package वितर्क जरूरी है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0038934,en,hi,GDB could not be found on your system. Debugging information will not be obtained.,आपके तंत्र में GDB नहीं मिल सका. डिबगिंग सूचना प्राप्त नहीं की जा सकेगी.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039202,en,hi,Caribou Preferences,Caribou प्राथमिकताएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039217,en,hi,Automatically restart scanning after item activation,मद सक्रियकरण के बाद स्वतः स्कैनिंग फिर आरंभ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039221,en,hi,Three,तीन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039226,en,hi,"Switch device, keyboard or mouse","युक्ति, कुंजीपट या माउस स्विच करें",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039240,en,hi,Button 3,बटन 3,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039257,en,hi,Minimal opacity of keyboard,कुँजीपट की न्यूनतम पारदर्शिता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039259,en,hi,Maximal opacity of keyboard,कुँजीपट की अधिकतम पारदर्शिता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039277,en,hi,Automatically restart scanning after item activation,मद सक्रियन के बाद स्वतः स्कैनिंग फिर आरंभ करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039313,en,hi,Minimal opacity of keyboard,कुंजीपटल के लिए न्यूनतम अपारदर्शिता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039315,en,hi,Maximal opacity of keyboard,कुंजीपटल के लिए अधिकतम अपारदर्शिता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039322,en,hi,Set to True to show countdown when taking a photo,तस्वीर लेने के दौरान गिनती दिखाने के लिए सही पर सेट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039324,en,hi,The device which points to the webcam (e. g. / dev / video0),युक्ति जो वेबकैम पर इंगित करता है (उदा./dev/video0),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039369,en,hi,Burst mode,बर्स्ट विधि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039374,en,hi,Vertical Flip,लंबवत झटकें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039383,en,hi,Please refer to the help for further information.,आगे सूचना के लिए मदद देखें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039403,en,hi,translator - credits,राजेश रंजन (rranjan @redhat. com; rajeshkajha @yahoo. com),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039412,en,hi,Move All to Trash,सभी रद्दी में भेजें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039417,en,hi,_ Wide mode,विस्तार विधि (_ W),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039437,en,hi,output version information and exit,आउटपुट संस्करण सूचना और निकास,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039443,en,hi,Set to True to show countdown when taking a photo,फोटो लेने के दौरान गिनती दिखाने के लिए सही पर सेट करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039467,en,hi,"If set to true, Cheese will start up in a wide mode with the image collection placed on the right - hand side. Useful with small screens.","यदि सही पर सेट किया गया है, चीज़ व्यापक विधि में आरंभ होगा दाहिने हिस्से में छवि संग्रह के साथ. छोटे स्क्रीन के साथ उपयोगी.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039680,en,hi,_ Contents,मदद सामग्री (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039682,en,hi,Save _ As...,ऐसे सहेजें (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039685,en,hi,_ Wide Mode,विस्तार विधि (_ W),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039701,en,hi,Previous,पिछला प्रभाव,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039720,en,hi,Shutter sound,शटर आवाज,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039731,en,hi,Output version information and exit,आउटपुट संस्करण सूचना और निकास,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039735,en,hi,No effects found,कोई प्रभाव नहीं मिला,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039781,en,hi,"The height of the image captured from the camera, in pixels","कैमरा से लिया गया छवि की ऊंचाई, पिक्सेल में",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0039783,en,hi,"The width of the video captured from the camera, in pixels","कैमरा से लिया गया वीडियो की चौड़ाई, पिक्सेल में",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040057,en,hi,_ Contents,विषयवस्तु (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040542,en,hi,X coordinate of the actor,कर्ता का X निर्देशांक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040546,en,hi,Width of the actor,कर्ता की चौड़ाई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040603,en,hi,Rotation Angle Z,घुमाव कोण Z,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040613,en,hi,X coordinate of the anchor point,एंकर बिंदु का X निर्देशांक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040623,en,hi,Actions,क्रियाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040634,en,hi,The actor 's background color,पेटी का पृष्ठभूमि रंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040643,en,hi,Whether the meta is enabled,क्या मेटा सक्रिय किया हुआ है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040658,en,hi,Duration,अवधि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040664,en,hi,The alpha used by the animation,चल छवि के द्वारा प्रयुक्त अल्फा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040676,en,hi,Vertical,खड़ा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040680,en,hi,Spacing between children,संतति के बीच स्थान,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040681,en,hi,Use Animations,चल छवि का प्रयोग करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040709,en,hi,Drag Handle,नियंत्रण खीचें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040710,en,hi,Drag Axis,ड्रैग अक्ष,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040722,en,hi,The type of the device,युक्ति का प्रकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040728,en,hi,The backend instance,बैकेंड उदाहरण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040734,en,hi,Make all warnings fatal,सभी चेतावनी गंभीर बनाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040760,en,hi,Cursor Visible,संकेतक दृष्टिगोचर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040802,en,hi,Final depth to apply,लागू करने के लिए अंतिम गरहाई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040803,en,hi,Final angle,अंतिम कोण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040813,en,hi,Center Z,केंद्र Z,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040817,en,hi,Y Start Scale,Y आरंभ स्केल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040821,en,hi,Color Set,रंग सेट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040885,en,hi,Realized,संभव,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040893,en,hi,Clip Rectangle,चतुर्भुज को क्लिप करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040894,en,hi,The visible region of the actor,कर्ता के लिए दिखाई देने वाले क्षेत्र,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040934,en,hi,Translation along the X axis,X अक्ष पर अनुवाद,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040941,en,hi,Transform Set,रूपांतरण सेट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040948,en,hi,Whether the actor is shown when parented,क्या कर्ता जनक होने के समय दिखाया गया है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040980,en,hi,Whether the background color is set,क्या पृष्ठभूमि रंग सेट है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0040982,en,hi,The actor 's background color,कर्ता का पृष्ठभूमि रंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041011,en,hi,The backend of type '% s' does not support creating multiple stages,प्रकार '% s' के बैकएंड वहुल चरणों में निर्माण का समर्थन नहीं करता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041021,en,hi,Vertical alignment for the actor inside the layout manager,खाका प्रबंधक के अंदर कर्ता के लिए उर्ध्वाधर संरेखण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041023,en,hi,Default vertical alignment for the actors inside the layout manager,खाका प्रबंधक के अंदर कर्ता के लिए मूलभूत उर्ध्वाधर संरेखण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041030,en,hi,Horizontal alignment of the actor within the cell,सेल के भीतर कर्ता का क्षैतिज संरेखण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041056,en,hi,The actor wrapped by this data,इस डेटा से लिपटे कर्ता,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041060,en,hi,Whether the clickable has a grab,क्या क्लिक करने योग्य के पास ग्रैब है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041061,en,hi,Long Press Duration,लंबी प्रेस अवधि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041089,en,hi,Whether each item should receive the same allocation,क्या प्रत्येक मद को एक ही आवंटन प्राप्त होना चाहिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041102,en,hi,Left attachment,बांया संलग्नक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041104,en,hi,Top attachment,शीर्ष संलग्नक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041111,en,hi,The amount of space between two consecutive columns,दो लगातार कालमों के बीच की दूरी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041113,en,hi,"If TRUE, the rows are all the same height","अगर सही है, पंक्तियाँ सभी एक ही ऊंचाई के हैं",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041116,en,hi,Unable to load image data,छवि डेटा लोड करने में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041130,en,hi,The number of axes on the device,युक्ति पर अक्षों की संख्या,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041140,en,hi,default: LTR,डिफ़ॉल्ट: LTR,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041150,en,hi,Clutter profiling flags to unset,Clutter प्रोफाइलिंग फ्लैग जिसे अनियत करना है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041199,en,hi,The type of shader used,प्रयुक्त शेडर के प्रकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041200,en,hi,The source of the constraint,प्रतिबन्ध के स्रोत,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041202,en,hi,The edge of the actor that should be snapped,कर्ता की बढ़त जो बिगाड़ा जायेगा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041205,en,hi,The offset in pixels to apply to the constraint,प्रतिबन्ध लागू करने के लिए ऑफसेट पिक्सेल में,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041229,en,hi,Whether the stage should clear its contents,क्या स्टेज इसकी सामग्री को स्पष्ट करना चाहिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041233,en,hi,The column the widget resides in,स्तंभ जिसमें विजेट रहता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041238,en,hi,Row Span,कतार स्पैन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041270,en,hi,Cursor Size,कर्सर आकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041303,en,hi,Should the timeline automatically restart,समय रेखा स्वतः पुनः आरंभ करना चाहिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041307,en,hi,Duration of the timeline in milliseconds,मिलीसेकेंड में समय रेखा के अवधि,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041345,en,hi,Start Angle,प्रारंभ कोण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041358,en,hi,Center of ellipse,दीर्घवृत्त की केंद्र,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041382,en,hi,Final scale on the Y axis,Y अक्ष पर फाइनल स्केल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041390,en,hi,Whether the surface should match the allocation,क्या सतह का आवंटन से मेल चाहिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041396,en,hi,Current progress of the playback,प्लेबैक की मौजूदा प्रगति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041400,en,hi,The font used to display subtitles,उपशीर्षक दिखाने के लिए फ़ॉन्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041431,en,hi,Forces the underlying texture to be singular and not made of smaller space saving individual textures,अन्तर्निहित बनावट को एकल होने के लिए विवश करें और अलग-अलग बनावट को सहेजने के लिए छोटी जगह नहीं बनायें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041433,en,hi,Maximum waste area of a sliced texture,कटा हुआ बनावट की अधिकतम बेकार क्षेत्र,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041434,en,hi,Horizontal repeat,क्षैतिज दोहराने,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0041444,en,hi,Cogl Material,Cogl वस्तु,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0042429,en,hi,Number of touch points,अक्ष का संख्या,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0043046,en,hi,Whether the scale - factor property is set,क्या रूपांतरण गुण सेट है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045116,en,hi,Debug CoglBlendString parsing,CoglBlendString पारसिंग डीबग करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045118,en,hi,View all the geometry passing through the journal,पत्रिका के माध्यम से गुजरते ज्यामिति को देखें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045134,en,hi,Root Cause,मूल कारण,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045138,en,hi,Disable use of OpenGL vertex buffer objects,GL शीर्ष उद्धरण ऑब्जेक्ट के प्रयोग को अक्षम करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045150,en,hi,Disable texturing,टेक्सचरिंग निष्क्रिय करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045152,en,hi,Disable arbfp,arbfp अक्षम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045158,en,hi,Disable blending,ब्लेंडिंग अक्षम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045578,en,hi,Qualifier,printer,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045612,en,hi,Speed:,गतिः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045646,en,hi,Alphabet Default,वर्णमाला मूलभूत,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045656,en,hi,Speed,गति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045717,en,hi,Right zoom,दाहिना जूम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045760,en,hi,Distance for 1st button UP,1ले बटन UP के लिए दूरी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045780,en,hi,Unable to initialize speech support,वाक् समर्थन के प्रारंभीकरण में असमर्थ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045793,en,hi,translator - credits,राजेश रंजन (rajeshkajha @yahoo. com),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0045797,en,hi,Pixels covering Y range,पिक्सल्स कवरिंग Y परिसर,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046421,en,hi,dconf Editor,dconf संपादक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046428,en,hi,Not found,नहीं मिला,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046430,en,hi,Copyright © Canonical Ltd,कॉपीराइट © Canonical Ltd,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046576,en,hi,Developer 's Help program,डेवलपर सहायता प्रोग्राम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046590,en,hi,Smaller,Devhelp,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046633,en,hi,Developer 's Help program,डेवलपर मदद प्रोग्राम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046636,en,hi,The width of the main window.,मुख्य विंडो की चौड़ाई.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046646,en,hi,Whether the assistant window should be maximized,सहायक विंडो की चौड़ाई,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046658,en,hi,Font for text,पाठ के लिए फ़ॉन्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046659,en,hi,Font for text with variable width.,परिवर्तनीय चौड़ाई के साथ पाठ के लिए फ़ॉन्ट.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046663,en,hi,Makes F2 bring up Devhelp for the word at the cursor,कर्सर पर शब्द के लिएDevhelp को लाने में F2 करता है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046666,en,hi,New _ Window,नया विंडो (_ N),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046671,en,hi,DevHelp Website,DevHelp वेबसाइटDevhelp,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046675,en,hi,Language: Undefined,भाषाः अपरिभाषित,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046677,en,hi,Page,पृष्ठ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046691,en,hi,"""name"" and ""link"" elements are required inside on line% d, column% d","""नाम"" और ""लिंक"" तत्वों% d पंक्ति, कॉलम% d पर के अंदर आवश्यक हैं",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046694,en,hi,Cannot uncompress book '% s':% s,पुस्तक '% s' नहीं uncompress कर सकते हैंः% s,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046724,en,hi,Find Previous,पिछला ढूंढें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046726,en,hi,Find next occurrence of the search string,खोज स्ट्रिंग की अगली उपस्थिति ढूंढें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046727,en,hi,C _ ase Sensitive,स्थिति के प्रति संवेदनशील (_ a),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046776,en,hi,translator - credits,चंदन कुमार (chandankumar. 093047 @gmail. com),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046944,en,hi,DevHelp Website,DevHelp वेबसाइट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046953,en,hi,Find Next,अगला ढूंढें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046960,en,hi,Increase the text size,पाठ का आकार बढ़ाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046966,en,hi,Display in full screen,पूर्ण स्क्रीन में प्रदर्शित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0046968,en,hi,Smaller,छोटा,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047307,en,hi,Typing Break Reminder,Pausenerinnerer,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047309,en,hi,Settings...,X सेटिंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047347,en,hi,Select the transmitted video size: Small (QCIF 176x144) or Large (CIF 352x288),प्रेषित वीडियो आकार चुनेंः छोटा (QCIF 176x144) या बड़ा (CIF 352x288),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047351,en,hi,Select the format for video cameras (does not apply to most USB cameras),वीडियो कैमरा के लिये प्रारूप चुनें (ज्यादातर USB कैमरा में लागू नहीं होता),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047361,en,hi,The long status information,लंबी स्थिति सूचना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047368,en,hi,Alternative audio output device,वैकल्पिक ऑडियो आउटपुट युक्ति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047389,en,hi,"The sound that will be played at the end of calls or when calling somebody who is busy, if enabled","ध्वनि जो कॉल के अंत में बजायी जाती है या जब कोई व्यस्त है, यदि सक्रिय है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047400,en,hi,The port to listen to for incoming connections. Ekiga needs to be restarted for the new value to take effect.,आने वाले कनेक्शन से सुनने के लिये पोर्ट. एकिगा को नए मान को प्रभावी होने के लिये फिर आरंभ किया जाना है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047402,en,hi,The range of TCP ports that Ekiga will use for the H. 323 H. 245 channel. This port range has no effect if both participants to the conference are using H. 245 Tunneling.,TCP पोर्ट की संख्या जो Ekiga H. 323 H. 245 चैनल के लिए प्रयोग करेगा. इस पोर्ट परिसर का कोई प्रभाव नहीं है यदि सम्मेलन के दोनों सहभागी H. 245 टनेलिंग का प्रयोग कर रहे हैं.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047426,en,hi,Position on the screen of the main window,मुख्य विंडो के स्क्रीन पर स्थिति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047428,en,hi,Change the main window panel section,मुख्य विंडो पटल खंड बदलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047429,en,hi,Position on the screen of the log window,लॉग विंडो के स्क्रीन पर स्थिति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047433,en,hi,Position on the screen of the druid window,ड्रयूड विंडो के स्क्रीन पर स्थिति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047442,en,hi,Disable video hardware acceleration,वीडियो हार्डवेयर त्वरण निष्क्रिय करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047444,en,hi,Allow picture - in - picture software scaling,तस्वीर के अंदर तस्वीर सॉफ़्टवेयर अनुमापन स्वीकारें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047451,en,hi,The default video view,मूलभूत वीडियो दृश्य,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047454,en,hi,The video view before having switched to fullscreen (same values as video _ view),विडियो दृश्य पूर्णस्क्रीन में जाने से पहले (video _ view के समान मान),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047456,en,hi,The size of the local video window,स्थानीय वीडियो विंडो का आकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047463,en,hi,Maximum jitter buffer,अधिकतम जिटर बफ़र,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047470,en,hi,The maximum RX video bitrate in kbit / s. This value will be signaled to the peer endpoint that can adjust (if it supports it) its TX bitrate if it is above the signaled value,अधिकतम RX वीडियो बिटरेट kbit/s में. यह मान पीयर अंतबिंदु को संकेतित किया जाएगा जो कि (if it supports it) इसके TX बिटरेट को समायोजित करेगा यदि संकेत किए मान से ऊपर है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047471,en,hi,Temporal Spatial Trade Off,टेंपोरल स्पासियल ट्रैड ऑफ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047483,en,hi,Automatically reject or forward incoming calls if no answer is given after the specified amount of time (in seconds),अगर समय की निर्दिष्ट मात्रा के बाद कोई उत्तर न मिले तो स्वतः आने वाले कॉल को अस्वीकार या अग्रसारित करें (सेकेंड में),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047490,en,hi,New _ Contact,नया सम्पर्क... (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047520,en,hi,Could not connect to server,सर्वर से जुड़ नहीं सका,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047546,en,hi,Create LDAP directory,LDAP निर्देशिका बनाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047553,en,hi,Services,सेवाएं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047554,en,hi,Echo test,इको टेस्ट,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047561,en,hi,Assistant,सहायकlevel,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047564,en,hi,Please fill in this form to add a new contact to ekiga 's internal roster,कृपया इस फॉर्म को भरें एकिगा के आंतरिक रोस्टर में नए संपर्क को भरने के लिए,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047566,en,hi,You supplied an unsupported address,आपने असमर्थित पता दिया है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047572,en,hi,Duplicate alias,नकल उपनाम,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047586,en,hi,Password:,कूटशब्दः,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047597,en,hi,Please update the following fields.,कृपया निम्नलिखित क्षेत्र अद्यतन करें.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047612,en,hi,No common codec,कोई कॉमन कोडेक नहीं,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047631,en,hi,Illegal status code,अवैध स्थिति कोड,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047644,en,hi,Unsupported URI scheme,असमर्थित URI योजना,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047646,en,hi,Extension required,विस्तार जरूरी,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047659,en,hi,Not implemented,लागू नहीं किया है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047660,en,hi,Bad gateway,खराब गेटवे,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047662,en,hi,Server timeout,सर्वर समयसमाप्ति,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047666,en,hi,Decline,अस्वीकार,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047670,en,hi,Incoming call from% s,% s से आगत कॉल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047708,en,hi,Open link in browser,ब्राउजर में लिंक खोलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047715,en,hi,Do not show this dialog again,इस संवाद को फिर कभी नहीं दिखाएँ,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047722,en,hi,Voice Mails,भ्वाएस मेल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047764,en,hi,You have now finished the Ekiga configuration. All the settings can be changed in the Ekiga preferences. Enjoy!,आपने एकिगा विन्यास पूरा किया है. सभी सेटिंग एकिगा की वरीयता में बदल जाएगी. आनंद लें!,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047779,en,hi,translator - credits,राजेश रंजन,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047798,en,hi,Call on hold,होल्ड पर काल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047820,en,hi,Only silence will be transmitted.,केवल मौन संप्रेषित की जाएगी.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047830,en,hi,Adjust brightness,चमकीलापन समायोजित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047831,en,hi,Adjust whiteness,उजलापन समायोजित करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047846,en,hi,Call from% s,% s से कॉल,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047881,en,hi,_ Dialpad,डॉयलपेड (_ D),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047883,en,hi,_ Call History,काल इतिहास (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047889,en,hi,Remote video image,दूरस्थ वीडियो बिंब,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047898,en,hi,Get help by reading the Ekiga manual,एकिगा मैनुअल पढ़कर सहायता प्राप्त करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047905,en,hi,Change the color settings of your video device,अपना वीडियो युक्ति का रंग सेटिंग बदलें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047925,en,hi,Network Settings,संजाल सेटिंग,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0047954,en,hi,This allows you to set the mode for DTMFs sending.,यह आपको DTMF प्रेषण के लिए विधि सेट करने की अनुमति देता है.,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048161,en,hi,Is a preferred contact,कोई दूरस्थ संपर्क जोड़ें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048267,en,hi,Unsupported URI scheme,असमर्थित URI योजनाphone number,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048555,en,hi,Co _ ntact,संपर्क (_ C),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048728,en,hi,Is a preferred contact,एक वरीय संपर्क है,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048755,en,hi,Password associated to the user,उपयोक्ता से संबद्ध कूटशब्द,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048822,en,hi,"Forbidden, please check that username and password are correct","मनाही, कृपया जाँचें कि क्या उपयोक्तानाम और कूटशब्द सही है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048926,en,hi,Call Window,कॉल विंडो,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0048988,en,hi,Co _ ntact,संपर्क (_ n),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049035,en,hi,_ Automatically answer incoming calls,स्वतः इनकमिंग कॉल का उत्तर दें (_ A),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049212,en,hi,Enable 'Fast Connect','तेज प्रारंभ' सक्षम करें,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049217,en,hi,"Select the H. 239 Video Role. The values can be ""None"" (for ""disable extended video""), ""Content"" (for ""allow per content role mask""), ""Presentation"" (for ""force presentation""), or ""Live"" (for ""force live role"")","H. 239 वीडियो भूमिका चुनें. मान 0 (""disable extended video"" के लिए), 1 (""allow per content role mask"" के लिए), 2 (""force presentation"" के लिए), या 3 (""force live role"" के लिए) हो सकते हैं.",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049276,en,hi,_ Filter template:,फिल्टर नमूना ख़ाका (_ F):,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049277,en,hi,"Here, a ""$"" is replaced by the search string","यहाँ, ""$"" खोज स्ट्रिंग के द्वारा प्रतिस्थापित किया जाता है",iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049278,en,hi,Bind _ ID:,बाइंड _ ID,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049319,en,hi,The pseudonym you 'll have in the room,छद्मनाम जिसे आप कक्ष में रखेंगे,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049325,en,hi,decide later (also close or cancel this dialog),बाद में निर्णय लें (साथ ही इस संवाद को बंद करें या रद्द करें),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049361,en,hi,Prints debug messages in the console (level between 1 and 8),कंसोल में डिबग संदेश मुद्रित करें (1 और 8 के बीच का स्तर),iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049397,en,hi,Meeting,बैठक,iitb_english_hindi,val
+en_hi_iitb_english_hindi_0049399,en,hi,Playing,बजाएँ,iitb_english_hindi,val

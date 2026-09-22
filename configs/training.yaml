@@ -1,0 +1,61 @@
+# Training Configuration
+# Master Decision Register Section 4, TDD Section 11-15, Spec Section 11-14
+
+training:
+  seed: 42
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  adam_beta1: 0.9
+  adam_beta2: 0.999
+  adam_epsilon: 1.0e-8
+  warmup_ratio: 0.1
+  lr_scheduler_type: "linear"
+  
+  # Epochs & Steps
+  num_train_epochs: 3
+  max_steps: -1
+  
+  # Sequence lengths
+  max_source_length: 128
+  max_target_length: 128
+  
+  # Batch size & accumulation (Starting baseline for 8GB VRAM)
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 4
+  
+  # Precision & Checkpointing
+  fp16: true
+  bf16: false
+  gradient_checkpointing: true
+  dataloader_num_workers: 0 # Safe for Windows
+  
+  # Evaluation & Saving strategy
+  eval_strategy: "steps"
+  eval_steps: 200
+  save_strategy: "steps"
+  save_steps: 200
+  save_total_limit: 2
+  load_best_model_at_end: true
+  metric_for_best_model: "comet"
+  greater_is_better: true
+  
+  # Logging
+  logging_strategy: "steps"
+  logging_steps: 50
+  report_to: ["tensorboard"]
+
+oom_recovery:
+  order:
+    - action: "reduce_batch_size"
+      min_batch_size: 1
+    - action: "enable_gradient_checkpointing"
+    - action: "reduce_sequence_length"
+      min_seq_length: 64
+    - action: "increase_gradient_accumulation"
+      max_accum: 16
+    - action: "peft_lora"
+      r: 16
+      lora_alpha: 32
+      lora_dropout: 0.05
+      target_modules: ["q_proj", "v_proj", "k_proj", "out_proj"]

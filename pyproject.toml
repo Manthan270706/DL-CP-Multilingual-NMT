@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multilingual-nmt"
+version = "1.0.0"
+description = "Multilingual Neural Machine Translation using Transformer-based Deep Learning Models"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "transformers",
+    "datasets",
+    "accelerate",
+    "peft",
+    "sentencepiece",
+    "sacrebleu",
+    "evaluate",
+    "nltk",
+    "unbabel-comet",
+    "streamlit",
+    "pandas",
+    "numpy",
+    "pyyaml",
+    "matplotlib",
+    "seaborn",
+    "pytest",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+lint.select = ["E", "F", "W", "I"]
+lint.ignore = ["E501"]

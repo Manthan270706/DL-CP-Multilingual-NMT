@@ -1,0 +1,101 @@
+sample_id,source_text,reference_text,prediction,model_id,source_language,target_language,error_category
+en_hi_iitb_english_hindi_0000004,A list of plugins that are disabled by default,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000009,Highlight fill color,भराई के रंग को हाइलाइट करें,भराई के रंग को हाइलाइट करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000068,Table Information,& lt; bgt; सारणी सूचनाlt;/bgt;,सारणी सूचना,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0000102,The current script will be lost.,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000119,Basic,मूल,मूल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000121,actionable% s is not focusable or selectable,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",कार्रवाई करने योग्य %s%s फोकस योग्य नहीं है या चयनीय,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0000124,% s has no text interface,% s का कोई पाठ अंतराफलक नहीं है,% s का कोई पाठ अंतराफलक नहीं है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000138,Children,शिशु,शिशु,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000148,Shift,शिफ्ट,शिफ्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000159,The fill color of the highlight box,हाइलाइट बक्से का भराई रंग,हाइलाइट बक्से का भराई रंग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000167,_ Edit Bookmarks...,पुस्तक चिह्न संपादित करें (_ E)...,पुस्तक चिह्न संपादित करें (_E)...,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0000392,The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000397,The layout for the bottom panel,नीचे के पैनल के लिए लेआउट,नीचे के पैनल के लिए लेआउट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000424,Child count,बाल गणना,बाल गणना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000460,Summary:,सारांशः,सारांश:,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0000465,Table Information,सारणी सूचना,सारणी सूचना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000492,(Editable),(संशोधनीय) Start,(संशोधनीय),marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0000593,The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0000598,The layout for the bottom panel,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,नीचे के पैनल के लिए लेआउट,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0000806,Window height value.,विंडो की ऊंचाई का मान.,विंडो की ऊँचाई मान.,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0000808,Window width value.,विंडो चौड़ाई मान.,विंडो चौड़ाई मान.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000902,(Editable),(संशोधनीय),(संशोधनीय),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001682,The name of the file with the graphics for the cards.,पत्तों हेतु ग्राफ़िक्स सहित फ़ाइल का नाम.,पत्तों हेतु ग्राफ़िक्स सहित फ़ाइल का नाम.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001688,Whether or not to play event sounds.,घटनाओं हेतु ध्वनि बजाएँ या नहीं.,घटनाओं हेतु ध्वनि बजाएँ या नहीं.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001695,Recently played games,हाल में खेले खेल के नाम,हाल में खेले खेल के नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001738,Aunt Mary,आंट मेरी,आंट मेरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001772,Golf,गोल्फ,गोल्फ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001794,Plait,लपेट,लपेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001821,Will O The Wisp,विल औ द विस्प,विल औ द विस्प,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001828,3,3number,3,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0001832,7,7number,7,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0001842,four of clubs,चिड़ी का चौवा,चिड़ी का चौवा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001850,queen of clubs,चिड़ी की बेगम,चिड़ी की बेगम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001855,four of diamonds,ईंट का चव्वा,ईंट का चव्वा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001893,red joker,लाल जोकर,लाल जोकर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001907,Wins:,जीताः,जीता:,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0001911,Best:,उत्तमः,उत्तम:,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0001945,Undo the last move,पिछली चाल पूर्ववत करें,पिछली चाल पूर्ववत करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001948,Get a hint for your next move,अगली चाल हेतु संकेत प्राप्त करें,अगली चाल हेतु संकेत प्राप्त करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001950,View help for this game,इस खेल के लिये सहायता दिखायें,इस खेल के लिये सहायता दिखायें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001956,Show or hide the toolbar,उपकरण-पट्टी छुपाएँ या दिखाएँ,उपकरण-पट्टी छुपाएँ या दिखाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001958,Show or hide statusbar,उपकरण-पट्टी छुपाएँ या दिखाएँ,उपकरण-पट्टी छुपाएँ या दिखाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001970,Base Card: ~ a,आधार पत्ताः ~ a,आधार पत्ता: ~a,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0001983,the two of clubs,चिड़ी की दुक्की,चिड़ी की दुक्की,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001985,the four of clubs,चिड़ी का चौवा,चिड़ी का चौवा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002005,the ten of spades,हुकुम का दहला,हुकुम का दहला,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002015,the seven of hearts,लाल पान का सत्ता,लाल पान का सत्ता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002020,the queen of hearts,लाल पान की बेगम,लाल पान की बेगम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002026,the five of diamonds,ईंट का पंजा,ईंट का पंजा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002041,Move ~ a onto an empty edge slot.,~ a को एक खाली बढ़त स्लॉट में ले जाएँ.,~a को एक खाली बढ़त स्लॉट में ले जाएँ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002052,Move ~ a onto the three of clubs.,~ a को एक चिड़ी की तिक्की पर ले जाएँ,~a को एक चिड़ी की तिक्की पर ले जाएँ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002062,Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर ले जाएँ,~a को चिड़ी का बादशाह पर ले जाएँ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002081,Move ~ a onto the five of hearts.,~ a को एक लाल पान का पंजा पर ले जाएँ,~a को एक लाल पान का पंजा पर ले जाएँ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002105,Remove the ace of clubs.,चिड़ी का दहला हटाएँ.,चिड़ी का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002109,Remove the five of clubs.,चिड़ी का दहला हटाएँ.,चिड़ी का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002113,Remove the nine of clubs.,चिड़ी का बादशाह हटाएँ.,चिड़ी का बादशाह हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002119,Remove the ace of spades.,हुकुम का दहला हटाएँ.,हुकुम का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002121,Remove the three of spades.,हुकुम का दहला हटाएँ.,हुकुम का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002144,Remove the king of hearts.,लाल पान का बादशाह हटाएँ.,लाल पान का बादशाह हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002145,Remove the ace of diamonds.,ईंट का दहला हटाएँ.,ईंट का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002159,Deal another round,एक दौर और चलें,एक दौर और चलें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002162,Base Card:,आधार पत्ताः,आधार पत्ताः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002163,Move something onto an empty right - hand tableau slot,दाएं बाजू के खाली स्थान पर कुछ ले जाएँ,दाएं बाजू के खाली स्थान पर कुछ ले जाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002174,Monitors won 't give you Vitamin D - - but sunlight will...,"सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं...","सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं...",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002178,"When without a stapler, a staple and a ruler will work",जब व्यवसायी न हो तो हाट और शासक भी वह काम करते हैं,जब व्यवसायी न हो तो हाट और शासक भी वह काम करते हैं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002186,You are searching for a five.,एक पंजा को आप ढूंढ रहे हैं.,एक पंजा को आप ढूंढ रहे हैं.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002199,Move something on to an empty reserve,खाली बची अतिरिक्त जगह पर कुछ ले जाएँ,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002215,Remove the jacks,जोकर मिटाएँ,जोकर मिटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002216,Remove the queens,बेगम मिटाएँ,बेगम मिटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002221,Consider moving something into an empty slot,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002230,Place the three of clubs next to the two of clubs.,चिड़ी की तिक्की के बगल में चिड़ी के दुक्की को रखें.,चिड़ी की तिक्की के बगल में चिड़ी के दुक्की को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002243,Place the four of spades next to the three of spades.,हुकुम की दुक्का के बगल में हुकुम के तिक्की को रखें.,हुकुम की दुक्का के बगल में हुकुम के तिक्की को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002269,Place the six of diamonds next to the five of diamonds.,ईंट का छक्का के बगल में ईंट का पंजा को रखें.,ईंट का छक्का के बगल में ईंट का पंजा को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002271,Place the eight of diamonds next to the seven of diamonds.,ईंट का अट्ठा के बगल में ईंट का सत्ता को रखें.,ईंट का अट्ठा के बगल में ईंट का सत्ता को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002276,Place the king of diamonds next to the queen of diamonds.,ईंट की बेगम के बगल में ईंट के वादशाह को रखें.,ईंट की बेगम के बगल में ईंट के वादशाह को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002297,No redeals,कोई डील फिर नहीं,कोई डील फिर नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002300,Aim to place the suits in the order which fits the current layout most naturally.,वर्तमान विन्यास अति प्राकृतिक रूप से ताश के रंग के योग्य हो इस हेतु ध्येय कीजिए.,वर्तमान विन्यास अति प्राकृतिक रूप से ताश के रंग के योग्य हो इस हेतु ध्येय कीजिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002301,Autoplay,स्वचालित,स्वचालित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002307,Shuffle mode,फेंटें मोड,शल्ड मोड,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002310,Move waste on to a reserve slot,सुरक्षित खाँचा पर बेकार को ले जाएँ,सुरक्षित खाँचा पर बेकार को ले जाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002323,Redheads,रेडहेड,रेड हेड्स,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0002325,Wood,वुड,वुड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003275,Unrecognized launch option:% d,अपरिचित प्रारंभ विकल्पः% d,अपरिचित लॉन्च विकल्प: d,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003276,Can 't pass document URIs to a' Type = Link 'desktop entry,दस्तावेज़ यूआरआई को 'Type = Link' डेस्कटॉप प्रविष्टि में पास नहीं कर सका,दस्तावेज़ URI को 'Type=Link' डेस्कटॉप प्रविष्टि में भेज नहीं सकता है,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003339,Move something on to an empty reserve,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003367,an empty reserve,एक खाली खाँचा,एक खाली खाँचा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003379,an empty tableau place,एक खाली चित्र जगह,एक खाली चित्र जगह,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003506,appropriate foundation pile,समुचित न्यास पाइल,समुचित न्यास पाइल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003864,Move ~ a onto an empty edge slot.,~ a को एक खाली धार फील्ड में ले जाएँ,~a को एक खाली बढ़त स्लॉट में ले जाएँ.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003875,Move ~ a onto the three of clubs.,~ a को चिड़ी की तिक्की पर घुमाएँ.,~a को एक चिड़ी की तिक्की पर ले जाएँ,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0003885,Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर घुमाएँ.,~a को चिड़ी का बादशाह पर ले जाएँ,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0003904,Move ~ a onto the five of hearts.,~ a को लाल पान का पंजा पर घुमाएँ.,~a को एक लाल पान का पंजा पर ले जाएँ,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0003966,You are searching for a five.,आप पंजा के लिए खोज रहे हैं.,एक पंजा को आप ढूंढ रहे हैं.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0004431,Move ~ a onto an empty edge slot.,~ a को एक खाली फील्ड में ले जाएँ,~a को एक खाली बढ़त स्लॉट में ले जाएँ.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0004442,Move ~ a onto the three of clubs.,चिड़ी की तिक्की,~a को एक चिड़ी की तिक्की पर ले जाएँ,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0004452,Move ~ a onto the king of clubs.,चिड़ी का बादशाह,~a को चिड़ी का बादशाह पर ले जाएँ,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0004471,Move ~ a onto the five of hearts.,लाल पान का पंजा,~a को एक लाल पान का पंजा पर ले जाएँ,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0004527,You are searching for a five.,एक% s को आप ढूंढ रहे हैं.,एक पंजा को आप ढूंढ रहे हैं.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0004589,Remove the king of hearts.,लाल पान का बादशाह,लाल पान का बादशाह हटाएँ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0005934,Item,वस्तु,वस्तु,marian_en_hi,en,hi,none

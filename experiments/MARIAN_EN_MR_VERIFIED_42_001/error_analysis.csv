@@ -1,0 +1,11 @@
+sample_id,source_text,reference_text,prediction,model_id,source_language,target_language,error_category
+en_mr_synthetic_verified_0000091,Deep learning models require computational power. (Sample 91),डीप लर्निंग मॉडेल्ससाठी संगणकीय शक्ती आवश्यक आहे. (नमुना 91),(तिरपे वळण आमचे.),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000074,Education is the key to personal and social development. (Sample 74),शिक्षण ही वैयक्तिक आणि सामाजिक विकासाची गुरुकिल्ली आहे. (नमुना 74),(तिरपे वळण आमचे.),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000086,Researchers are developing new neural network architectures. (Sample 86),संशोधक नवीन न्यूरल नेटवर्क आर्किटेक्चर विकसित करत आहेत. (नमुना 86),[ चित्राचे श्रेय],marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000082,Machine translation helps bridge language barriers. (Sample 82),मशीन भाषांतर भाषेतील अडथळे दूर करण्यास मदत करते. (नमुना 82),(लेखाच्या सुरुवातीला दिलेले चित्र पाहा.),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000020,Artificial intelligence is transforming the world. (Sample 20),कृत्रिम बुद्धिमत्ता जग बदलत आहे. (नमुना 20),(g०१ ९ / २२),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000060,Artificial intelligence is transforming the world. (Sample 60),कृत्रिम बुद्धिमत्ता जग बदलत आहे. (नमुना 60),(g०० ११ / २२),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000071,Deep learning models require computational power. (Sample 71),डीप लर्निंग मॉडेल्ससाठी संगणकीय शक्ती आवश्यक आहे. (नमुना 71),सा. यु. पू.,marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000014,Education is the key to personal and social development. (Sample 14),शिक्षण ही वैयक्तिक आणि सामाजिक विकासाची गुरुकिल्ली आहे. (नमुना 14),(तिरपे वळण आमचे.),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000092,Machine translation helps bridge language barriers. (Sample 92),मशीन भाषांतर भाषेतील अडथळे दूर करण्यास मदत करते. (नमुना 92),(लेखाच्या सुरुवातीला दिलेले चित्र पाहा.),marian_en_mr,en,mr,missing_words
+en_mr_synthetic_verified_0000051,Deep learning models require computational power. (Sample 51),डीप लर्निंग मॉडेल्ससाठी संगणकीय शक्ती आवश्यक आहे. (नमुना 51),यु. पू.,marian_en_mr,en,mr,missing_words

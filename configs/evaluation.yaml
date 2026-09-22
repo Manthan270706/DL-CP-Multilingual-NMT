@@ -1,0 +1,40 @@
+# Evaluation Configuration
+# Master Decision Register Section 6, 7, 8 & Manifest
+
+generation:
+  num_beams: 5
+  max_new_tokens: 128
+  min_length: 1
+  length_penalty: 1.0
+  no_repeat_ngram_size: 3
+  early_stopping: true
+  do_sample: false
+
+metrics:
+  mandatory:
+    - "bleu"
+    - "meteor"
+    - "comet"
+  comet_model: "Unbabel/wmt22-comet-da"
+  comet_batch_size: 16
+  sacrebleu_tokenize: "13a" # Will use intl for Indic if appropriate
+
+error_analysis:
+  categories:
+    - "grammar"
+    - "word_order"
+    - "named_entity"
+    - "ambiguity"
+    - "missing_words"
+    - "extra_words"
+    - "repetition"
+    - "untranslated_words"
+    - "long_sentence_failure"
+
+sentence_length_analysis:
+  buckets:
+    short: [1, 10]
+    medium: [11, 25]
+    long: [26, 50]
+    very_long: [51, 9999]
+  small_sample_threshold: 30

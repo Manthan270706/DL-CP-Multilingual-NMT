@@ -1,0 +1,101 @@
+sample_id,source_text,reference_text,prediction,model_id,source_language,target_language,error_category
+en_hi_iitb_english_hindi_0000004,A list of plugins that are disabled by default,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,प्लगइन्स की सूची जो डिफ़ॉल्ट रूप से अक्षम हैं,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000009,Highlight fill color,भराई के रंग को हाइलाइट करें,भरने का रंग हाइलाइट करें,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000068,Table Information,& lt; bgt; सारणी सूचनाlt;/bgt;,तालिका की जानकारी,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0000102,The current script will be lost.,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।,वर्तमान स्क्रिप्ट खो जाएगा।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000119,Basic,मूल,मूल,nllb200,en,hi,none
+en_hi_iitb_english_hindi_0000121,actionable% s is not focusable or selectable,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",सक्रिय% s फोकस या चयन योग्य नहीं है,nllb200,en,hi,missing_words
+en_hi_iitb_english_hindi_0000124,% s has no text interface,% s का कोई पाठ अंतराफलक नहीं है,% s में कोई पाठ इंटरफ़ेस नहीं है,nllb200,en,hi,word_order
+en_hi_iitb_english_hindi_0000138,Children,शिशु,बच्चे,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0000148,Shift,शिफ्ट,शिफ्ट,nllb200,en,hi,none
+en_hi_iitb_english_hindi_0000159,The fill color of the highlight box,हाइलाइट बक्से का भराई रंग,हाइलाइट बॉक्स का भरने का रंग,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0000167,_ Edit Bookmarks...,पुस्तक चिह्न संपादित करें (_ E)...,_ बुकमार्क संपादित करें...,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0000392,The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.,सुलभ नोड्स का चयन करते समय हाइलाइट बॉक्स की अवधि।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000397,The layout for the bottom panel,नीचे के पैनल के लिए लेआउट,निचले पैनल के लिए लेआउट,nllb200,en,hi,word_order
+en_hi_iitb_english_hindi_0000424,Child count,बाल गणना,बच्चों की संख्या,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0000460,Summary:,सारांशः,संक्षेप मेंः,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0000465,Table Information,सारणी सूचना,तालिका की जानकारी,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0000492,(Editable),(संशोधनीय) Start,(संपादित),nllb200,en,hi,missing_words
+en_hi_iitb_english_hindi_0000593,The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,सुलभ नोड्स का चयन करते समय हाइलाइट बॉक्स की अवधि।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000598,The layout for the bottom panel,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,निचले पैनल के लिए लेआउट,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000806,Window height value.,विंडो की ऊंचाई का मान.,खिड़की की ऊंचाई का मान।,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0000808,Window width value.,विंडो चौड़ाई मान.,खिड़की चौड़ाई मान।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0000902,(Editable),(संशोधनीय),(संपादित),nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001682,The name of the file with the graphics for the cards.,पत्तों हेतु ग्राफ़िक्स सहित फ़ाइल का नाम.,कार्ड के लिए ग्राफिक्स के साथ फ़ाइल का नाम।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0001688,Whether or not to play event sounds.,घटनाओं हेतु ध्वनि बजाएँ या नहीं.,घटना ध्वनियों को बजाना है या नहीं।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0001695,Recently played games,हाल में खेले खेल के नाम,हाल ही में खेले गए खेल,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001738,Aunt Mary,आंट मेरी,चाची मैरी,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0001772,Golf,गोल्फ,गोल्फ,nllb200,en,hi,none
+en_hi_iitb_english_hindi_0001794,Plait,लपेट,सादा,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0001821,Will O The Wisp,विल औ द विस्प,विल ओ द वाइप,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0001828,3,3number,3,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001832,7,7number,7,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001842,four of clubs,चिड़ी का चौवा,चार क्लबों,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001850,queen of clubs,चिड़ी की बेगम,क्लबों की रानी,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0001855,four of diamonds,ईंट का चव्वा,चार हीरे,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001893,red joker,लाल जोकर,लाल जोकर,nllb200,en,hi,none
+en_hi_iitb_english_hindi_0001907,Wins:,जीताः,जीत:,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0001911,Best:,उत्तमः,सबसे अच्छाः,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0001945,Undo the last move,पिछली चाल पूर्ववत करें,अंतिम कदम को रद्द करें,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0001948,Get a hint for your next move,अगली चाल हेतु संकेत प्राप्त करें,अपने अगले कदम के लिए एक संकेत प्राप्त करें,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0001950,View help for this game,इस खेल के लिये सहायता दिखायें,इस खेल के लिए सहायता देखें,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001956,Show or hide the toolbar,उपकरण-पट्टी छुपाएँ या दिखाएँ,टूलबार दिखाएँ या छिपाएँ,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0001958,Show or hide statusbar,उपकरण-पट्टी छुपाएँ या दिखाएँ,स्थिति पट्टी दिखाएँ या छिपाएँ,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0001970,Base Card: ~ a,आधार पत्ताः ~ a,आधार कार्ड: ~ a,nllb200,en,hi,word_order
+en_hi_iitb_english_hindi_0001983,the two of clubs,चिड़ी की दुक्की,दो क्लबों के,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0001985,the four of clubs,चिड़ी का चौवा,क्लबों के चार,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0002005,the ten of spades,हुकुम का दहला,दागों के दस,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0002015,the seven of hearts,लाल पान का सत्ता,दिल के सात,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0002020,the queen of hearts,लाल पान की बेगम,दिल की रानी,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0002026,the five of diamonds,ईंट का पंजा,हीरे के पांच,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0002041,Move ~ a onto an empty edge slot.,~ a को एक खाली बढ़त स्लॉट में ले जाएँ.,~ एक खाली किनारे स्लॉट पर स्थानांतरित करें.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002052,Move ~ a onto the three of clubs.,~ a को एक चिड़ी की तिक्की पर ले जाएँ,क्लबों के तीन पर ~ एक स्थानांतरित करें.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002062,Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर ले जाएँ,क्लबों के राजा पर ~ एक स्थानांतरित करें.,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002081,Move ~ a onto the five of hearts.,~ a को एक लाल पान का पंजा पर ले जाएँ,दिल के पांच पर ~ एक स्थानांतरित करें.,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002105,Remove the ace of clubs.,चिड़ी का दहला हटाएँ.,क्लबों के एस को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002109,Remove the five of clubs.,चिड़ी का दहला हटाएँ.,क्लबों के पांच को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002113,Remove the nine of clubs.,चिड़ी का बादशाह हटाएँ.,नौ की छड़ें निकालें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002119,Remove the ace of spades.,हुकुम का दहला हटाएँ.,पैड के एस को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002121,Remove the three of spades.,हुकुम का दहला हटाएँ.,पैड के तीनों को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002144,Remove the king of hearts.,लाल पान का बादशाह हटाएँ.,दिल के राजा को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002145,Remove the ace of diamonds.,ईंट का दहला हटाएँ.,हीरे के एस् को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002159,Deal another round,एक दौर और चलें,एक और राउंड से निपटें,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002162,Base Card:,आधार पत्ताः,बेस कार्डः,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002163,Move something onto an empty right - hand tableau slot,दाएं बाजू के खाली स्थान पर कुछ ले जाएँ,कुछ को एक खाली दाहिने-हात टेबल स्लॉट पर स्थानांतरित करें,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002174,Monitors won 't give you Vitamin D - - but sunlight will...,"सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं...",मॉनिटर आपको विटामिन डी नहीं देंगे लेकिन सूरज की रोशनी...,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002178,"When without a stapler, a staple and a ruler will work",जब व्यवसायी न हो तो हाट और शासक भी वह काम करते हैं,"जब एक स्टैपर के बिना, एक स्टेपर और एक शासक काम करेंगे",nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002186,You are searching for a five.,एक पंजा को आप ढूंढ रहे हैं.,आप एक पांच की तलाश कर रहे हैं.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002199,Move something on to an empty reserve,खाली बची अतिरिक्त जगह पर कुछ ले जाएँ,एक खाली रिजर्व में कुछ स्थानांतरित करें,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002215,Remove the jacks,जोकर मिटाएँ,जैक हटा दें,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002216,Remove the queens,बेगम मिटाएँ,रानी को हटा दें,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0002221,Consider moving something into an empty slot,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,किसी खाली स्थान पर कुछ स्थानांतरित करने पर विचार करें,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002230,Place the three of clubs next to the two of clubs.,चिड़ी की तिक्की के बगल में चिड़ी के दुक्की को रखें.,तीनों क्लब को दो क्लबों के बगल में रखें।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002243,Place the four of spades next to the three of spades.,हुकुम की दुक्का के बगल में हुकुम के तिक्की को रखें.,चार पैड को तीन पैड के बगल में रखें।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002269,Place the six of diamonds next to the five of diamonds.,ईंट का छक्का के बगल में ईंट का पंजा को रखें.,हीरे के छह को हीरे की पांच के बगल में रखें।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002271,Place the eight of diamonds next to the seven of diamonds.,ईंट का अट्ठा के बगल में ईंट का सत्ता को रखें.,8 हीरे को 7 हीरे के बगल में रखें।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002276,Place the king of diamonds next to the queen of diamonds.,ईंट की बेगम के बगल में ईंट के वादशाह को रखें.,हीरे के राजा को हीरे की रानी के बगल में रखें।,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002297,No redeals,कोई डील फिर नहीं,कोई पुनर्भुगतान नहीं,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002300,Aim to place the suits in the order which fits the current layout most naturally.,वर्तमान विन्यास अति प्राकृतिक रूप से ताश के रंग के योग्य हो इस हेतु ध्येय कीजिए.,सूट को उस क्रम में रखने का लक्ष्य रखें जो वर्तमान लेआउट को सबसे स्वाभाविक रूप से फिट बैठता है।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002301,Autoplay,स्वचालित,ऑटोप्ले,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002307,Shuffle mode,फेंटें मोड,मिश्रण मोड,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002310,Move waste on to a reserve slot,सुरक्षित खाँचा पर बेकार को ले जाएँ,कचरे को रिजर्व स्लॉट में स्थानांतरित करें,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0002323,Redheads,रेडहेड,लाल बालों वाले,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0002325,Wood,वुड,लकड़ी,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0003275,Unrecognized launch option:% d,अपरिचित प्रारंभ विकल्पः% d,गैर मान्यता प्राप्त प्रक्षेपण विकल्पः% d,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003276,Can 't pass document URIs to a' Type = Link 'desktop entry,दस्तावेज़ यूआरआई को 'Type = Link' डेस्कटॉप प्रविष्टि में पास नहीं कर सका,दस्तावेज़ यूआरआई को 'टाइप = लिंक ' डेस्कटॉप प्रविष्टि में पारित नहीं किया जा सकता,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0003339,Move something on to an empty reserve,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,एक खाली रिजर्व में कुछ स्थानांतरित करें,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0003367,an empty reserve,एक खाली खाँचा,एक खाली भंडार,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0003379,an empty tableau place,एक खाली चित्र जगह,एक खाली टेबल स्थान,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003506,appropriate foundation pile,समुचित न्यास पाइल,उपयुक्त नींव का ढेर,nllb200,en,hi,grammar
+en_hi_iitb_english_hindi_0003864,Move ~ a onto an empty edge slot.,~ a को एक खाली धार फील्ड में ले जाएँ,~ एक खाली किनारे स्लॉट पर स्थानांतरित करें.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003875,Move ~ a onto the three of clubs.,~ a को चिड़ी की तिक्की पर घुमाएँ.,क्लबों के तीन पर ~ एक स्थानांतरित करें.,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0003885,Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर घुमाएँ.,क्लबों के राजा पर ~ एक स्थानांतरित करें.,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0003904,Move ~ a onto the five of hearts.,~ a को लाल पान का पंजा पर घुमाएँ.,दिल के पांच पर ~ एक स्थानांतरित करें.,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0003966,You are searching for a five.,आप पंजा के लिए खोज रहे हैं.,आप एक पांच की तलाश कर रहे हैं.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0004431,Move ~ a onto an empty edge slot.,~ a को एक खाली फील्ड में ले जाएँ,~ एक खाली किनारे स्लॉट पर स्थानांतरित करें.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0004442,Move ~ a onto the three of clubs.,चिड़ी की तिक्की,क्लबों के तीन पर ~ एक स्थानांतरित करें.,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0004452,Move ~ a onto the king of clubs.,चिड़ी का बादशाह,क्लबों के राजा पर ~ एक स्थानांतरित करें.,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0004471,Move ~ a onto the five of hearts.,लाल पान का पंजा,दिल के पांच पर ~ एक स्थानांतरित करें.,nllb200,en,hi,extra_words
+en_hi_iitb_english_hindi_0004527,You are searching for a five.,एक% s को आप ढूंढ रहे हैं.,आप एक पांच की तलाश कर रहे हैं.,nllb200,en,hi,ambiguity
+en_hi_iitb_english_hindi_0004589,Remove the king of hearts.,लाल पान का बादशाह,दिल के राजा को हटा दें।,nllb200,en,hi,named_entity
+en_hi_iitb_english_hindi_0005934,Item,वस्तु,वस्तु,nllb200,en,hi,none

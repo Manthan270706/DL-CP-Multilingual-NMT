@@ -1,0 +1,126 @@
+{
+  "model_id": "mbart50",
+  "source_language": "en",
+  "target_language": "hi",
+  "sample_count": 10,
+  "bleu": {
+    "score": 40.5259,
+    "precisions": [
+      64.29,
+      46.15,
+      33.33,
+      27.27
+    ],
+    "bp": 1.0,
+    "sys_len": 14,
+    "ref_len": 13,
+    "signature": "BLEU = 40.53 64.3/46.2/33.3/27.3 (BP = 1.000 ratio = 1.077 hyp_len = 14 ref_len = 13)",
+    "version": "2.6.0"
+  },
+  "meteor": {
+    "score": 63.0453,
+    "raw_score": 0.630453,
+    "num_samples": 10,
+    "version": "nltk-3.10.3"
+  },
+  "comet": {
+    "score": 84.6443,
+    "raw_score": 0.846443,
+    "segment_scores": [
+      0.7552099823951721,
+      0.9191921949386597,
+      0.7710164785385132,
+      0.872065007686615,
+      0.9123322367668152,
+      0.907073974609375,
+      0.7547033429145813,
+      0.9254220724105835,
+      0.8958090543746948,
+      0.7516066431999207
+    ],
+    "model": "Unbabel/wmt22-comet-da",
+    "version": "2.2.7",
+    "device_used": "gpu"
+  },
+  "summary_scores": {
+    "bleu": 40.5259,
+    "meteor": 63.0453,
+    "comet": 84.6443
+  },
+  "error_analysis_summary": {
+    "total_samples": 10,
+    "perfect_translations": 0,
+    "total_error_samples": 10,
+    "distribution": {
+      "grammar": {
+        "count": 3,
+        "percentage": 30.0
+      },
+      "word_order": {
+        "count": 3,
+        "percentage": 30.0
+      },
+      "named_entity": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "ambiguity": {
+        "count": 4,
+        "percentage": 40.0
+      },
+      "missing_words": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "extra_words": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "repetition": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "untranslated_words": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "long_sentence_failure": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "sentence_length_analysis": {
+    "total_samples": 10,
+    "buckets": {
+      "short": {
+        "range_words": "1-10",
+        "sample_count": 8,
+        "small_sample_flag": true,
+        "bleu": 40.5259,
+        "meteor": 56.4301
+      },
+      "medium": {
+        "range_words": "11-25",
+        "sample_count": 2,
+        "small_sample_flag": true,
+        "bleu": 76.9161,
+        "meteor": 89.5062
+      },
+      "long": {
+        "range_words": "26-50",
+        "sample_count": 0,
+        "small_sample_flag": true,
+        "bleu": 0.0,
+        "meteor": 0.0
+      },
+      "very_long": {
+        "range_words": "51-+",
+        "sample_count": 0,
+        "small_sample_flag": true,
+        "bleu": 0.0,
+        "meteor": 0.0
+      }
+    }
+  }
+}

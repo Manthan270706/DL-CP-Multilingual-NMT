@@ -1,0 +1,52 @@
+# Authoritative Language Registry Configuration
+# Master Decision Register Section 2, 3 & Manifest Section 2
+
+primary_source: "en"
+supported_targets:
+  - "hi"
+  - "mr"
+  - "fr"
+  - "de"
+
+supported_directions:
+  - "en-hi"
+  - "en-mr"
+  - "en-fr"
+  - "en-de"
+
+languages:
+  en:
+    name: "English"
+    iso_639_1: "en"
+    script: "Latn"
+    nllb_code: "eng_Latn"
+    mbart_code: "en_XX"
+    resource_level: "high"
+  hi:
+    name: "Hindi"
+    iso_639_1: "hi"
+    script: "Deva"
+    nllb_code: "hin_Deva"
+    mbart_code: "hi_IN"
+    resource_level: "medium-high"
+  mr:
+    name: "Marathi"
+    iso_639_1: "mr"
+    script: "Deva"
+    nllb_code: "mar_Deva"
+    mbart_code: "mr_IN"
+    resource_level: "lower-resource"
+  fr:
+    name: "French"
+    iso_639_1: "fr"
+    script: "Latn"
+    nllb_code: "fra_Latn"
+    mbart_code: "fr_XX"
+    resource_level: "high"
+  de:
+    name: "German"
+    iso_639_1: "de"
+    script: "Latn"
+    nllb_code: "deu_Latn"
+    mbart_code: "de_DE"
+    resource_level: "high"
