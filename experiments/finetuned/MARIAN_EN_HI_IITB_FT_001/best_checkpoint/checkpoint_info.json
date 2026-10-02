@@ -1,0 +1,10 @@
+{
+  "step": 510,
+  "metrics": {
+    "comet": 79.0892,
+    "bleu": 63.4296,
+    "meteor": 55.352
+  },
+  "is_best": false,
+  "path": "experiments\\finetuned\\MARIAN_EN_HI_IITB_FT_001\\checkpoints\\step_000510"
+}

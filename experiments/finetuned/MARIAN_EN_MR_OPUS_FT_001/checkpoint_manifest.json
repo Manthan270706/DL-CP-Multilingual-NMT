@@ -1,0 +1,39 @@
+{
+  "metric_for_best": "comet",
+  "greater_is_better": true,
+  "best_score": 63.9436,
+  "best_step": 1254,
+  "best_checkpoint_path": "experiments\\finetuned\\MARIAN_EN_MR_OPUS_FT_001\\best_checkpoint",
+  "checkpoints": [
+    {
+      "step": 627,
+      "metrics": {
+        "comet": 63.0182,
+        "bleu": 22.3633,
+        "meteor": 25.6139
+      },
+      "is_best": false,
+      "path": "experiments\\finetuned\\MARIAN_EN_MR_OPUS_FT_001\\checkpoints\\step_000627"
+    },
+    {
+      "step": 1254,
+      "metrics": {
+        "comet": 63.9436,
+        "bleu": 25.6904,
+        "meteor": 28.1976
+      },
+      "is_best": false,
+      "path": "experiments\\finetuned\\MARIAN_EN_MR_OPUS_FT_001\\checkpoints\\step_001254"
+    },
+    {
+      "step": 1881,
+      "metrics": {
+        "comet": 63.7246,
+        "bleu": 24.8472,
+        "meteor": 27.4845
+      },
+      "is_best": false,
+      "path": "experiments\\finetuned\\MARIAN_EN_MR_OPUS_FT_001\\checkpoints\\step_001881"
+    }
+  ]
+}

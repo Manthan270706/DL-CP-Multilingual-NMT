@@ -1,0 +1,21 @@
+{
+  "elapsed_seconds": 458.847,
+  "device": "cuda",
+  "peak_vram_mb": 3236.09,
+  "peak_vram_gb": 3.16,
+  "allocated_vram_mb": 872.27,
+  "reserved_vram_mb": 3306.0,
+  "inference_latency": {
+    "total_samples_benchmarked": 20,
+    "mean_batch_latency_ms": 568.78,
+    "mean_per_sample_latency_ms": 28.44,
+    "samples_per_sec": 35.16,
+    "peak_inference_vram_mb": 1375.98
+  },
+  "model_size_mb": 291.60741424560547,
+  "parameters": {
+    "total": 76381184,
+    "trainable": 75856896,
+    "frozen": 524288
+  }
+}

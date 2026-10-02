@@ -159,8 +159,8 @@ class DatasetManager:
         if not (train_path.exists() and val_path.exists() and test_path.exists()):
             raise FileNotFoundError(f"Processed dataset splits not found in {pair_dir}")
 
-        train_df = pd.read_csv(train_path, encoding="utf-8")
-        val_df = pd.read_csv(val_path, encoding="utf-8")
-        test_df = pd.read_csv(test_path, encoding="utf-8")
+        train_df = pd.read_csv(train_path, encoding="utf-8", keep_default_na=False, dtype=str)
+        val_df = pd.read_csv(val_path, encoding="utf-8", keep_default_na=False, dtype=str)
+        test_df = pd.read_csv(test_path, encoding="utf-8", keep_default_na=False, dtype=str)
 
         return train_df, val_df, test_df

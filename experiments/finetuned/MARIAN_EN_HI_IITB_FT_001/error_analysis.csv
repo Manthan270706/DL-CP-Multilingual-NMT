@@ -1,0 +1,1016 @@
+sample_id,source_text,reference_text,prediction,model_id,source_language,target_language,error_category
+en_hi_iitb_english_hindi_0000004,A list of plugins that are disabled by default,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000009,Highlight fill color,भराई के रंग को हाइलाइट करें,भराई के रंग को हाइलाइट करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000068,Table Information,& lt; bgt; सारणी सूचनाlt;/bgt;,सारणी सूचना,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0000102,The current script will be lost.,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।,वर्तमान लिपि (स्क्रिप्ट) खो जाएगी।,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000119,Basic,मूल,मूल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000121,actionable% s is not focusable or selectable,"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय","% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000124,% s has no text interface,% s का कोई पाठ अंतराफलक नहीं है,% s का कोई पाठ अंतराफलक नहीं है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000138,Children,शिशु,शिशु,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000148,Shift,शिफ्ट,शिफ्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000159,The fill color of the highlight box,हाइलाइट बक्से का भराई रंग,हाइलाइट बक्से का भराई रंग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000167,_ Edit Bookmarks...,पुस्तक चिह्न संपादित करें (_ E)...,पुस्तक चिह्न संपादित करें (_ A)...,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0000392,The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0000397,The layout for the bottom panel,नीचे के पैनल के लिए लेआउट,नीचे के पैनल के लिए लेआउट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000424,Child count,बाल गणना,बाल गणना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000460,Summary:,सारांशः,सारांशः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000465,Table Information,सारणी सूचना,सारणी सूचना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000492,(Editable),(संशोधनीय) Start,( अनुसार),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0000593,The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0000598,The layout for the bottom panel,निचले पटल के लिए डिफोल्ट प्लग-इन खाका,नीचे के पैनल के लिए लेआउट,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0000806,Window height value.,विंडो की ऊंचाई का मान.,विंडो की ऊँचाई मान.,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0000808,Window width value.,विंडो चौड़ाई मान.,विंडो चौड़ाई मान.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0000902,(Editable),(संशोधनीय),( अनुसार),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0001682,The name of the file with the graphics for the cards.,पत्तों हेतु ग्राफ़िक्स सहित फ़ाइल का नाम.,पत्तों हेतु ग्राफ़िक्स सहित फ़ाइल का नाम.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001688,Whether or not to play event sounds.,घटनाओं हेतु ध्वनि बजाएँ या नहीं.,घटनाओं हेतु ध्वनि बजाएँ या नहीं.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001695,Recently played games,हाल में खेले खेल के नाम,हाल में खेले खेल के नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001738,Aunt Mary,आंट मेरी,आंट मेरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001772,Golf,गोल्फ,गोल्फ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001794,Plait,लपेट,लपेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001821,Will O The Wisp,विल औ द विस्प,विल औ द विस्प,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001828,3,3number,3,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0001832,7,7number,7,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0001842,four of clubs,चिड़ी का चौवा,चिड़ी का चौवा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001850,queen of clubs,चिड़ी की बेगम,चिड़ी की बेगम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001855,four of diamonds,ईंट का चव्वा,ईंट का चव्वा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001893,red joker,लाल जोकर,लाल जोकर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001907,Wins:,जीताः,जीताः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001911,Best:,उत्तमः,उत्तमः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001945,Undo the last move,पिछली चाल पूर्ववत करें,पिछली चाल पूर्ववत करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001948,Get a hint for your next move,अगली चाल हेतु संकेत प्राप्त करें,अगली चाल हेतु संकेत प्राप्त करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001950,View help for this game,इस खेल के लिये सहायता दिखायें,इस खेल के लिये सहायता दिखायें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001956,Show or hide the toolbar,उपकरण-पट्टी छुपाएँ या दिखाएँ,उपकरण-पट्टी छुपाएँ या दिखाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001958,Show or hide statusbar,उपकरण-पट्टी छुपाएँ या दिखाएँ,उपकरण-पट्टी छुपाएँ या दिखाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001970,Base Card: ~ a,आधार पत्ताः ~ a,आधार पत्ताः ~ a,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001983,the two of clubs,चिड़ी की दुक्की,चिड़ी की दुक्की,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0001985,the four of clubs,चिड़ी का चौवा,चिड़ी का चौवा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002005,the ten of spades,हुकुम का दहला,हुकुम का दहला,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002015,the seven of hearts,लाल पान का सत्ता,लाल पान का सत्ता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002020,the queen of hearts,लाल पान की बेगम,लाल पान की बेगम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002026,the five of diamonds,ईंट का पंजा,ईंट का पंजा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002041,Move ~ a onto an empty edge slot.,~ a को एक खाली बढ़त स्लॉट में ले जाएँ.,~ a को एक खाली बढ़त स्लॉट में ले जाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002052,Move ~ a onto the three of clubs.,~ a को एक चिड़ी की तिक्की पर ले जाएँ,~ a को चिड़ी की तिक्की पर घुमाएँ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002062,Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर ले जाएँ,~ a को चिड़ी का बादशाह पर ले जाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002081,Move ~ a onto the five of hearts.,~ a को एक लाल पान का पंजा पर ले जाएँ,लाल पान का पंजा,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0002105,Remove the ace of clubs.,चिड़ी का दहला हटाएँ.,चिड़ी का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002109,Remove the five of clubs.,चिड़ी का दहला हटाएँ.,चिड़ी का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002113,Remove the nine of clubs.,चिड़ी का बादशाह हटाएँ.,चिड़ी का बादशाह हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002119,Remove the ace of spades.,हुकुम का दहला हटाएँ.,हुकुम का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002121,Remove the three of spades.,हुकुम का दहला हटाएँ.,हुकुम का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002144,Remove the king of hearts.,लाल पान का बादशाह हटाएँ.,लाल पान का बादशाह हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002145,Remove the ace of diamonds.,ईंट का दहला हटाएँ.,ईंट का दहला हटाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002159,Deal another round,एक दौर और चलें,एक दौर और चलें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002162,Base Card:,आधार पत्ताः,आधार पत्ताः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002163,Move something onto an empty right - hand tableau slot,दाएं बाजू के खाली स्थान पर कुछ ले जाएँ,दाएं बाजू के खाली स्थान पर कुछ ले जाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002174,Monitors won 't give you Vitamin D - - but sunlight will...,"सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं...","सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं...",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002178,"When without a stapler, a staple and a ruler will work",जब व्यवसायी न हो तो हाट और शासक भी वह काम करते हैं,जब व्यवसायी न हो तो हाट और शासक भी वह काम करते हैं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002186,You are searching for a five.,एक पंजा को आप ढूंढ रहे हैं.,आप पंजा के लिए खोज रहे हैं.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002199,Move something on to an empty reserve,खाली बची अतिरिक्त जगह पर कुछ ले जाएँ,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002215,Remove the jacks,जोकर मिटाएँ,जोकर मिटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002216,Remove the queens,बेगम मिटाएँ,बेगम मिटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002221,Consider moving something into an empty slot,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002230,Place the three of clubs next to the two of clubs.,चिड़ी की तिक्की के बगल में चिड़ी के दुक्की को रखें.,चिड़ी की तिक्की के बगल में चिड़ी के दुक्की को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002243,Place the four of spades next to the three of spades.,हुकुम की दुक्का के बगल में हुकुम के तिक्की को रखें.,हुकुम की चव्वा के बगल में हुकुम के तिक्की को रखें.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002269,Place the six of diamonds next to the five of diamonds.,ईंट का छक्का के बगल में ईंट का पंजा को रखें.,ईंट का छक्का के बगल में ईंट का पंजा को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002271,Place the eight of diamonds next to the seven of diamonds.,ईंट का अट्ठा के बगल में ईंट का सत्ता को रखें.,ईंट का अट्ठा के बगल में ईंट का सत्ता को रखें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002276,Place the king of diamonds next to the queen of diamonds.,ईंट की बेगम के बगल में ईंट के वादशाह को रखें.,ईंट का बादशाह के बगल में ईंट की बेगम को रखें.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0002297,No redeals,कोई डील फिर नहीं,कोई डील फिर नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002300,Aim to place the suits in the order which fits the current layout most naturally.,वर्तमान विन्यास अति प्राकृतिक रूप से ताश के रंग के योग्य हो इस हेतु ध्येय कीजिए.,वर्तमान विन्यास अति प्राकृतिक रूप से ताश के रंग के योग्य हो इस हेतु ध्येय कीजिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002301,Autoplay,स्वचालित,स्वचालित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002307,Shuffle mode,फेंटें मोड,शस्ट मोड,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0002310,Move waste on to a reserve slot,सुरक्षित खाँचा पर बेकार को ले जाएँ,सुरक्षित खाँचा पर बेकार को ले जाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0002323,Redheads,रेडहेड,लाल संकेतक,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0002325,Wood,वुड,वुड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003275,Unrecognized launch option:% d,अपरिचित प्रारंभ विकल्पः% d,अपरिचित लॉन्च विकल्पः d,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003276,Can 't pass document URIs to a' Type = Link 'desktop entry,दस्तावेज़ यूआरआई को 'Type = Link' डेस्कटॉप प्रविष्टि में पास नहीं कर सका,दस्तावेज़ URI को 'Type=Link' डेस्कटॉप प्रविष्टि में भेज नहीं सकता है,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0003339,Move something on to an empty reserve,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,खाली बची अतिरिक्त जगह पर कुछ ले जाएँslot type,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003367,an empty reserve,एक खाली खाँचा,एक खाली खाँचा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003379,an empty tableau place,एक खाली चित्र जगह,एक खाली चित्र जगह,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003506,appropriate foundation pile,समुचित न्यास पाइल,न्यास पाइल,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0003864,Move ~ a onto an empty edge slot.,~ a को एक खाली धार फील्ड में ले जाएँ,~ a को एक खाली बढ़त स्लॉट में ले जाएँ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0003875,Move ~ a onto the three of clubs.,~ a को चिड़ी की तिक्की पर घुमाएँ.,~ a को चिड़ी की तिक्की पर घुमाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0003885,Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर घुमाएँ.,~ a को चिड़ी का बादशाह पर ले जाएँ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0003904,Move ~ a onto the five of hearts.,~ a को लाल पान का पंजा पर घुमाएँ.,लाल पान का पंजा,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0003966,You are searching for a five.,आप पंजा के लिए खोज रहे हैं.,आप पंजा के लिए खोज रहे हैं.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0004431,Move ~ a onto an empty edge slot.,~ a को एक खाली फील्ड में ले जाएँ,~ a को एक खाली बढ़त स्लॉट में ले जाएँ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0004442,Move ~ a onto the three of clubs.,चिड़ी की तिक्की,~ a को चिड़ी की तिक्की पर घुमाएँ.,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0004452,Move ~ a onto the king of clubs.,चिड़ी का बादशाह,~ a को चिड़ी का बादशाह पर ले जाएँ,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0004471,Move ~ a onto the five of hearts.,लाल पान का पंजा,लाल पान का पंजा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0004527,You are searching for a five.,एक% s को आप ढूंढ रहे हैं.,आप पंजा के लिए खोज रहे हैं.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0004589,Remove the king of hearts.,लाल पान का बादशाह,लाल पान का बादशाह हटाएँ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0005934,Item,वस्तु,वस्तु,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0005975,Name:,नाम,नामः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0005990,Armenian,रोमानियन,आर्मेनियाई,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006003,Profiles,0 फाइल्स,प्रोफ़ाइल,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006009,Loaded:,लोड,लोड कियाः,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006024,Item,फ़ाइलों को जोडे,वस्तु,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006029,Shortcut,नया शार्टकट,शॉर्टकट,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006032,Unable to complete file copy,फाइल को खोलने में असमर्थ,फाइल को खोलने में असमर्थ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006033,System:,सिस्टम मेनू,सिस्टमः,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006039,Could not find application pixmap file:% s,फाइल% s नहीं मिली,नहीं अनुप्रयोग फ़ाइल से.,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006047,make: Entering directory '% s',कार्यकारी डायरेक्टरी,कार्यकारी डायरेक्टरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006064,Run C _ onfigure...,UI कानफिगर करें,प्रोजेक्ट विन्यस्त करें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006080,Build module,% u फाइल्स,बिल्ड माड्यूल,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006081,_ Install,प्रविष्ट करें,संस्थापित करें (_ O),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006083,_ Clean,खाली,साफ करें (_ C),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006087,_ Install (% s),प्रविष्ट करें,संस्थापित करें से.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006092,Build Autotools,छैतिज पैमाना,बिल्ड आटोटूल,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006105,Base Class Inheritance:,होस्ट नाम वैध नहीं है,आधार वर्गः,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006153,Please fill field:% s,सभी खुली फाइलों को बंद करें,कृपया क्षेत्र भरेंः% s,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006182,Display process _ tree,पंक्ति संख्या प्रदर्शित करें,प्रदर्शक process ट्री,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006185,Kernel Signals,कर्नल,कर्नेल सिग्नल,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006190,Program Interrupt,इन्टरनेट,प्रोग्राम इंटरप्ट,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006195,Source Directories,डायरेक्टरी का निर्माण करें,स्रोत निर्देशिकाएँ,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006196,Stop:,रोकें,रूकेंः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006197,Yes,हाँ,हाँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006212,Line,लकीर,पंक्ति,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006213,Function,हिस्से,फंक्शन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006233,Disable All Breakpoints,ब्रेकपाइंट को समायोजित करें,ब्रेकपाइंट को समायोजित करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006243,Debugger Log,डिबग (खराबी दूर करें),डिबगर लॉग,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006267,Show kernel signals,कर्नल,दिखाएँ कर्नेल संकेत,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006270,Single step into function,व्यंजक पर सहायता,एकल चरण फंक्शन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006271,Step O _ ver,#-#-#-#-#gnome-media. HEAD. hi. po (gnome-media 2.0) #-#-#-#-#सर्वर #-#-#-#-#gnome-utils. gnome-2-2. hi. po (gnome-utils 2.0) #-#-#-#-#सरवर,चरण O,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006292,Kernel signals,कर्नल,कर्नेल संकेत,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006305,Arguments,खाली दस्तावेज,आर्गुमेंट्स,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006313,Missing file% s,फाइल% s संग्रहित करें,अनुपस्थित फ़ाइल से.,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006320,Remove Watch,सबको हटाओ,निरीक्षण हटाओ,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006332,Next Help,अंश व्यू,अगला मदद,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006361,Bottom,नीचे,नीचे,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006385,Sorted in opening order,सार्ट सूचक,सार्ट सूचक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006408,_ Transform,कचरा (T),रूपांतरण (_ F),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006436,Goto next history,जाएँ अगली स्थिति पर जहां पहले जा चुके हैं,जाएँ अगली स्थिति पर,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006443,U _ ndo,अनडू,यू,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0006462,Show / Hide indentation guides,परिभाषा खिड़की दिखाएं/छिपाएं... (_ S),दिखाएँ छुपाएँ,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006468,_ Highlight Mode,सिलेक्शन के लिए हाइलाइट किया,उभारें मोड,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006487,Editor text transformation,छैतिज पैमाना,संपादक पाठ,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006491,Editor edit operations,छैतिज पैमाना,छैतिज पैमाना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006499,OVR,या,मिटाकर लिखें,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006514,Attributes:,गुणधर्म,गुणधर्म,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006572,Next mesg,अगला संदेश,अगला संदेश,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006585,- - Zoom,जूम,- ज़ूम,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006605,Pascal source files,जावा सोर्स कोड,पास्कल श्रोत फ़ाइल,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006618,Open with,एक फाइल खोलें,खोलें इसके साथ,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006645,Add License Information,बाल्सा सूचना,लाइसेंस जानकारी जोड़ें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006660,Command Line Parameters,निर्देश पंक्ति की प्रविष्टि,निर्देश पंक्ति की प्रविष्टि,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006665,No executable specified.,कोई फिल्टर का नाम निर्धारित नहीं है,नहीं नहीं,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006675,Program detached,प्रोग्राम का नाम,प्रोग्राम नहीं,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006677,Interrupting the process,प्रोग्राम का संस्करण,प्रोग्राम का संस्करण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006709,Summary:,वर्ग,सारांशः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006711,Edit Categories,श्रेणी,वर्गों का संपादन,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006717,stopped:,रोकें,रूकेंः,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0006721,Are you sure you want to remove all the completed todo items?,क्या आप निश्चित है कि आप ट्रेश की सभी आयटम्स हमेशा के लिए डिलीट करना चाहते हैं,"क्या आप निश्चित ही ""% s"" को ट्रेश से स्थायी तौर पर डिलीट करना चाहते हैं",marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006734,Summary,वर्ग,सारांश,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006738,Business,पंक्तियां,व्यवसाय,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006775,Basic,सान्स,मूल,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006787,UserName,यूजर नाम,प्रयोक्ताName,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006795,_ Add Macro...,मेक्रो,फाइल जोड़ें,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006797,Macros...,मेक्रो,मेक्रोज़,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006799,Indicators,सूचक बनाएं,संपादक,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006800,Message colors,संदेश के रंग,संदेश रंग,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0006816,Icon,हिस्से,प्रतीक,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006831,_ Tools,टूल्स,औज़ार (_ T),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006832,_ Patch...,चिपकाएं,पैच,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006835,Children,खाली,शिशु,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006838,Profiler,0 फाइल्स,प्रोफाइल,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006849,Time Propagation,छैतिज पैमाना,छैतिज पैमाना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006850,Browse...,ब्राउज,ब्राउज़...,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006851,Do not show static functions,कुछ न करें (h),कुछ न करें (h),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006853,General,सामान्य,सामान्य,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006856,Select Other Target...,खोज का तरीका,खोज का तरीका,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0006857,Select Profiling Target,सभी फ़ाइल का चयन करे,सभी बंद करें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006858,Show uncalled functions,टिप्स (संकेतों) को दिखाएं (_ i),गैर प्रारूपित देखें,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0006864,Target properties,कड़ी की विशेषताएँ,लक्ष्य गुण,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006878,Close project,प्रोजेक्ट बंद करें,परियोजना बन्द करें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006887,Project,प्रोजेक्ट,परियोजना,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0006908,Creating% s (using AutoGen)...% s,प्ले प्रगति पर,से. प्रयोग कर रहा है से.,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0006936,project name,प्रोजेक्ट प्लान,प्रोजेक्ट नाम,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0006991,Search complete,वर्तमान फाइल संग्रहित करें,ढूंढना सम्पन्न,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007003,Enable code completion,प्रोफाईलिंग पुन सेट करें,कोड समाप्ति सक्रिय करें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007015,Remember this decision,गुपत अक्षर (_ P):,याद रखें यह,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007019,_ Subversion,सत्रें,सबवर्सन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007026,Subversion operations,उर्ध्वाधर पैमाना,सबवर्सन संचालन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007027,Subversion popup operations,उर्ध्वाधर पैमाना,सबवर्सन पॉपअप संचालन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007035,Update add,अपडेट (अद्यतन),अपडेट (अद्यतन),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007046,Subversion,सत्रें,सबवर्सन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007051,Anjuta tags files,अंजूटा प्रोजेक्ट मैनेजर,अंजूटा प्रोजेक्ट मैनेजर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007053,API Tags,टैग,टैग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007062,Goto _ Definition,दस्ताबेज के प्रकार की परिभाषा,परिभाषा,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007063,Goto De _ claration,स्थिर घोषणाओं को छोड़ दें,एक प्रोजेक्ट खोलें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007067,Symbol browser popup actions,अंजूटा symbol ब्राउजर फैक्ट्री,अंजूटा symbol ब्राउजर फैक्ट्री,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007106,Command line parameters,अवैध पैरामीटर से,कमांड लकीर पैरामीटर्स,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007110,Select Valgrind Target,सभी फ़ाइल का चयन करे,प्लगिन चुनें,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007114,_ Load Log,लोड,लोड लॉग,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0007155,Anjuta _ Home Page,अंजूटा दस्तावेज मैनेजर,अंजूटा दस्तावेज मैनेजर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007156,Online documentation and resources,वर्तमान शब्द के लिए दस्तावेज खोजें,ऑनलाइन दस्तावेज निर्माण और,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007176,Anjuta test shell,अंजूटा,अंजूटा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007191,Patch Plugin,वर्तमान फाइल संग्रहित करें,पैच प्लगिन,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007192,Patches files and directories.,यह एक डायरेक्टरी है,पैचेस फ़ाइल और.,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007216,Build symbol browser automatically,अंजूटा symbol ब्राउजर फैक्ट्री,अंजूटा symbol ब्राउजर फैक्ट्री,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007220,Common commands:,निर्देश,निर्देश,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007232,HTML _ viewer:,पाठ्य का दश्य,HTML प्रदर्शक (_ E),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007234,Help module Makefile. am,माॅड्यूल फाइल नाम,फाइल लगाएं,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0007236,Ignore files and directories,यह एक डायरेक्टरी है,यह एक डायरेक्टरी है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007265,Recent Projects:,प्रोजेक्ट खोलें,प्रोजेक्ट खोलें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007287,Dock items,0 फाइल्स,0 फाइल्स,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007288,Build Project,जेबिल्डर प्रोजेक्ट,प्रोजेक्ट बिल्ड करें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0007289,Building the whole Project:,प्रोजेक्ट बंद करें,प्रोजेक्ट बंद करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007304,_ Execute program,अनुप्रयोग से बाहर जाएं,अनुप्रयोग से बाहर जाएं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007315,Arrows,ब्राउज,तीर,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007331,Insert a file header,एक फाइल प्रविष्ट करें,एक फाइल प्रविष्ट करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007332,Current _ Username,वर्तमान सत्र संग्रहित करें,मौजूदा उपयोक्ता नाम (_ U),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007358,Char,कैरेक्टर,अक्षर,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007378,Summary:,श्रेणी,सारांशः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007402,Children,चिल्ड्रन,शिशु,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007412,_ Load Log,लाग लोड करें (_ L),लोड लॉग,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007417,"Enter , , :",", , दाखिल करेंः","प्रविष्ट करें, , :",marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0007420,Cu _ t,काटें (_ t),टी (_ T),marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0007439,Western,पश्चिमी,पश्चिमी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007444,Arabic,अरबी,अरबी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007452,Armenian,आर्मेनियाई,आर्मेनियाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007460,Vietnamese,विएतनामी,विएतनामी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007469,Profiles,प्रोफ़ाइल,प्रोफ़ाइल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007486,Shortcut,शॉर्टकट,शॉर्टकट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007521,make (\\ [\\d +\\])?: \\s + Leaving\\s + directory\\s + '(. +)',make (\\ [\\d + \\])?: \\s + Leaving\\s + directory\\s + '(. +)',फाईल बनाओ (\\ d +\\]),marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007537,_ Install,संस्थापित करें (_ I),संस्थापित करें (_ O),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0007549,Release,जारी,जारी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007555,Attach to process,प्रक्रिया में जोड़ें,प्रक्रिया में जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007570,Variable,परिवर्तनीय,परिवर्तनीय,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007596,Line,पंक्ति,पंक्ति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007597,Arguments,आर्गुमेंट्स,आर्गुमेंट्स,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007604,Remove Watch,निरीक्षण हटाओ,निरीक्षण हटाओ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007621,_ Transform,रूपांतरित करें (_ T),रूपांतरण (_ F),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007634,_ Highlight Mode,हाइलाइट मोड (_ H),उभारें मोड,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007641,OVR,मिटाकर लिखें,मिटाकर लिखें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007661,Name:,नामः,नामः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007679,_ Abort,त्यागें (_ A),छोड़ें (_ A),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0007688,Edit Categories,वर्गों का संपादन,वर्गों का संपादन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007696,Remove,हटाएँ,हटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007701,Summary,सारांश,सारांश,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007703,Business,व्यवसाय,व्यवसाय,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007716,_ Add Macro...,मेक्रो जोड़ें (_ A)...,फाइल जोड़ें,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0007717,Icon,प्रतीक,प्रतीक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007723,_ Tools,औजार (_ T),औज़ार (_ T),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0007724,Browse...,ब्राउज़...,ब्राउज़...,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007727,Project,परियोजना,परियोजना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007731,Close project,परियोजना बन्द करें,परियोजना बन्द करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007764,Interface implemented by the plugin,प्लगिन के द्वारा लागू अंतरफलक,प्लगिन के द्वारा लागू अंतरफलक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007776,project name,प्रोजेक्ट नाम,प्रोजेक्ट नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007826,Subversion,सबवर्सन,सबवर्सन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007829,Parameters:,पैरामीटर्सः,पैरामीटर्सः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007831,undefined,अपारिभाषित,अपारिभाषित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007865,Anjuta _ Home Page,Anjuta घर पेज (_ H),अंजूटा दस्तावेज मैनेजर,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0007881,Enable code completion,कोड समाप्ति सक्रिय करें,कोड समाप्ति सक्रिय करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007906,Patch Plugin,पैच प्लगिन,पैच प्लगिन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0007913,C + + and Java support Plugin,C + + और जावा सपोर्ट प्लगिन,C + + और जावा समर्थन प्लगइन,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0007953,Attributes:,गुणः,गुणधर्म,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0008003,Function,फंक्शन,फंक्शन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0008555,System:,सिस्टमः,सिस्टमः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0008560,Up to date,अद्यतन,अद्यतन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0008597,Completed unsuccessfully,सफलतापूर्वक पूर्ण,असफलतापूर्वक पूर्ण,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0008758,Open With,के साथ खोलेंः,इसके साथ खोलें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0008802,Branch name:,परियोजना नामः,शाखा नामः,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0008818,Good revision:,संशोधनः,संशोधनः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0008833,Git: Pull complete.,input widget,Git: पूरा खींचो.,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0008849,_ Delete tag...,मिटाएँ,टैग मिटाएँ (_ O)...,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0008851,_ Reset / Revert,रिसेट करें (_ R),रीसेट/ उलटें,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0008913,No Warnings,चेतावनीः,चेतावनी,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0008922,Project name,परियोजना तयशुदा,परियोजना नाम,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0008931,Source files:,स्रोतः,स्रोत फ़ाइलेंः,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0008934,No project loaded,प्रोजेक्ट नाम,प्रोजेक्ट नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0008955,Choose Icon,फाइल चुनें,प्रतीक चुनें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0008957,A GNOME applet project,जेनेरिक GNOME प्रोजेक्ट,जेनेरिक GNOME प्रोजेक्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0009026,Find:,ढूंढें (_ F)...,ढूंढेंः,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0009037,Recent Projects,प्रोजेक्ट साफ करें (_ C),प्रोजेक्ट खोलें,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0009109,Text only,पाठ,सिर्फ पाठ,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0009119,Parenthese indentation,स्मार्ट हाशिया,स्मार्ट हाशिया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0009321,Remote debugging,शक्तिशाली डिबगिंग औजार,रिमोट डिबगिंग,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0009519,_ Start...,प्रारंभ,प्रारंभ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0009523,_ Delete...,मिटाएँ,मिटाएं...,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0009590,Macros...,मेक्रोज़,मेक्रोज़,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0009592,Message colors,संदेश,संदेश रंग,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0009607,_ Patch...,पैचेस,पैच,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0009608,Project name,परियोजना नामः,परियोजना नाम,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0009623,Shortcut:% s,शॉर्टकटः,शॉर्टकटः% s,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0010425,Snippet Properties,गुण,स्निपेट गुण,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0010431,Anjuta variables,Anjuta advanced tutorial,Anjuta चर,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0010650,Loaded:,लोड कियाः,लोड कियाः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010676,System:,तंत्रः,सिस्टमः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0010698,Path that dropped files should be relative to,पथ फ़ाइल को,पथ फ़ाइल को,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010709,Could not find application pixmap file:% s,नहीं अनुप्रयोग फ़ाइल से.,नहीं अनुप्रयोग फ़ाइल से.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010758,Command exited with status% d,कमांड के साथ स्थिति d,कमांड के साथ स्थिति d,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010764,Completed unsuccessfully,असफलतापूर्वक पूर्ण,असफलतापूर्वक पूर्ण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010791,Remove Configuration,हटाएँ विन्यास,हटाएँ विन्यास,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010794,Compile file,कम्पाइल फ़ाइल,कम्पाइल फ़ाइल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010795,Build module,बिल्ड माड्यूल,बिल्ड माड्यूल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010798,_ Clean,साफ करें,साफ करें (_ C),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0010803,_ Install (% s),संस्थापित करें से.,संस्थापित करें से.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010809,Build Autotools,बिल्ड आटोटूल,बिल्ड आटोटूल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010817,Base Class:,आधार वर्गः,आधार वर्गः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010818,Base Class Inheritance:,आधार वर्गः,आधार वर्गः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010822,Author / Date / Time,लेखक/तारीख़ समय,लेखक/ तारीख/समय,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0010870,Flags,ध्वज,फ्लैग्स,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0010884,"Path to ""cvs"" command",पथ को कमांड,पथ को कमांड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010886,Ignore. cvsrc file (recommended),नज़रअंदाज़ करें फ़ाइल अनुशंसित,नज़रअंदाज़ करें फ़ाइल अनुशंसित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010890,Browse...,ब्राउज़,ब्राउज़...,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0010891,File is binary,फ़ाइल है द्विपदीय,फ़ाइल है द्विपदीय,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010909,CVS: Status from file / directory,CVS: Status from file/directory,कार्य डायरेक्टरी,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0010929,Please enter a filename!,कृपया फाइलनाम दाखिल करें!,कृपया एंटर a URL.,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0010930,Please fill field:% s,कृपया क्षेत्र भरेंः% s,कृपया क्षेत्र भरेंः% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010931,CVS command is running! Please wait until it is finished!,सीवीएस कमांड है कार्यशील कृपया इंतजार करें जबतक है पूर्ण!,सीवीएस कमांड है कार्यशील कृपया इंतजार करें जबतक है पूर्ण!,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010939,CVS command is running — please wait until it finishes!,सीवीएस कमांड है कार्यशील इंतजार करें जबतक!,सीवीएस कमांड है कार्यशील इंतजार करें जबतक!,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010963,c + + - analyzer:,c + +-analyzer:,C + +--,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0010971,Display process _ tree,प्रदर्शक process ट्री,प्रदर्शक process ट्री,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010991,Kernel Signals,कर्नेल सिग्नल,कर्नेल सिग्नल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0010996,Program Interrupt,प्रोग्राम इंटरप्ट,प्रोग्राम इंटरप्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011000,Stop:,रूकेंः,रूकेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011005,Source Directories,स्रोत निर्देशिकाएँ,स्रोत निर्देशिकाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011013,Remote debugging,रिमोट डिबगिंग,रिमोट डिबगिंग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011014,"Are you sure you want to debug a program not using the Debug configuration? When optimizations are enabled, the debugger cannot always identify the source code corresponding to the instructions, so some commands can perform in a strange way, especially steps.",को डिबग a प्रोग्राम नहीं प्रयोग कर रहा है दोषसुधार विन्यास नहीं सक्षम श्रोत कोड को कुछ कमांड इंच a चरण.,को डिबग a प्रोग्राम नहीं प्रयोग कर रहा है दोषसुधार विन्यास नहीं सक्षम श्रोत कोड को कुछ कमांड इंच a चरण.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011028,Disable All Breakpoints,सभी खण्डन बिन्दु अक्षम करें,ब्रेकपाइंट को समायोजित करें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0011039,Pass count,पास गिनती,पास गिनती,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011048,Debugger Log,डिबगर लॉग,डिबगर लॉग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011059,Debugger terminated with error% d:% s,डिबगर के साथ त्रुटि d से. नहीं,डिबगर के साथ त्रुटि d से. नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011060,Program has received signal:% s,प्रोग्राम से. नहीं,प्रोग्राम से. नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011065,_ Debug Process...,प्रक्रिया दोषसुधार करें,डिबग प्रक्रिया,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0011071,Add source paths...,श्रोत पथ जोड़ें...,श्रोत पथ जोड़ें...,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011084,Show kernel signals,दिखाएँ कर्नेल संकेत,दिखाएँ कर्नेल संकेत,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011088,Single step into function,एकल चरण फंक्शन,एकल चरण फंक्शन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011089,Step O _ ver,चरण O,चरण O,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011119,Kernel signals,कर्नेल संकेत,कर्नेल संकेत,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011125,Set current frame,सेट फ्रेम,सेट फ्रेम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011141,Unable to open% s. Debugger cannot start.,को खोलें से. डिबगर प्रारंभ.,को खोलें से. डिबगर प्रारंभ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011145,Set current thread,सेट,सेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011167,Search for a term in help,ढूंढें के लिए a मद इंच मदद,खोजें a मद इंच मदद,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0011195,Sorted in opening order,छांटा हुआ इंच खोला जा रहा है,सार्ट सूचक,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0011211,Close Others,अन्यों को बन्द करें,अन्यों को बन्द करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011230,Convert End Of Line characters to Mac OS EOL (CR),बदलें अंत पंक्ति अक्षर को OS EOL,बदलें अंत पंक्ति अक्षर को OS EOL,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011231,Convert EOL to Majority EOL,बदलें EOL को EOL,बदलें EOL को EOL,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011262,Search and replace,ढूंढें और,ढूंढें और,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011279,U _ ndo,यू,यू,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011300,Show / Hide indentation guides,दिखाएँ छुपाएँ,दिखाएँ छुपाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011320,Switch to previous document,बदलें को दस्तावेज़,बदलें को दस्तावेज़,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011324,Toggle bookmark at the current line position,टॉगल एट लकीर स्थिति,टॉगल एट लकीर स्थिति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011333,Editor text transformation,संपादक पाठ,संपादक पाठ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011337,Editor edit operations,संपादक संपादन,छैतिज पैमाना,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0011378,Pascal source files,पास्कल श्रोत फ़ाइल,पास्कल श्रोत फ़ाइल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011393,Open with,खोलें इसके साथ,खोलें इसके साथ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011404,Open With,इससे खोलें,इसके साथ खोलें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0011405,Root directory if no project is open:,रूट निर्देशिका यदि नहीं है खोलेंः,रूट निर्देशिका यदि नहीं है खोलेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011412,Filter,फ़िल्टर,फ़िल्टर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011427,Add License Information,लाइसेंस जानकारी जोड़ें,लाइसेंस जानकारी जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011442,BSD Public License,बीएसडी सार्वजनिक लाइसेंस,बीएसडी सार्वजनिक लाइसेंस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011447,Project doesn 't allow to set properties,परियोजना को सेट,परियोजना को सेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011464,An email address or a link to a web page where the user can report bug. It is optional.,ईमेल या a लिंक को a पृष्ठ प्रयोक्ता report है.,ईमेल या a लिंक को a पृष्ठ प्रयोक्ता report है.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011473,C compiler flags:,सी फ्लैग्सः,सी फ्लैग्सः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011475,C + + compiler flags:,सी फ्लैग्सः,सी + + फ्लैग्सः,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0011480,Common additional Vala compiler flags for all targets in this group.,सामान्य अतिरिक्त वाला फ्लैग्स के लिए सभी लक्ष्य इंच यह समूह.,सामान्य अतिरिक्त वाला फ्लैग्स के लिए सभी लक्ष्य इंच यह समूह.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011493,Installation directory:,अधिष्ठापन निर्देशिकाः,अधिष्ठापन निर्देशिकाः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011499,Additional object files for this target.,अतिरिक्त वस्तु फ़ाइल के लिए यह लक्ष्य.,अतिरिक्त वस्तु फ़ाइल के लिए यह लक्ष्य.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011502,Additional C + + compiler flags for this target.,अतिरिक्त सी फ्लैग्स के लिए यह लक्ष्य.,अतिरिक्त सी + फ्लैग्स के लिए यह लक्ष्य.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0011504,Additional Vala compiler flags for this target.,अतिरिक्त वाला फ्लैग्स के लिए यह लक्ष्य.,अतिरिक्त वाला फ्लैग्स के लिए यह लक्ष्य.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011510,Additional dependencies for this target.,अतिरिक्त डिपेंडेंसीज़ के लिए यह लक्ष्य.,अतिरिक्त डिपेंडेंसीज़ के लिए यह लक्ष्य.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011519,Libraries:,लाइब्रेरीज़ः,लाइब्रेरीज़ः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011520,Manual section:,हस्तचालित खंडः,हस्तचालित खंडः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011528,No executable specified.,नहीं नहीं,नहीं नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011532,Program exited normally,प्रोग्राम नहीं,प्रोग्राम नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011546,Program detached,प्रोग्राम नहीं,प्रोग्राम नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011548,Interrupting the process,process नहीं,प्रोग्राम का संस्करण,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0011553,Cannot start terminal for debugging.,प्रारंभ टर्मिनल के लिए.,प्रारंभ टर्मिनल के लिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011570,Append signed - of - by line,अंत में जोड़ें का द्वारा लकीर,अंत में जोड़ें का द्वारा लकीर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011575,Branch name:,शाखा नामः,शाखा नामः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011576,Repository head; Drop or type a different revision here,रेपोसिटरी छोडें या क़िस्म a,रेपोसिटरी छोडें या क़िस्म a,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011591,page 2,पृष्ठ 2,पृष्ठ 2,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011630,Please enter the commit author 's name,कृपया एंटर लेखक से. नाम,कृपया एंटर लेखक से. नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011638,Please enter a commit.,कृपया एंटर a.,कृपया एंटर a.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011648,Remote:% s,रिमोट% s,रिमोट% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011655,Push,दबाएँ,दबाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011656,No remote selected,नहीं रिमोट चयनित,नहीं रिमोट चयनित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011672,Tag tools,टैग उपकरण,टैग उपकरण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011686,Mark selected conflicted files as resolved,चिह्नित चयनित फ़ाइल जैसे,चिह्नित चयनित फ़ाइल जैसे,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011691,Delete a remote,एक रिमोट मिटाएँ,एक रिमोट मिटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011695,Fetch changes from remote repositories,से रिमोट,से रिमोट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011707,Apply stashed changes back into the working tree,लागू करें पीछे ट्री,लागू करें पीछे ट्री,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011713,Delete the selected stash,मिटाएँ चयनित,मिटाएँ चयनित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011727,Generate a patch series,बनाएँ (G) a,बनाएँ (G) a,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011732,Skip the current patch in the series,छोड़ें इंच,छोड़ें इंच,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011733,Stop applying the patch series and return the tree to its previous state,रूकें लागू कर रहा है और लौटाएँ ट्री को state,रूकें लागू कर रहा है और लौटाएँ ट्री को state,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011739,Remotes,हटाएँ,हटाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011740,Stash,स्थिति,स्थिति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011750,Invalid Glade file name,अवैध फ़ाइल नाम,अवैध फ़ाइल नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011759,Indicators,संपादक,संपादक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011762,Message colors,संदेश रंग,संदेश रंग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011780,Add _ Package,जोड़ें पैकेज,जोड़ें पैकेज,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011802,Open With,इसके साथ खोलें,इसके साथ खोलें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011805,Project name,परियोजना नाम,परियोजना नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011806,Import from folder,आयात से,आयात से,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011816,New Target,नया लक्ष्य,नया लक्ष्य,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011823,Source files:,स्रोत फ़ाइलेंः,स्रोत फ़ाइलेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011835,No project loaded,नहीं लोड हो गया,प्रोजेक्ट नाम,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0011847,Shortcut:% s,शॉर्टकटः% s,शॉर्टकटः% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011883,_ Sort,छाँटें (_ S),छाँटें (_ T),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0011896,Target properties,लक्ष्य गुण,लक्ष्य गुण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011904,The selected node cannot contain source files.,चयनित नोड श्रोत फ़ाइल.,चयनित नोड श्रोत फ़ाइल.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011910,Cannot add packages,जोड़ें संकुल,जोड़ें संकुल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011927,Missing packages:% s.,संकुल से..,संकुल से..,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011938,Creating% s ...% s,से. से.,से. से.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011945,Choose Icon,प्रतीक चुनें,प्रतीक चुनें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011965,Adds support for building shared libraries in your project,समर्थन के लिए इंच,समर्थन के लिए इंच,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0011993,Plugin Description:,प्लगइन वर्णनः,प्लगइन वर्णनः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012007,Value Name:,मान नामः,मान नामः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012030,A generic python project using automake project management,A python प्रयोग कर रहा है,A python प्रयोग कर रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012041,Mininum SDL version required,संस्करण जरूरी,संस्करण जरूरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012061,Missing file% s,अनुपस्थित फ़ाइल से.,अनुपस्थित फ़ाइल से.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012078,Import snippets to the database,आयात को डाटाबेस,आयात को डाटाबेस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012084,Instant value,तुरंत मान,तुरंत मान,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012088,Add Snippet ...,जोड़ें स्निपेट,जोड़ें स्निपेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012104,Select the languages for which you want to use this snippet.,चुनें के लिए को यह.,चुनें के लिए को यह.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012107,Snippet Properties,स्निपेट गुण,स्निपेट गुण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012113,Anjuta variables,Anjuta चर,Anjuta चर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012115,Export Snippets,निर्यात स्निपेट,निर्यात स्निपेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012121,Could not save file because filename not yet specified,नहीं सहेजें फ़ाइल फाइलनाम नहीं,नहीं सहेजें फ़ाइल फाइलनाम नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012123,Preparing pages for printing,तैयारी पृष्ठों के लिए छापा जा रहा है,तैयारी पृष्ठों के लिए छापा जा रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012150,Recent projects:,हालिया परियोजनाः,हालिया परियोजनाः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012151,Tutorials,शिक्षण पाठ,शिक्षण पाठ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012157,Remove file / directory,हटाएँ फ़ाइल/निर्देशिका,फ़ाइल/निर्देशिका हटाएँ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0012168,Remember this decision,याद रखें यह,याद रखें यह,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012170,Select Changes to Revert:,चुनें परिवर्तन को उलटेंः,चुनें परिवर्तन को उलटेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012185,Repository Head,रेपोसिटरी शीर्ष,रेपोसिटरी शीर्ष,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012200,_ Subversion,सबवर्सन,सबवर्सन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012222,Diff local tree with repository,डिफ स्थानीय ट्री के साथ,डिफ स्थानीय ट्री के साथ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012225,Subversion operations,सबवर्सन संचालन,सबवर्सन संचालन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012226,Subversion popup operations,सबवर्सन पॉपअप संचालन,सबवर्सन पॉपअप संचालन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012227,Subversion Log,सबवर्सन लॉग,सबवर्सन लॉग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012244,Please enter a working copy path.,कृपया एंटर a कॉपी करें.,कृपया एंटर a कॉपी करें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012248,Subversion: Resolve complete.,सबवर्सन पूर्ण.,सबवर्सन पूर्ण.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012253,Subversion: Diff complete.,सबवर्सन डिफ पूर्ण.,सबवर्सन डिफ पूर्ण.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012255,Authentication canceled,सत्यापन,सत्यापन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012282,SymbolDb popup actions,पॉपअप,पॉपअप,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012329,Unable to create a buffer: command aborted,को a कमांड,को a कमांड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012347,Selected directory in the project manager plugin,चयनित निर्देशिका इंच प्लगइन,चयनित निर्देशिका इंच प्लगइन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012359,Ask the user to get additional parameters,पूछें प्रयोक्ता को पाएं अतिरिक्त पैरामीटर्स,पूछें प्रयोक्ता को पाएं अतिरिक्त पैरामीटर्स,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012360,Command line parameters,कमांड लकीर पैरामीटर्स,कमांड लकीर पैरामीटर्स,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012364,New buffer,नया बफर,नया बफर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012367,Append to buffer,अंत में जोड़ें को,अंत में जोड़ें को,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012401,Online documentation and resources,ऑनलाइन दस्तावेज निर्माण और,ऑनलाइन दस्तावेज निर्माण और,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012404,Ask a _ Question,पूछें a प्रश्न,प्रश्न पूछें (_ T),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0012437,Text only,सिर्फ पाठ,सिर्फ पाठ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012459,Load API tags for C + + standard template library,लोड API के लिए सी,लोड API के लिए सी + + मानक टेम्पलेट लाइब्रेरी,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0012474,Python,पायथन,पायथन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012490,A Subversion client plugin based on libsvn,A सबवर्सन क्लाइंट प्लगइन पर,A सबवर्सन क्लाइंट प्लगइन पर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012495,Patches files and directories.,पैचेस फ़ाइल और.,पैचेस फ़ाइल और.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012531,JavaScript,जावास्क्रिप्ट,जावास्क्रिप्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012540,Add brace after function call autocompletion,जोड़ें पश्चात फंक्शन,जोड़ें पश्चात फंक्शन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012544,Markup,मार्कअप,मार्कअप,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012567,"Text color, as string","पाठ रंग, स्ट्रिंग जैसे","पाठ रंग, स्ट्रिंग जैसे",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012593,Whether this tag affects font scaling,क्या यह टैग फ़ॉन्ट स्केलिंग को प्रभावित करेगा,क्या यह टैग फ़ॉन्ट स्केलिंग को प्रभावित करेगा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012730,Shared Library (libtool),साझेदारी लाइब्रेरी,साझेदारी लाइब्रेरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0012731,Static Library (Libtool),स्थिर लाइब्रेरी,स्थिर लाइब्रेरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0013748,Remote popup menu,रिमोट नामः,रिमोट नाम:,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0013778,Use spaces for parenthesis indentation,स्मार्ट हाशिया,स्मार्ट हाशिया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0013942,New _ Folder...,नया निर्देशिका,नया फ़ाइल,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0014142,Python loader,पायथन मोड्यूल,पायथन मोड्यूल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0014209,Export snippets,निर्यात स्निपेट,निर्यात स्निपेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0014216,Indentation size in spaces:,आकार इंचः,आकार इंचः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0014704,Shared Library (Libtool),साझेदारी लाइब्रेरी,साझेदारी लाइब्रेरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0019692,"Python support plugin for code completion, auto indentation etc.",सी और जावा समर्थन प्लगइन के लिए कोड स्वचालित.,पायथन समर्थन प्लगइन के लिए कोड स्वचालित.,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0026006,Remove recently used project from list,नहीं प्रयुक्त संसाधन पाया के साथ यूआरआई से.,सूची से हालिया प्रयुक्त परियोजना हटाएँ,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0026307,The start index of the AtkHyperlink object,एटीके-हायपरलिंक वस्तु का प्रारंभ सूची,एटीके-हायपरलिंक वस्तु का प्रारंभ सूची,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026309,accelerator label,त्वरक लेबल,त्वरक लेबल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026324,dialog,संवाद,संवाद,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026327,file chooser,फ़ाइल-चयनक,फ़ाइल-चयनक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026331,glass pane,काँच-फलक,प्रीव्यू,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0026333,icon,प्रतीक,प्रतीक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026339,list item,सूची मद,सूची मद,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026412,Accessible Table Column Header,पहुँच योग्य सारणी स्तंभ शीर्षिका,पहुँच योग्य सारणी स्तंभ शीर्षिका,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026415,Is used to notify that the table column description has changed,पहुँच योग्य सारणी स्तंभ वर्णन बदल चुका है यह बताने हेतु उपयोग में आता है,पहुँच योग्य सारणी स्तंभ वर्णन बदल चुका है यह बताने हेतु उपयोग में आता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026419,Is used to notify that the table row description has changed,पहुँच योग्य सारणी पंक्ति वर्णन बदल चुका है यह बताने हेतु उपयोग में आता है,पहुँच योग्य सारणी पंक्ति वर्णन बदल चुका है यह बताने हेतु उपयोग में आता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026423,Is used to notify that the table caption has changed,सारणी शीर्षक बदल चुका है यह बताने हेतु उपयोग में आता है,सारणी शीर्षक बदल चुका है यह बताने हेतु उपयोग में आता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026774,table row,सारणी पंक्ति,सारणी पंक्ति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0026783,grouping,समूहबद्धता,समूहबद्धता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027056,table row,सारणी पंक्ति शीर्षिका,सारणी पंक्ति,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0027686,atk - bridge: Couldn 't listen on dbus server:% s,atk-ब्रिजः Dbus सर्वर पर सुनने नहीं जा सकाः% s,Dop-JAN: Dbus सर्वर पर सुनने नहीं जा सकाः% s,marian_en_hi,en,hi,untranslated_words
+en_hi_iitb_english_hindi_0027724,_ Email Address:,ई-मेल पता,ई-मेल पताः,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0027737,Error when moving messages:% s,संदेश की जगह बदलते हुए गलती,संदेश की जगह बदलते हुए गलती,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027759,Error reading signature from% s,% s को लोड करने में गलती:% s,% s को लोड करने में गलती:% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027764,General,भेजें,सामान्य,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0027773,F _ orward string:,फोरवर्ड स्ट्रिंग,फिल्टर का नाम,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0027784,encrypt messages by default,पूर्वनिर्धारित जैसा करें,पूर्वनिर्धारित जैसा करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027791,Error displaying help for identities:% s,% s दिखाने में गलती:% s,% s दिखाने में गलती:% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027796,Cannot connect to% s,IMAP सर्वर से संबंध बंद कर रहा है,% s से संबंध बंद कर रहा है,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0027810,could not create new data object,अस्थायी फाईल% s बनाने में असमर्थ,अस्थायी फाईल% s बनाने में असमर्थ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027823,Select key,चुनो टेक्स्ट,चुनो टेक्स्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027837,from unknown,अग्यात,अग्यात,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027869,Mailbox% s does not appear to be a Mh mailbox.,% s मेलबाक्स Mh मेलबाक्स नहीं लगता,% s मेलबाक्स Mh मेलबाक्स नहीं लगता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027881,POP3 mailbox% s error:% s,पाप3 मेलबाक्स% s की टेम्प फाईल गलती% s,पाप3 मेलबाक्स% s की गलती%  s,marian_en_hi,en,hi,untranslated_words
+en_hi_iitb_english_hindi_0027887,west europe (euro),जायनीज ट्रेडिशनल,जायनीज ट्रेडिशनल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027901,The signature is valid.,यह प्रमाण पत्र वैध है,यह प्रमाण पत्र वैध है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027910,User ID 's:,उपयोगकर्ता,उपयोगकर्ता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027940,_ Pass Phrase:,पास फ्रेस,पास फ्रेस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027951,Select entire mail,पूरा पत्र चुन लो,पूरा पत्र चुन लो,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027967,_ Outbox:,आउटबाक्स,जाती डाक,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0027968,_ Sentbox:,सेण्टबाक्स,सेन्टबाक्स,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0027970,_ Trash:,कचराः,रद्दी (_ T):,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0027972,"The mailbox ""% s"" does not appear to be valid.",मेलबाक्स% s वैध नहीं लगता,मेलबाक्स% s वैध नहीं लगता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027978,_ Type of mail server:,एक्सेस (पहुंचने) का तरीका: पत्र-सर्वर,मेल सर्वर का प्रकार (_ T):,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0027982,_ Local mail directory:,स्थानीय मेल डायरेक्टरी,स्थानीय मेल डायरेक्टरी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0027996,Rubrica Address Book,पता किताब,पता किताब,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028012,Send - To,भेजें इन को,यहाँ भेजें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028016,Could not launch% s:% s,% s नहीं बचाया जा सकाः% s,% s नहीं बचाया जा सकाः% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028019,Modify% s Address Book,पता किताब,पता किताब,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028026,_ Host Name,होस्ट का नाम,होस्ट का नाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028027,Base Domain _ Name,आधार (बेस) डोमेन का नाम,आधार डोमेन नाम (_ B),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0028042,Reply To _ All...,सबको पुन प्ले करें...,सबको जवाब दें... (_ A),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028062,Failed to find mailbox,पत्र डालने का सन्दूक खोजने में असमर्थ,पत्र डालने का सन्दूक खोजने में असमर्थ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028095,Detected a good signature,हस्ताछर में एक्सिक्यूट करो,हस्ताछर में एक्सिक्यूट करो,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028114,Access type:% s,एक्सेस (पहुंचने) का तरीका:% s,एक्सेस (प्रकार% s),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028129,Disposition - Notification - To:,इन्हें व्यवस्था को सूचना दें,सूचना - इन्हेंः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028132,Send link...,पत्र भेज रहा है.....,पत्र भेज रहा है पत्र,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028151,None of the regular expressions matches,नियमानुसार एक्सप्रेशन मिलानों में से कोई नहीं,नियमानुसार एक्सप्रेशन मिलानों में से कोई नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028152,Match when date is in the interval:,मिलान करें जब तारीख इस (इन्टरवैल) में हो,मिलाने करें जब तारीख इस (X) में हो,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028166,_ Body,बाडी,शरीर (_ C),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028185,Error displaying filter help:% s,% s दिखाने में गलती:% s,% s दिखाने में गलती:% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028197,Move to folder:,इस फोल्डर में ले जाएँ,फोल्डर में खिसकाएँ,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028218,"Unable to export filter% s, an error occurred.",% s फिल्टर को निर्यात करने में असफल त्रुटि हो गई है,"% s फिल्टर को निर्यात करने में अक्षम, एक त्रुटि हुई.",marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0028221,Error displaying run filters help:% s,% s दिखाने में गलती:% s,% s दिखाने में गलती:% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028222,Error when applying filters,फिल्टर लगाने में त्रुटि,फिल्टर लगाने में त्रुटि,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028239,Use _ r name:,यूजर नाम,आर का नामः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028248,Cancel,निरस्त,रद्द करें,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028276,Folder deletion failed. Reason:% s,SSL असफल:% s,फ़ोल्डर मिटाना असफल. कारणः% s,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028290,_ Username:,उपयोगकर्ता का नाम,उपयोक्ता नाम (_ P):,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028297,Scanning of% s failed:% s Check network connectivity.,SSL असफल:% s,SSL असफल:% s,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028317,Local mailbox% s loaded as:% s,लोकल (स्थानीय) मेलबाक्स% s लोड किया है इस नाम से:% s,लोकल एम एच मेलबाक्स% s इस तरह लोड हो गया,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028330,Attach file at URI,रास्ते में नयी फाइल जोड़ो,यूआरआई में फ़ाइल जोड़ें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028333,Outbox,आउट बाक्स,जाती डाक,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028334,Sentbox,सेटबाक्स,सेन्टबाक्स,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028346,_ Tools,उपकरण बार,औज़ार (_ T),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028353,Fetch new incoming mail,लेकर आएँ नई आने वाली डाक,आने वाली नई आने वाली मेल को लाएँ,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028356,Send and _ Receive Mail,भेजें और पाएँ सन्देश,भेजें और पाएँ डाक,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028361,_ Message...,सूचना... (M),संदेश,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0028362,Compose a new message,बनाएँ नई सूचना,नया संदेश लिखेंNew,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028363,Local mbox mailbox...,लोकल एम बाक्स मेलबाक्स,लोकल एम एच मेलबाक्स,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028365,Local Maildir mailbox...,लोकल मेल डी आई आर मेलबाक्स,लोकल मेल डी आई आर मेलबाक्स,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028366,Add a new Maildir style mailbox,नई मेल डी आई आर तरह का मेल बाक्स जोड़ें,नई मेल डी आई आर तरह का मेल बाक्स जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028369,New mailbox...,मेलबाक्स फिर से खोल रहा है,लोकल एम एच मेलबाक्स,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028407,_ Delete...,मिटाएँ...,मिटाएं...,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028408,Delete the selected mailbox,छाँटे गए मेलबाक्स को मिटाओ,छाँटे गए मेलबाक्स को मिटाएँ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028417,Reply to _ All...,वर्तमान काल के संदेश तक उत्तर दें,सबको जवाब दें... (_ A),marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028421,Store address of sender in addressbook,भेजने वाले का पता पते वाली किताब में बचाओ,भेजने वाले का पता पते वाली किताब में बचाओ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028425,Forward the current message,संदेश को आगे बढ़ाएँ,वर्तमान काल के संदेश को आगे भेजें,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028435,Save Current Part...,वर्तमान काल के हिस्से को बचाएँ,वर्तमान काल के हिस्से को बचाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028453,Toggle Answered,नयों को टागल करें,नयों को टागल करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028465,_ Read,हटाओ,पढ़ें (_ R),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028474,Display no headers,कोई हेडर न दिखाएँ,कोई हेडर न दिखाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028497,Unable to Open Mailbox!% s.,मेलबाक्स में ताला लगाने में असमर्थ,मेलबाक्स खोलने में असमर्थ% s,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028499,IMAP mailbox:% s,लोकल एम एच मेलबाक्स,पत्र डालने का सन्दूक% s,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028525,_ Selected Headers,चुने हुए शीर्ष,चयनित हेडर,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028531,Bad spellers,खराब स्पेलटर्स,खराब म्यूटर,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028535,JWZ,जे डब्ल्यू जेड,जे डब्ल्यू जेड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028548,Select your local mail directory,अपनी स्थानीय मेल डायरेक्ट्री चुनें,अपनी स्थानीय मेल डायरेक्टरी चुनें,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028614,Default threading style:,पूर्वनिर्धारित थ्रेडिंग का तरीका,तयशुदा थ्रेडिंग शैलीः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028622,Check quoted,चेक कोटेड,चेक कोटेड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028629,Message window,संदेश विंडो,संदेश विंडो,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028630,After moving a message:,संदेश की जगह बदलते हुए गलती,संदेश की जगह बदलते हुए गलती,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028631,Startup options,उपकरण बार,प्रारंभिक विकल्प,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028643,Show dialog,सूची में दिखाएँ,दिखाएँ संवाद,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028647,Ask me,मुझसे से पूछें,मुझसे पूछें,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0028673,_ Dutch,डच,डच,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028676,_ French,फ्रेंच,फ्रेंच (_ F),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028680,_ Hungarian,हंगेरियन,हंगेरियन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028695,_ Turkish,टर्कीश,तुर्की,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028700,_ Include File...,फाइल लगाएं,फाइल लगाएं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028705,Include selected message (s),संदेश जोड़ें,संदेश जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028734,Request Message Disposition Notification,संदेश प्राप्ति को नोटिफिकेशन का निवेदन,संदेश प्राप्ति को नोटिफिकेशन का निवेदन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028745,Choose charset,पता चुनें,पता चुनें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028750,"Message from% s, subject: ""% s""",नया संदेश,नया संदेश,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028751,Remove,हटाओ,हटाएँ,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028762,"inlined file ""% s"" (% s)",गलत फिल्टर:% s,गलत फिल्टर :% s,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0028772,References:,रिफरेंस:% s,रुजू हो,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0028790,You selected OpenPGP security for this message.,संदेश के लिए,इस संदेश के लिए आपने ओपन- पीजीपी सुरक्षा चुना है.,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028796,Send failed:% s,क्लोज असफल रहा,क्लोज असफल रहा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028813,Finish spell checking,मात्रा की जांच समाप्त,मात्रा की जांच समाप्त,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028814,Revert all changes and finish spell checking,सभी परिवर्तन निरस्त कर मात्रा की जांच समाप्त करें,सभी परिवर्तन निरस्त कर मात्रा की जांच समाप्त करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028828,Reply to all,जवाब सभी को,सबको जवाब,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0028834,Next part,अगला हिस्सा,अगला हिस्सा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028836,Postpone,पोस्टपोन,पोस्टपोन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028839,Attach,जोड़ें,संलग्न करें,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0028857,Toolbar _ style...,उपकरण बार,उपकरण बार,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028859,Current toolbar,उपकरण बार,उपकरण बार,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028876,Home folder,घर फ़ोल्डर,घर फ़ोल्डर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028880,_ Copy Path to Clipboard,क्लिपबोर्ड में पथ की नक़ल लें (_ C),क्लिपबोर्ड में पथ की नक़ल लें (_ C),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028887,Treemap Chart,ट्रीमैप चार्ट,ट्रीमैप चार्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028891,_ Move to parent folder,जनक फ़ोल्डर में खिसकाएँ (_ M),जनक फ़ोल्डर में खिसकाएँ (_ F),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0028894,Select Folder,फोल्डर चुनें,फोल्डर चुनें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028900,Failed to move file to the trash,रद्दी में फाइल नहीं खिसका सका,रद्दी में फाइल नहीं खिसका सका,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028912,Main volume,प्रधान वॉल्यूम,प्रधान वॉल्यूम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0028996,Scan a folder,फ़ोल्डर स्कैन करें,फ़ोल्डर स्कैन करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029006,Calculating percentage bars...,प्रतिशत बार की गणना कर रहा है...,प्रतिशत बार की गणना कर रहा है...,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029011,Could not initialize monitoring,मॉनिटरिंग प्रारंभ नही कर सका,मौड्यूल आरंभ नहीं कर सका,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0029044,Windows share,विंडोज़ शेयर,विंडोज़ शेयर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029046,Secure WebDAV (HTTPS),सुरक्षित WebDAV (HTTPS),सुरक्षित वेबकिट (HHH40S),marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0029047,Cannot Connect to Server. You must enter a name for the server.,सर्वर से जोड़ नहीं सका. सर्वर हेतु आपको एक नाम प्रविष्ट करना होगा.,सर्वर से जोड़ नहीं सका. सर्वर हेतु आपको एक नाम प्रविष्ट करना होगा.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029051,Optional information:,वैकल्पिक जानकारी,वैकल्पिक जानकारी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029059,_ Scan,स्कैन करें (_ S),स्कैन करें (_ S),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029079,There was an error displaying help.,मदद दिखाने में कोई त्रुटि हुई.,मदद दिखाने में कोई त्रुटि हुई.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029144,Cancel,रद्द करें,रद्द करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029250,Conversations in {0} ({1}),{0} में वार्तालाप,{0} में वार्तालाप,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029259,"Today, {0}","आज, {0}","आज, {0}",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029276,Send Mail,डाक में भेजें,डाक भेजें,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0029291,Set as Wallpaper,वॉलपेपर की तरह लगाएँ,वालपेपर की तरह सेट करें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0029299,Open With,खोलें,इसके साथ खोलें,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0029304,Applications,अनुप्रयोग (_ A),अनुप्रयोग,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0029307,Images,छवि,बिंब,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0029312,Websites,वेबसाईट,वेबसाइट,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0029316,Accessed:,पहुंचाः,पहुंचाः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029354,Select Folder,फ़ोल्डर चुनें,फोल्डर चुनें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0029355,Connecting to {0},{0} से वार्तालाप,{0} से वार्तालाप,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029370,Format used mostly on the North American Continent,प्रारूप अधिकतर उत्तर अमेरिकी महाद्वीप पर प्रयुक्त होता है,प्रारूप अधिकतर उत्तर अमेरिकी महाद्वीप पर प्रयुक्त होता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029371,_ PAL / SECAM,_ PAL/SECAM,पालतू जानवरों,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0029375,_ 4: 3,_ 4:3,4: 3,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0029386,Playlists cannot be added to video or audio discs,गीत-सूची को विडियो या श्रव्य डिस्क में जोड़ी नहीं जा सकती है,गीत-सूची को विडियो या श्रव्य डिस्क में जोड़ी नहीं जा सकती है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029389,Hidden file,छुपी फ़ाइल,छुपी फ़ाइल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029412,Brasero - Burning DVD (Simulation),ब्रैसेरो-डीवीडी लिख रहा है (सिमुलेशन),ब्रैसेरो-डीवीडी लिख रहा है (सिमुलेशन),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029416,Simulation of data DVD burning,आँकड़ा डीवीडी बर्निंग का सिमुलेशन,आँकड़ा डीवीडी बर्निंग का सिमुलेशन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029423,Simulation of data DVD copying,आँकड़ा डीवीडी की नक़ल में सिमुलेशन,आँकड़ा डीवीडी की नक़ल में सिमुलेशन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029426,Brasero - Burning CD (Simulation),ब्रैसेरो-सीडी लिख रहा है (सिमुलेशन),ब्रैसेरो- सीडी लिख रहा है (सिमुलेशन),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029433,Burning data CD,डाटा CD लिख रहा है,डाटा CD लिख रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029437,Copying CD,CD कॉपी कर रहा है,CD कॉपी कर रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029438,Simulation of image to CD burning,छवि की सीडी बर्निंग का सिमुलेशन,छवि की सीडी बर्निंग का सिमुलेशन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029452,Simulation of image to disc burning,छवि की डिस्क बर्निंग का सिमुलेशन,छवि की डिस्क बर्निंग का सिमुलेशन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029461,Please insert a recordable CD.,कृपया डिस्क को किसी रिकार्ड करने योग्य डिस्क के साथ घुसाएँ.,कृपया डिस्क को किसी रिकार्ड करने योग्य डिस्क के साथ घुसाएँ.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029465,Please insert a recordable DVD.,कृपया किसी रिकार्ड करने योग्य डिस्क को डालें.,कृपया किसी रिकार्ड करने योग्य डिस्क को डालें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029467,Please replace the disc with a recordable CD or DVD.,कृपया डिस्क को किसी रिकार्ड करने योग्य सीडी या डीवीडी के साथ बदलें.,कृपया डिस्क को किसी रिकार्ड करने योग्य डिस्क या डीवीडी के साथ बदलें.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029471,A data integrity test will begin as soon as the disc is inserted.,आँकड़ा अखंडता जाँच शुरू हो जाएगी जैसे ही कोई रिकार्ड करने योग्य डिस्क घुसाई जाती है.,आँकड़ा अखंडता जाँच शुरू हो जाएगी जैसे ही कोई लिखने योग्य डिस्क घुसाई जाती है.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029479,"The disc in ""% s"" is not writable.","""% s"" में डिस्क लिखने योग्य नहीं है.","""% s"" में डिस्क लिखने योग्य नहीं है.",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029490,Location for Temporary Files,अस्थायी फ़ाइल का स्थान,अस्थायी फ़ाइल का स्थान,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029496,Do you want to continue anyway?,क्या आप किसी तरह से जारी रखना चाहते हैं?,क्या आप किसी तरह से जारी रखना चाहते हैं?,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029505,Brasero - Creating Image (% i%% Done),ब्रैसेरो-छवि बना रहा है (% i%% संपन्न),ब्रैसेरो-डिस्क छवि बना रहा है (% i%% संपन्न),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029509,Brasero - Burning CD (simulation),ब्रैसेरो-सीडी लिख रहा है (सिमुलेशन),ब्रैसेरो- सीडी लिख रहा है (सिमुलेशन),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029510,Brasero - Burning CD (% i%% Done),ब्रैसेरो-सीडी लिख रहा है (% i%% संपन्न),ब्रैसेरो- सीडी लिख रहा है (% i%% संपन्न),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029513,The simulation was successful.,सिमुलेशन सफल था.,सिमुलेशन सफल था.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029516,Save Current Session,मौज़ूदा सत्र सहेजें,मौज़ूदा सत्र सहेजें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029520,This is a excerpt from the session log (the last 10 MiB):,सत्र लॉग से एक अंश है (अंतिम 10 MiB):,सत्र लॉग से एक अंश है (पिछले 10 MiB):,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029525,Video DVD successfully burned,आँकड़ा डीवीडी सफलतापूर्वक लिखा गया,वीडियो डीवीडी सफलतापूर्वक लिखा गया,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029528,DVD successfully copied,डीवीडी सफलतापूर्वक कॉपी किया गया,डीवीडी सफलतापूर्वक कॉपी किया गया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029539,There are some files left to burn,कुछ फाइलें लिखने को छूट गई हैं,कुछ फाइलें लिखने को छूट गई हैं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029541,There are some more songs left to burn,कुछ और गीत लिखने को छूट गई हैं,कुछ और गीत लिखने को छूट गई हैं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029553,There is no recordable disc inserted.,कोई रिकार्ड करने योग्य डिस्क घुसाई नहीं गई है.,कोई रिकार्ड करने योग्य डिस्क घुसाई नहीं गई है.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029563,There is no selected disc image.,कोई चुना गया डिस्क छवि नहीं है. disc,कोई चुना गया डिस्क छवि नहीं है.disc,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029593,No burner specified,कोई बर्नर निर्दिष्ट नहीं,कोई बर्नर निर्दिष्ट नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029596,The drive cannot be locked (% s),ड्राइल बंद नहीं किया जा सकता है (% s),ड्राइल बंद नहीं किया जा सकता है (% s),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029598,Ongoing blanking process,चालू रिक्तिकरण प्रक्रिया,चालू रिक्तिकरण प्रक्रिया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029599,The drive cannot burn or the disc cannot be burnt,ड्राइव लिखा नहीं जा सकता है या डिस्क लिखा नहीं जा सकता है,ड्राइव लिखा नहीं जा सकता है या डिस्क लिखा नहीं सकता है,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029615,Do you really want to choose this location?,क्या आप वाकई यह स्थान चुनना चाहते हैं?,क्या आप वाकई यह स्थान चुनना चाहते हैं?,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029635,Temporary files,अस्थायी फ़ाइल,अस्थायी फ़ाइल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029656,Click here to select a disc _ image,डिस्क छवि चुनने के लिए यहाँ क्लिक करें (_ i),डिस्क छवि चुनने के लिए यहाँ क्लिक करें (_ s),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029664,Show dialog,दिखाएँ संवाद,दिखाएँ संवाद,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029667,Getting size,आकार पा रहा है,आकार पा रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029683,The filesystem you chose to store the temporary image on cannot hold files with a size over 2 GiB,फ़ाइलतंत्र जिसे आपने चुना अस्थायी छवियों को जमा करने के लिए वह 2 GiB से अधिक आकार की फ़ाइलों को रख नहीं सकता है,फ़ाइलतंत्र जिसे आपने चुना अस्थायी छवियों को जमा करने के लिए वह 2 GiB से अधिक आकार की फ़ाइलों को रख नहीं सकता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029687,An internal error occured (% s),आंतरिक त्रुटि आई (% s),आंतरिक त्रुटि आई (% s),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029708,Background Properties,पृष्ठभूमि गुण,पृष्ठभूमि गुण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029745,DVD - R,डीवीडी-आर,डीवीडी-आर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029763,Audio and data disc (% s),ध्वनि और आँकड़ा डिस्क (% s),ध्वनि और आँकड़ा डिस्क (% s),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029768,Type mismatch,प्रकार बेमेल,प्रकार बेमेल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029769,Bad argument,बुरा तर्क,बुरा तर्क,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029770,Outrange address,दायरा बाहर पता,दायरा बाहर पता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029773,Invalid parameter in command,कमांड में अवैध पैरामीटर,कमांड में अवैध पैरामीटर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029775,The device timed out,इस युक्ति का समय समाप्त हो गया,इस युक्ति का समय समाप्त हो गया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029782,Unrecognized launch option:% d,अपरिचित लॉन्च विकल्पः% d,अपरिचित लॉन्च विकल्पः d,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029783,Can 't pass document URIs to a' Type = Link 'desktop entry,दस्तावेज़ URI को 'Type = Link' डेस्कटॉप प्रविष्टि में भेज नहीं सकता है,दस्तावेज़ URI को 'Type=Link' डेस्कटॉप प्रविष्टि में भेज नहीं सकता है,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0029818,P _ lugins,प्लगइन (_ l),प्लगइन (_l),marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0029829,About,के बारे में,के बारे में,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029833,"You should have received a copy of the GNU General Public License along with Brasero; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110 - 1301, USA","You should have received a copy of the GNU General Public License along with Brasero; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA","आपको ब्रैसेरो के साथ GNU जनरल पब्लिक लाइसेंस की एक प्रतिलिपि प्राप्त हुई होगी; यदि नहीं, तो फ्री सॉफ्टवेयर फाउंडेशन, inc,51 फ्रेंकलिन स्ट्रीट, पांचवीं मंजिल, बोस्टन, मा 02110-1301 USA",marian_en_hi,en,hi,untranslated_words
+en_hi_iitb_english_hindi_0029835,Brasero Homepage,ब्रेसेरो होमपेज,ब्रेसेरो होमपेज,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029844,Favourite burn engine,पसंदीदा बर्न इंजन,पसंदीदा बर्न इंजन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029848,"Enable ""- immed"" flag with cdrecord","""-immed"" फ्लैग को cdrecord के साथ सक्रिय करें","""-immed"" फ्लैग को cdrecord के साथ सक्रिय करें",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029852,"Used in conjunction with ""- immed"" flag with cdrecord","""-immed"" फ्लैग के साथ cdrecord के साथ प्रयुक्त","""-immed"" फ्लैग के साथ cdrecord के साथ प्रयुक्त",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029856,Whether to display a side pane. Set to true to use it.,क्या बाज़ू पट्टी को दिखाना है. इसे प्रयोग के लिए सही पर सेट करें.,क्या बाज़ू पट्टी को दिखाना है. इसे प्रयोग के लिए सही पर सेट करें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029871,Width for video preview,वीडियो पूर्वावलोकन की चौड़ाई,वीडियो पूर्वावलोकन की चौड़ाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029874,Default height for video preview.,वीडियो पूर्वावलोकन के लिए तयशुदा ऊँचाई.,वीडियो पूर्वावलोकन के लिए तयशुदा ऊँचाई.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029881,Should brasero notify when files are filtered,क्या ब्रैसेरो को सूचित करना चाहिए जब फाइल फिल्टर की जाती है,क्या ब्रैसेरो को सूचित करना चाहिए जब फाइल फिल्टर की जाती है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029902,"Do you want to add ""% s"" which is a video file?","क्या आप ""% s"" को जोड़ना चाहते हैं जो कि एक वीडियो फ़ाइल है?","क्या आप ""% s"" को जोड़ना चाहते हैं जो कि एक वीडियो फ़ाइल है?",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029903,This file is a video and therefore only the audio part can be written to the disc.,यह फाइल वीडियो है और इसलिए केवल ऑडियो हिस्सा इस डिस्क पर लिखा जाएगा.,यह फाइल वीडियो है और इसलिए केवल ऑडियो हिस्सा इस डिस्क पर लिखा जाएगा.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029909,"""% s"" could not be opened.","""% s"" खोली नहीं जा सकी.","""% s"" खोली नहीं जा सकी.",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029936,Search:,ढूंढेंः,खोजेंः,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0029954,Error querying Beagle.,बीगल को प्रश्न करने में त्रुटि,बीगल को प्रश्न करने में त्रुटि,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029963,Track length:,ट्रैक लंबाईः,ट्रैक लंबाईः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029978,Should files be renamed to be fully Windows - compatible?,क्या फ़ाइलों को विंडोज संगत के रूप में पूर्ण रूप से फिर नाम दिया जाना चाहिए?,क्या फ़ाइलों को विंडोज संगत के रूप में पूर्ण रूप से फिर नाम दिया जाना चाहिए?,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029992,"Do you really want to add ""% s"" to the selection?","क्या आप ""% s"" चयन में जोड़ना चाहते हैं?","क्या आप ""% s"" चयन में जोड़ना चाहते हैं?",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029997,Do you want to import the session from '% s'?,क्या आप '% s' से सत्र आयात करना चाहते हैं?,क्या आप '% s' से सत्र आयात करना चाहते हैं?,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0029998,"That way, old files from previous sessions will be usable after burning.","उस तरह से, पिछले सत्र से पुरानी फाइलें लिखने के बाद प्रयोग लायक होगी.","उस तरह से, पिछले सत्र से पुरानी फाइलें लिखने के बाद प्रयोग लायक होगी.",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030000,Click here to import its contents,इसकी अंतर्वस्तु आयात करने के लिए यहाँ क्लिक करें,इसकी अंतर्वस्तु आयात करने के लिए यहाँ क्लिक करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030013,_ Show Side Panel,बाजू पटल दिखाएँ (_ S),बाजू पटल दिखाएँ (_ S),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030030,_ Add Files,फाइल जोड़ें (_ A),फ़ाइलें जोड़ें (_ A),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0030043,To remove files from this project you can:,फ़ाइल को परियोजना से हटाने के लिए आप कर सकते हैंः,फाइल को हटाने के लिए आप कर सकते हैंः,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0030049,The size of the project is too large for the disc and you must remove files from the project otherwise. You may want to use this option if you 're using 90 or 100 min CD - R (W) which cannot be properly recognised and therefore need overburn option. NOTE: This option might cause failure.,इस परियोजना का आकार काफी बड़ा है डिस्क के लिए आप फाइलों को अन्यथा परियोजना से जरूर हटाएँ. आप इस विकल्प का प्रयोग कर सकते हैं यदि आर 90 या 100 मिनट CD-R (W) का प्रयोग कर रहे हैं जो कि ठीक से पहचाना नहीं जा सकता है और इसलिए अतिलेखन विकल्प की जरूरत है. नोटः यह विकल्प विफलता का कारण बन सकती है.,इस परियोजना का आकार काफी बड़ा है डिस्क के लिए आप फाइलों को अन्यथा परियोजना से जरूर हटाएँ. आप इस विकल्प का प्रयोग कर सकते हैं यदि आर 90 या 100 मिनट CD-R (W) का प्रयोग करते हैं जो कि ठीक से जाना नहीं जा सकता है और इसलिए अतिलेखन की जरूरत है. नोट: यह विकल्प विफलता दे सकती है.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0030050,Start to burn the contents of the selection,चयन की अंतर्वस्तु लिखना आरंभ करें,चयन की अंतर्वस्तु लिखना आरंभ करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030067,Brasero -% s (Video Disc),ब्रैसेरो-% s (वीडियो डिस्क),ब्रैसेरो-% s (वीडियो डिस्क),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030071,Cl _ ose Without Saving,बिना सहेजें बंद करें (_ o),बिना सहेजें बंद करें (_ S),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0030078,Save project as an IRIVER playlist,बतौर IRIVER गीतसूची परियोजना सहेजें,बतौर एमआरआईएसआई प्लेलिस्ट परियोजना सहेजें,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0030138,Size Estimation,आकार अनुमान,आकार अनुमान,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030139,Please wait until the estimation of the size is completed.,कृपया प्रतीक्षा करें जब तक कि आकार का अनुमान पूर्ण नहीं हो जाता है.,कृपया प्रतीक्षा करें जब तक कि आकार का अनुमान पूर्ण नहीं हो जाता है.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030147,PROJECT,परियोजना,परियोजना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030149,PLAYLIST,गीतसूची,गीतसूची,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030154,Cover to use,प्रयोग के लिए आवरण,प्रयोग के लिए आवरण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030162,Burn the contents of burn: / / URI,burn:// URI की अंतर्वस्तु लिखें,बर्न की अंतर्वस्तु लिखेंः// URI,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0030163,Burn the specified project and REMOVE it. This option is mainly useful for integration use with other applications.,निर्दिष्ट परियोजना लिखें और इसे हटाएँ. यह विकल्प एकत्रण के लिए मुख्यतः उपयोगी है दूसरे अनुप्रयोगों के साथ.,निर्दिष्ट परियोजना लिखें और इसे हटाएँ. यह विकल्प एकत्रण के लिए मुख्य रूप से उपयोगी है दूसरे अनुप्रयोगों के साथ.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0030167,Incompatible command line options used.,असंगत कमांड लाइन विकल्प प्रयुक्त.,असंगत कमांड लाइन विकल्प प्रयुक्त.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030179,Converting toc file,toc फ़ाइल बदल रहा है,toc फ़ाइल बदल रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030182,An image could not be created,एक छवि नहीं बनाई जा सकी,एक छवि नहीं बनाई जा सकी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030185,Unknown character encoding,अज्ञात वर्ण एन्कोडिंग,अज्ञात वर्ण एन्कोडिंग,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030193,Formatting disc,डिस्क संरूपित कर रहा है,डिस्क संरूपित कर रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030202,This version of mkisofs is not supported,mkisofs का संस्करण समर्थित नहीं है,mkisofs का संस्करण समर्थित नहीं है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030204,Use readcd to create disc images,readcd का प्रयोग डिस्क छवि बनाने के लिए करें,readcd का प्रयोग डिस्क छवि बनाने के लिए करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030206,Libdvdcss version% s is not supported. Please install libdvdcss version 1. 2. x,Libdvdcss संस्करण% s समर्थित नहीं है. libdvdcss संस्करण 1.2. x संस्थापित करें,libdvdcss संस्करण% s समर्थित नहीं है. कृपया libcs संस्करण 1 संस्थापित करें. x,marian_en_hi,en,hi,untranslated_words
+en_hi_iitb_english_hindi_0030236,Normalizing tracks,ट्रैक को सामान्यीकृत कर रहा है,ट्रैक को सामान्यीकृत कर रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030265,Add a splitting point,एक अलगाव बिंदु जोड़ेंseconds,एक अलगाव बिंदु जोड़ेंseconds,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030276,Clear the slices preview,स्लाइस पूर्वावलोकन साफ करें,स्लाइस पूर्वावलोकन साफ करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030278,Slices Preview,स्लाइस पूर्वावलोकन,स्लाइस पूर्वावलोकन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030279,Hours,घंटा,घंटा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030290,Eject Disc,डिस्क बाहर निकालें,डिस्क बाहर निकालें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030292,Filter Options,फ़िल्टर विकल्प,फ़िल्टर विकल्प,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030296,Restore the selected files,चुनी फ़ाइलें फिर बहाल करें,चुनी फ़ाइलें फिर बहाल करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030309,File Checksum,फ़ाइल चेकसम,फ़ाइल चेकसम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030315,Data could not be read (% s),आँकड़ा पढ़ा नहीं जा सका (% s),आँकड़ा पढ़ा नहीं जा सका (% s),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030339,"""% s"" does not have a suitable type for video projects.","""% s"" वीडियो परियोजना के लिए उपयुक्त प्रकार नहीं रखता है.","""% s"" वीडियो परियोजना के लिए उपयुक्त प्रकार नहीं रखता है.",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030369,Format used mostly on the North American continent,प्रारूप अधिकतर उत्तर अमेरिकी महाद्वीप पर प्रयुक्त होता है,प्रारूप अधिकतर उत्तर अमेरिकी महाद्वीप पर प्रयुक्त होता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030451,Please replace the disc with a writable DVD.,कृपया डिस्क को किसी रिकार्ड करने योग्य डीवीडी के साथ बदलें.,कृपया डिस्क को किसी लिखने योग्य डीवीडी के साथ बदलें.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0030593,%. 1f× (CD),%. 1f x (CD),%. 1f× (CD),marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0030679,Background properties,पृष्ठभूमि गुण,पृष्ठभूमि गुण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0030877,"Activate fast blanking, as opposed to a longer, thorough blanking",तेज रिक्तिकरण सक्रिय करें लंबे समग्र रिक्तिकरण के बजाए,"तेज रिक्तिकरण सक्रिय करें, लंबे समग्र, रिक्तिकरण के बजाए",marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0031023,Save project as an iriver playlist,बतौर एम3यू प्लेलिस्ट परियोजना सहेजें,बतौर iriver प्लेलिस्ट परियोजना सहेजें,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0031113,Wrong command line option.,असंगत कमांड लाइन विकल्प प्रयुक्त.,गलत कमांड लाइन विकल्प.,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0031175,Sets consistent sound levels between tracks,सामान्यीकरण ट्रैक के बीच सतत ध्वनि स्तर सेट करने की छूट देता है,ट्रैक्स के बीच सतत ध्वनि स्तर सेट करें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0031264,Delete every occurrence of,इसकी हर आवृत्ति मिटाएँ _ Replacewith,इसकी हर आवृत्ति मिटाएँ_Replacewith,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0031451,Do you want to replace the disc and continue?,"क्या आप ""% s"" को बदलना चाहते हैं?",क्या आप डिस्क को प्रतिस्थापित और जारी रखना चाहते है?,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0031904,A file with this name already exists in the folder. Replacing it will overwrite its contents on the disc to be burnt.,इस नाम के साथ फ़ाइल पहले से फोल्डर में मौजूद है. इसे बदलना इसकी अंतर्वस्तु पर लिख देगा (केवल डिस्क पर).,इस नाम के साथ फ़ाइल पहले से फोल्डर में मौजूद है. इसे बदलना इसकी अंतर्वस्तु पर लिख देगा (केवल डिस्क पर).,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0032332,Please replace the disc with a writable DVD.,कृपया डिस्क को किसी लिखने योग्य डीवीडी के साथ बदलें.,कृपया डिस्क को किसी लिखने योग्य डीवीडी के साथ बदलें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0032340,A data integrity test will begin as soon as the disc is inserted.,आँकड़ा अखंडता जाँच शुरू हो जाएगी जैसे ही कोई लिखने योग्य डिस्क घुसाई जाती है.,आँकड़ा अखंडता जाँच शुरू हो जाएगी जैसे ही कोई लिखने योग्य डिस्क घुसाई जाती है.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0032385,Video DVD successfully burned,वीडियो डीवीडी सफलतापूर्वक लिखा गया,वीडियो डीवीडी सफलतापूर्वक लिखा गया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0032996,This version of mkisofs is not supported,mkisofs का संस्करण समर्थित नहीं हैregionset% s,mkisofs का संस्करण समर्थित नहीं है,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0033176,"Activate fast blanking, as opposed to a longer, thorough blanking","तेज रिक्तिकरण सक्रिय करें, लंबे समग्र, रिक्तिकरण के बजाए","तेज रिक्तिकरण सक्रिय करें, लंबे समग्र, रिक्तिकरण के बजाए",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0033289,Do you want to replace the disc and continue?,क्या आप डिस्क को प्रतिस्थापित और जारी रखना चाहते है?,क्या आप डिस्क को प्रतिस्थापित और जारी रखना चाहते है?,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0033314,"Another copy will start as soon as you insert a new writable disc. If you do not want to burn another copy, press ""Cancel"".","दूसरी प्रतिलिपि को जल्दी शुरू करने के लिए आप एक नया लिखने योग्य डिस्क सम्मिलित करे. अगर आप दुसरे प्रतिलिपि को नहीं लिखना नहीं चाहते है, ""रद्द करे"" दबाये.","दूसरी प्रतिलिपि को जल्दी शुरू करने के लिए आप एक नया लिखने योग्य डिस्क सम्मिलित करे. अगर आप दुसरे प्रतिलिपि को नहीं लिखना नहीं चाहते है, ""रद्द करे"" दबाये.",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0033368,Please install the following manually and try again:,निम्नलिखित को दस्ती रूप से अधिष्ठापित और फिर कोशिश करेंः,निम्नलिखित को दस्ती रूप से अधिष्ठापित और फिर कोशिश करेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0033724,Sets consistent sound levels between tracks,ट्रैक्स के बीच सतत ध्वनि स्तर सेट करें,ट्रैक्स के बीच सतत ध्वनि स्तर सेट करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0033824,Wrong command line option.,गलत कमांड लाइन विकल्प.,गलत कमांड लाइन विकल्प.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0033844,A file with this name already exists in the folder. Replacing it will overwrite its contents on the disc to be burnt.,इस नाम के साथ फ़ाइल पहले से फोल्डर में मौजूद है. इसे बदलना डिस्क पर इसकी सामग्री के ऊपर लिख देगा..,इस नाम के साथ फ़ाइल पहले से फोल्डर में मौजूद है. इसे बदलना इसकी अंतर्वस्तु पर लिख देगा (केवल डिस्क पर).,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0033962,Save project as an iriver playlist,बतौर iriver प्लेलिस्ट परियोजना सहेजें,बतौर iriver प्लेलिस्ट परियोजना सहेजें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0034015,Insert number sequence at beginning,प्रारंभ में अनुक्रम संख्या सम्मिलित करें,प्रारंभ में अनुक्रम संख्या सम्मिलित करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0034019,Delete every occurrence of,हर आवृत्ति को मिटाएँ _ Replacewith,इसकी हर आवृत्ति मिटाएँ_Replacewith,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0038861,Real name of user reporting the bug.,उपयोगकर्ता का वास्तविक नाम जो बग रपट कर रहा है.,उपयोगकर्ता का वास्तविक नाम जो बग रपट कर रहा है.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038873,PID of crashed program,क्रेश हुए प्रोग्राम का पीआईडी,क्रेश हुए प्रोग्राम का पीआईडी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038880,There has been a network error while sending the report. Do you want to save this report and send it later?,वहाँ एक संजाल त्रुटि रही है जब रिपोर्ट भेजा जा रहा है. क्या आप इस रिपोर्ट को सहेजना चाहते हैं और इसे बाद में भेजना चाहते हैं?,वहाँ एक संजाल त्रुटि रही है जब रिपोर्ट भेजा जा रहा है. क्या आप इस रिपोर्ट को सहेजना चाहते हैं और इसे बाद में भेजना चाहते हैं?,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038883,A bug report detailing your software crash has been sent to GNOME. This information will allow the developers to understand the cause of the crash and prepare a solution for it. You may be contacted by a GNOME developer if more details are required about the crash. You can view your bug report and follow its progress with this URL:,आपके सॉफ्टवेयर के क्रैश से जुड़ा विवरण युक्त बग रिपोर्ट GNOME को भेजा जा रहा है. यह सूचना डेवलपर को क्रैश का कारण समझने और इसके लिए समाधान तैयार करने में मदद करेगी. क्रैश के बारे में यदि अधिक विवरण की जरूरत होती है आपको GNOME डेवलपर के द्वारा संपर्क किया जा सकता है. आप बग रिपोर्ट देख सकते हैं और इसकी प्रगति इस URL के साथ अनुसरण कर सकते हैंः,आपके सॉफ्टवेयर के क्रैश से जुड़ा विवरण युक्त बग रिपोर्ट GNOME को भेजा जा रहा है. यह सूचना डेवलपर को क्रैश का कारण समझने और इसके लिए समाधान तैयार करने में मदद करेगी. क्रैश के बारे में यदि अधिक विवरण की जरूरत होती है आपको GNOME डेवलपर के द्वारा संपर्क किया जा सकता है. आप बग रिपोर्ट देख सकते हैं और इसकी प्रगति इस URL के साथ अनुसरण कर सकते हैंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038885,"Bugzilla reported an error when trying to process your request, but was unable to parse the response.","Bugzilla ने एक त्रुटि दिया जब आपके आग्रह प्रक्रिया करने की कोशिश रहा था, लेकिन अनुक्रिया के विश्लेषण में असमर्थ था.","Bugzilla ने एक त्रुटि दिया जब आपके आग्रह प्रक्रिया करने की कोशिश रहा था, लेकिन अनुक्रिया के विश्लेषण में असमर्थ था.",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038891,The description is required in your bug report. This should not happen with the latest Bug Buddy.,आपके बग रिपोर्ट में विवरण की जरूरत है. नवीनतम बग बड्डी में ऐसा नहीं होना चाहिए.,आपके बग रिपोर्ट में विवरण की जरूरत है. नवीनतम बग बड्डी में ऐसा नहीं होना चाहिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038901,_ Review description,विवरण की समीक्षा करें (_ R),वर्णन की समीक्षा करें (_ R),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0038904,"The application% s crashed. The bug reporting tool was unable to collect enough information about the crash to be useful to the developers. In order to submit useful reports, please consider installing debug packages for your distribution. Click the link below to get information about how to install these packages:","अनुप्रयोग क्रैश% s कर गया है. क्रैश के बारे में डेवलपर के लिए उपयोगी होने के लिए बग रिपोर्टिंग टूल पर्याप्त सूचना जमा करने में असमर्थ था. उपयोगी रिपोर्ट सुपुर्द करने के क्रम में, कृपया अपने वितरण के लिए डिबग संकुल संस्थापित करने की सोचें. नीचे के लिंक को इन संकुल के बारे में सूचना पाने के लिए क्लिक करें कि कैसे इसे संस्थापित किया जाएः","अनुप्रयोग क्रैश% s कर गया है. क्रैश के बारे में डेवलपर के लिए उपयोगी होने के लिए बग रिपोर्टिंग टूल पर्याप्त सूचना जमा करने में असमर्थ था. उपयोगी रिपोर्ट सुपुर्द करने के क्रम में, कृपया अपने वितरण के लिए डिबग संकुल संस्थापित करने की सोचें. नीचे के लिंक को इन संकुल के बारे मे सूचना पाने के लिए क्लिक करें कि कैसे इसे संस्थापित किया जाएः",marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0038909,Save File,फ़ाइल सहेजें,फ़ाइल सहेजें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038921,The% s application has crashed. We are collecting information about the crash to send to the developers in order to fix the problem.,% s अनुप्रयोग क्रैश हो चुका है. हम डेवलपर को भेजने के लिए समस्या को फिक्स करने के लिए क्रैश के बारे में सूचना जमा कर रहे हैं.,% s अनुप्रयोग क्रैश हो चुका है. हम डेवलपर को भेजने के लिए समस्या को फिक्स करने के लिए क्रैश के बारे में सूचना जमा कर रहे हैं.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0038925,Thank you for helping us improving our software. Please fill your suggestions / error information for% s application. A valid email address is required. This will allow developers to contact you for more information if necessary.,हमारे सॉफ्टवेयर के सुधार में मदद के लिए आपको धन्यवाद. कृपया% s अनुप्रयोग के लिए अपनी सलाह/त्रुटि सूचना को भरें. एक वैध ईमेल पता जरूरी है. यह डेवलपर को अधिक सूचना के लिए आपसे संपर्क करने की अनुमति देगा यदि जरूरी हो.,हमारे सॉफ्टवेयर के सुधार में मदद के लिए आपको धन्यवाद. कृपया% s अनुप्रयोग के लिए अपनी सलाह / त्रुटि जानकारी भरें. एक वैध ईमेल पता जरूरी है. यह डेवलपर को अधिक सूचना के लिए आपसे संपर्क करने की अनुमति देगा यदि जरूरी हो.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0039204,Enable scanning,स्कैन सक्रिय करें,स्कैन सक्रिय करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039224,Input,इनपुट,इनपुट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039250,The keyboard geometry Caribou should use,कुँजीपट ज्यामिति जिसे कैरिबो को उपयोग करना चाहिए,कुँजीपटल ज्यामिति कैरिबू को उपयोग करना चाहिए,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0039256,Minimum Alpha,अल्फा न्यूनतम,अल्फा न्यूनतम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039306,The keyboard geometry Caribou should use,कुँजीपटल ज्यामिति कैरिबू को उपयोग करना चाहिए,कुँजीपटल ज्यामिति कैरिबू को उपयोग करना चाहिए,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039318,Cheese,चीज,चीज,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039331,Picture brightness,तस्वीर चमकीलापन,तस्वीर चमकीलापन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039350,The number of photos to take in a single burst.,एकल बर्स्ट में लेने के लिए तस्वीर की संख्या,एकल बर्स्ट में लेने के लिए तस्वीर की संख्या.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0039361,Webcam,वेबकैम,वेबकैम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039370,No Effect,कोई प्रभाव नहीं,कोई प्रभाव नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039402,Unable to open help file for Cheese,चीज के लिए मदद फ़ाइल खोलने में असमर्थ,चीज के लिए मदद फ़ाइल खोलने में असमर्थ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039415,Help on this Application,इस अनुप्रयोग पर मदद,इस अनुप्रयोग पर मदद,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039700,Photo burst mode,बर्स्ट विधि,फोटो बर्स्ट विधि,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0039703,Leave fullscreen,पूर्ण स्क्रीन छोड़ें (_ L),पूर्ण स्क्रीन छोड़ दें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0039729,No Effect,अगला प्रभाव,कोई प्रभाव नहीं,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0039732,- Take photos and videos from your webcam,- अपने वेबकैम से तस्वीर और वीडियो लें,- अपने वेबकैम से तस्वीर और वीडियो लें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039738,Photo burst mode,फोटो बर्स्ट विधि,फोटो बर्स्ट विधि,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039741,Navigate to the previous page of effects,प्रभाव के पिछले पन्ने में संचरित करें,प्रभाव के पिछले पन्ने में संचरित करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039801,The number of photos to take in a single burst.,एकल बर्स्ट में लेने के लिए तस्वीर की संख्या.,एकल बर्स्ट में लेने के लिए तस्वीर की संख्या.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0039824,P _ references,वरीयताएँ (_ r),संदर्भ,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0039841,Stop _ Taking Pictures,तस्वीरें लेना (_ T) रोकें,तस्वीरें लेना रोकें (_ F),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0039858,"If set to true, Cheese will start up in wide mode, with the image collection placed on the right - hand side. Useful with small screens.","यदि सही पर सेट किया गया है, चीज़ विस्तार विधि में आरंभ होगा, दाहिने हिस्से में छवि संग्रह के साथ. छोटे स्क्रीन के साथ उपयोगी.","यदि सही पर सेट किया गया है, चीज़ विस्तार विधि में आरंभ होगा, दाहिने हाथ तरफ छवि संग्रह के साथ. छोटे स्क्रीन के साथ उपयोगी.",marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0039967,Choose an Effect,कोई प्रभाव नहीं,कोई प्रभाव नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040082,Leave fullscreen,पूर्ण स्क्रीन छोड़ दें,पूर्ण स्क्रीन छोड़ दें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040548,Height of the actor,कर्ता की ऊँचाई,कर्ता की ऊँचाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040550,Forced X position of the actor,कर्ता की बाध्यकारी X स्थिति,कर्ता की बाध्यकारी X स्थिति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040551,Fixed Y,स्थिर Y,स्थिर Y,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040553,Fixed position set,स्थिर स्थिति सेट,स्थिर स्थिति सेट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040580,Mapped,मैप किया हुआ,मैप किया हुआ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040591,Scale Y,मापक Y,मापक Y,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040601,Rotation Angle Y,घुमाव कोण Y,घुमाव कोण Y,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040604,The rotation angle on the Z axis,Z अक्ष पर घुमाव कोण,Z अक्ष पर घुमाव कोण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040631,Margin Right,न्यूनतम ऊंचाई,हाशिया दायाँ,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0040649,Timeline,टाइम-लाइन,टाइम-लाइन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040654,Progress mode,प्रगति मोड,प्रगति मोड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040674,Horizontal Fill,क्षैतिज भरण,क्षैतिज भरण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040679,Spacing,अंतरण,स्थान,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0040691,The height of the Cairo surface,कैरो सतह की ऊँचाई,कैरो सतह की ऊँचाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040721,Device Type,युक्ति प्रकार,युक्ति प्रकार,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040750,Drag Threshold,ड्रैग थ्रेशोल्ड,ड्रैग दहलीज,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0040752,Font Antialias,फान्ट एंटीएलियास,फान्ट एंटीएलियास,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040757,To Edge,किनारा में,किनारा में,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040768,Key Focus,मुख्य फोकस,मुख्य फोकस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040774,The contents of the buffer,मेटा का नाम,बफ़र की सामग्री,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0040792,Single Line Mode,एकल पंक्ति मोड,एकल पंक्ति मोड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040797,Progress Mode,प्रगति मोड,प्रगति मोड,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040824,Fragment Source,फ्रैगमेंट स्रोत,फ्रैगमेंट स्रोत,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040852,Whether to use fixed positioning for the actor,कर्ता के लिए स्थिर स्थान का इस्तेमाल करें,कर्ता के लिए स्थिर स्थान का इस्तेमाल करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040935,Translation Y,अनुवाद Y,अनुवाद Y,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040936,Translation along the Y axis,Y अक्ष पर अनुवाद,Y अक्ष पर अनुवाद,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040938,Translation along the Z axis,Z अक्ष पर अनुवाद,Z अक्ष पर अनुवाद,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040950,Sets the clip region to track the actor 's allocation,कर्ता का आबंटन पर नज़र रखने के लिए क्लिप क्षेत्र को सेट करें.,कर्ता का आबंटन पर नज़र रखने के लिए क्लिप क्षेत्र को सेट करें.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040964,Whether extra horizontal space should be assigned to the actor,क्या अतिरिक्त क्षैतिज स्थान कर्ता को निर्दिष्ट होना चाहिए.,क्या अतिरिक्त क्षैतिज स्थान कर्ता को निर्दिष्ट होना चाहिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040970,The alignment of the actor on the Y axis within its allocation,इसके आवंटन के भीतर Y अक्ष पर कर्ता की पंक्तिबद्धता,इसके आवंटन के भीतर Y अक्ष पर कर्ता की पंक्तिबद्धता,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040977,Margin Right,हाशिया दायाँ,हाशिया दायाँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0040998,The repeat policy for the actor 's content,कर्ता के विषयवस्तु का सामग्री दोहराएं,कर्ता के विषयवस्तु का सामग्री दोहराएं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041016,The offset in pixels to apply to the binding,बाध्य लागू करने के लिए ऑफसेट पिक्सेल में,बाध्य लागू करने के लिए ऑफसेट पिक्सेल में,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041025,Allocate extra space for the child,बच्चा के लिए अतिरिक्त स्थान आबंटित,बच्चा के लिए अतिरिक्त स्थान आबंटित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041033,"Whether the layout should be vertical, rather than horizontal",क्या खाका ऊर्ध्वाधर के बजाय क्षैतिज होना चाहिए,क्या खाका ऊर्ध्वाधर के बजाय क्षैतिज होना चाहिए,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041080,The vertical amount of pixels required to start dragging,खींचना शुरू करने के लिए आवश्यक पिक्सेल की लंबवत राशि,खींचना शुरू करने के लिए आवश्यक पिक्सेल की लंबवत राशि,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041086,Constrains the dragging to a rectangle,आयत को खींचने में बाधित,आयत को खींचने में बाधित,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041087,Drag Area Set,क्षेत्र निर्धारित करने के लिए खींचें,क्षेत्र निर्धारित करने के लिए खींचें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041145,Disable mipmapping on text,पाठ पर mipmapping निष्क्रिय करें,पाठ पर mipmapping निष्क्रिय करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041151,Enable accessibility,एक्सेसिबिलिटी सक्षम,एक्सेसिबिलिटी सक्षम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041170,The path of the currently parsed file,वर्तमान में विश्लेषित फ़ाइल का पथ,वर्तमान में विश्लेषित फ़ाइल का पथ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041174,The scrolling direction,स्क्रॉल दिशा,स्क्रॉल दिशा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041176,The time between clicks necessary to detect a multiple click,बहुल क्लिक का पता लगाने के लिए आवश्यक क्लिक के बीच समय,बहुल क्लिक का पता लगाने के लिए आवश्यक क्लिक के बीच समय,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041190,"The style of hinting (hintnone, hintslight, hintmedium, hintfull)","हिंटिंग की शैली (hintnone, hintslight, hintmedium, hintfull)","संकेतिंग की शैली (कुछ नहीं, संकेत प्रकाश, संकेत, संकेत आदि पूर्ण)",marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0041197,How long to show the last input character in hidden entries,छिपे प्रविष्टि में आगत वर्ण दिखाना कितना समय लेगा,छिपे प्रविष्टि में आगत वर्ण दिखाना कितना समय लेगा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041223,Settings for the depth cueing,गहराई cueing के लिए सेटिंग्स,गहराई cueing के लिए सेटिंग्स,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041247,The contents of the buffer,बफ़र की सामग्री,बफ़र की सामग्री,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041257,The text to render,रैण्डर करने हेतु पाठ,रैण्डर करने हेतु पाठ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041275,The cursor position of the other end of the selection,चयन के दूसरे सिरे के कर्सर की स्थिति,चयन के दूसरे सिरे के कर्सर की स्थिति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041287,Ellipsize,एल्लिप्साइज,एलेण्डज,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0041288,The preferred place to ellipsize the string,स्ट्रिंग के एलिप्साइड के लिए पसंदीदा जगह,स्ट्रिंग के एलिप्साइड के लिए पसंदीदा जगह,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041292,Whether the text should be justified,क्या इस पाठ को जायज़ किया जाना चाहिए,क्या इस पाठ को जायज़ किया जाना चाहिए,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041309,Direction of the timeline,समय रेखा की दिशा,समय रेखा की दिशा,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041310,Auto Reverse,स्वत प्रत्यावर्तनीय,स्वतः उलटा,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0041340,Alpha Object to drive the behaviour,व्यवहार ड्राइव करने के लिए अल्फा ऑब्जेक्ट,व्यवहार ड्राइव करने के लिए अल्फा ऑब्जेक्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041355,Width of the ellipse,दीर्घवृत्त की चौड़ाई,दीर्घवृत्त की चौड़ाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041360,Opacity Start,अपारदर्शिता प्रारंभ,अपारदर्शिता प्रारंभ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041378,Final scale on the X axis,Y अक्ष पर स्केल कारक,Y अक्ष पर स्केल कारक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041404,Whether the current stream is seekable,क्या मौजूदा स्ट्रीम seekable है,क्या मौजूदा स्ट्रीम seekable है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041413,Has Border,बॉर्डर है,बॉर्डर है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041427,Default transition duration,डिफ़ॉल्ट संक्रमण अवधि,डिफ़ॉल्ट संक्रमण अवधि,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041437,Repeat the contents rather than scaling them vertically,सामग्री को दोहराने के बजाय उन्हें अनुलंब स्केलिंग करें,सामग्री को दोहराने के बजाय उन्हें अनुलंब स्केलिंग करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041441,The Cogl pixel format to use,Cogl पिक्सेल प्रारूप का उपयोग करें,Cogl पिक्सेल प्रारूप का उपयोग करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041443,The underlying Cogl texture handle used to draw this actor,कर्ता को खींचने के लिये प्रयुक्त अन्तर्निहित Cogl बनावट को संभालें,कर्ता को खींचने के लिये प्रयुक्त अन्तर्निहित Cogl बनावट को संभालें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041458,sysfs Path,sysfs पथ,sysfs पथ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041460,Device Path,युक्ति पथ,युक्ति पथ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0041476,Pixmap width,पिक्समैप चौड़ाई,पिक्समैप चौड़ाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0043045,Scale Factor Set,चयन रंग सेट,पैमाना समूह,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0043047,Scale Factor,कारक,कारक,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0043101,The vertical trigger distance used by the action,चल छवि के लिए प्रयुक्त टाइम लाइन,चल छवि के लिए प्रयुक्त टाइम लाइन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045105,Cogl debugging flags to unset,Cogl डिबगिंग फ्लैग अनसेट किया जाना है,Cogl डिबगिंग फ्लैग अनसेट किया जाना है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045106,Cogl Options,Cogl विकल्प,Cogl विकल्प,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045119,Trace Batching,प्रचयन का पता लगायें,प्रचयन का पता लगायें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045120,Show how geometry is being batched in the journal,दिखाएँ कि कैसे पत्रिका में ज्यामिति का प्रचय किया जा रहा है,दिखाएँ कि कैसे पत्रिका में ज्यामिति का प्रचय किया जा रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045123,Trace Misc Drawing,विभिन्न आरेखण को ट्रेस करें,विभिन्न आरेखण को ट्रेस करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045133,Add wire outlines for all geometry,सारे ज्यामिति के लिए तार रूपरेखा जोड़ें,सारे ज्यामिति के लिए तार रूपरेखा जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045139,Disable GL Pixel Buffers,GL पिक्सेल उद्धरण अक्षम करें,GL पिक्सेल उद्धरण अक्षम करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045146,Disable texture atlasing,संरचना atlasing निष्क्रिय करें,संरचना atlasing निष्क्रिय करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045165,Show generated ARBfp / GLSL source code,उत्पन्न ARBfp/GLSL स्रोत कोड दिखाएँ,उत्पन्न ARBfp/GLSL स्रोत कोड दिखाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045583,FOGRA28L Web Coated,not very white,FISL वेब कॉलर,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0045592,Dasher,डैशर,डैशर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045597,_ Import Training Text,प्रशिक्षण पाठ आयात करें (_ I),प्रशिक्षण पाठ आयात करें (_ E),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0045600,Pr _ eferences,वरीयताएँ (_ e),वरीयताएँ (_ S),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0045607,Save file,फाइल संग्रहित करें,फाइल संग्रहित करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045621,_ Contents...,विषय सूची (_ C)...,विषय सूची (_C)...,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0045657,Adapt speed automatically,गति अनुकूलन स्वतः करें,गति अनुकूलन स्वतः करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045662,Pause outside of canvas,कैनवास के बाहर रोकें,कैनवास के बाहर रोकें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045664,Colour Scheme,रंग चयन,रंग चयन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045672,Select Dasher Font,डैशर फ़ॉन्ट चुनें,डैशर फ़ॉन्ट चुनें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045678,Application Options,अनुप्रयोग विकल्प,अनुप्रयोग विकल्प,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045683,Editor Font,संपादक फ़ॉन्ट,संपादक फ़ॉन्ट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045684,Select Editor Font,संपादक फ़ॉन्ट चुनें,संपादक फ़ॉन्ट चुनें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045694,Alphabet,वर्णमाला,वर्णमाला,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045695,Display Size,प्रदर्शन आकार,प्रदर्शन आकार,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045696,Enlarge input window,इनपुट विंडो बड़ा करें,इनपुट विंडो बड़ा करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045699,Prediction,भविष्यवाणी,भविष्यवाणी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045729,Slow startup,धीमा आरंभ,धीमा आरंभ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045735,"Scan time (each direction), in ms","स्कैन समय (प्रत्येक दिशा), मिलीसेकेंड","स्कैन समय (प्रत्येक दिशा), मिलीसेकेंड",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045755,Enable backoff and start / stop buttons,बैकऑफ और आरंभ करें/रोकें बटन सक्षम करें,बैकऑफ और आरंभ करें/ रोकें बटन सक्षम करें,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0045765,Boolean parameters,बूलियन पैरामीटर,बूलियन पैरामीटर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045782,Warning: unable to set speech parameters,चेतावनीः वाक् पैरामीटर लगाने में असमर्थ =,चेतावनीः वाक् पैरामीटर लगाने में असमर्थ,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0045799,"Application style (traditional, direct, compose or fullscreen)","अनुप्रयोग शैली (traditional, direct, compose or fullscreen)-- options","अनुप्रयोग शैली (सिमुलेशन, प्रत्यक्ष, निर्माण या पूर्ण)",marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0045807,A _ ppend to file,फाइल में जोड़ें (_ A),फाइल में जोड़ें (_ A),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0045831,_ Contents...,विषय सूची (_ C),विषय सूची (_C)...,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0046096,_ Appearance,रूप,रूप,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046196,Warning: unable to set speech parameters,चेतावनीः वाक् पैरामीटर लगाने में असमर्थ,चेतावनीः वाक् पैरामीटर लगाने में असमर्थ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046277,Always Top - to - Bottom,ऊपर से नीचे,ऊपर से नीचे,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046333,_ Game Mode,मेन्यू मोड,खेल विधि (_ S),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0046440,Default:,तयशुदाः,तयशुदाः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046563,Double [% s..% s],पूर्णांक [% s..% s],दोहरा [% s..% s],marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0046577,Devhelp support,डेवहेल्प,डेवहेल्प,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046579,Book,page,पुस्तक,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0046580,Function,भाग,फंक्शन,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0046588,_ Contents Tab,घटक,सामग्री टैब (_ T),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0046638,The height of the main window.,मुख्य विंडो की ऊँचाई.,मुख्य विंडो की ऊँचाई.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046643,Width of the index and search pane,सूचकांक और खोज फलक की चौड़ाई,सूचकांक और खोज फलक की चौड़ाई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046644,The width of the index and search pane.,सूचकांक और खोज फलक की चौड़ाई.,सूचकांक और खोज फलक की चौड़ाई.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046645,Group by language,भाषा द्वारा समूह (_ G),भाषा द्वारा समूह (_ l),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0046656,Use system fonts,प्रणाली फोंट का प्रयोग करें,सिस्टम फंट का प्रयोग करें,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0046662,Devhelp support,Devhelp समर्थन,डेवहेल्प,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0046676,Book,किताबpage,पुस्तक,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0046719,_ Larger Text,बड़ा पाठ (_ L),बड़ा पाठ (_ S),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0046725,Find previous occurrence of the search string,खोज स्ट्रिंग की पिछली उपस्थिति ढूंढें,खोज स्ट्रिंग की पिछली उपस्थिति ढूंढें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046957,_ Contents Tab,सामग्री टैब (_ C),सामग्री टैब (_ T),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0046965,Leave fullscreen mode,पूर्ण स्क्रीन छोड़ें,पूर्ण स्क्रीन छोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0046973,Find:,ढूंढेंः,ढूंढेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047017,_ Larger text,बड़ा पाठ (_ L),बड़ा पाठ (_ S),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047308,Less than one minute to the next break.,अगले ब्रेक के लिए एक मिनट से भी कम समय,अगले ब्रेक के लिए एक मिनट से भी कम समय,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047341,Select the audio output device to use,उपयोग हेतु ऑडियो आउटपुट डिवाइस चुनें,उपयोग हेतु ऑडियो आउटपुट डिवाइस चुनें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047352,Video preview,वीडियो पूर्वावलोकन,वीडियो पूर्वावलोकन,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047357,Enter your full name,अपना पूरा नाम दें,अपना पूरा नाम दें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047395,The SIP Outbound Proxy to use for outgoing calls,बाहर जानेवाले कॉल के लिए SIP आउटबाउंड प्रॉक्सी,बाहर जानेवाले कॉल के लिए SIP आउटबाउंड प्रॉक्सी,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047396,Forward calls to host,होस्ट को काल्स अग्रसारित करें,होस्ट को काल्स अग्रसारित करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047398,DTMF sending,DTMF भेज रहा है,DTMF भेज रहा है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047406,This enables H. 245 Tunneling mode. In H. 245 Tunneling mode H. 245 messages are encapsulated into the H. 225 channel (port 1720). This saves one TCP connection during calls. H. 245 Tunneling was introduced in H. 323v2 and Netmeeting does not support it. Using both Fast Start and H. 245 Tunneling can crash some versions of Netmeeting.,यह H. 245 टनेलिंग विधि को सक्रिय करता है. H. 245 टनेलिंग विधि में H. 245 संदेश को H. 225 चैनल में समाहित किया जाता है (पोर्ट 1720). यह एक TCP कनेक्शन को कॉल के दौरान सहेजता है. H. 245 टनेलिंग को H. 323v2 में लाया गया था और नेटमीटिंग इसका समर्थन नहीं करता है. फास्ट स्टार्ट और H. 245 टनेलिंग दोनों को प्रयोग नेटमीटिंग के कुछ संस्करण को क्रैस कर सकता है.,यह H. 245 टनेलिंग विधि को सक्रिय करता है. H. H.25 संदेश को H. 225 चैनल में समाहित किया जाता है (पोर्ट 1720). यह एक TCP कनेक्शन को कॉल के दौरान सहेजता है. समाहित करता है H. 323v2 और नेटमीटिंग इसका समर्थन नहीं करता है . फास्ट स्टार्ट और 245 संस्करण का प्रयोग किया जा सकता है.,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047409,Enable 'Fast Start','तेज प्रारंभ' सक्षम करें,'तेज प्रारंभ' सक्षम करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047419,The STUN server to use for STUN Support. STUN is a technology that permits passage through some types of NAT gateway,STUN समर्थन के लिए STUN सर्वर. STUN एक प्रौद्योगिकी है जो कि NAT गेटवे के कुछ प्रकार से रास्ता देता है,STUN समर्थन के लिए STUN सर्वर. STUN एक प्रौद्योगिकी है जो कि NAT गेटवे के कुछ प्रकार से रास्ता देता है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047446,Specify the software scaling algorithm,सॉफ्टवेयर अनुमापन अलगोरिथम निर्दिष्ट करें,सॉफ्टवेयर अनुमापन अलगोरिथम निर्दिष्ट करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047452,"The default video view (0: Local, 1: Remote, 2: Both layered, 3: Both with local video in a separate window, 4: Both)","तयशुदा वीडियो दृश्य (0: Local, 1: Remote, 2: Both layered, 3: Both with local video in a separate window, 4: Both)","तयशुदा वीडियो दृश्य (0: स्थानीय, 1: दूरस्थ, 2: दोनों परत, 3: दोनों अलग विंडो में स्थानीय वीडियो के साथ)",marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0047462,The position of the remote video window,दूरस्थ वीडियो विंडो की स्थिति,दूरस्थ वीडियो विंडो की स्थिति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047481,"0: 56Kbps, 1: ISDN, 2: DSL, 3: LAN, 4: Custom","0: 56Kbps, 1: ISDN, 2: DSL, 3: LAN, 4: पसंदीदा","0: 56Kbcs, 1: hit, 2: DL, 3: Lel, 4:",marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0047482,No answer timeout,कोई उत्तर नहीं टाइमआउट,कोई उत्तर नहीं टाइमआउट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047491,New contact,नया संपर्क,नया संपर्क,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047504,Are you sure you want to remove% s from the addressbook?,क्या आप% s को पता पुस्तिका से वाकई हटाना चाहते हैं?,क्या आप निश्चित हैं कि आप% s को पता पुस्तिका से वाकई हटाना चाहते हैं?,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047512,Addressbook _ properties,पतापुस्तिका गुण (_ p),पता पुस्तिका गुण (_ N),marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0047521,Could not search,खोज नहीं सका,खोज नहीं सका,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047530,_ DisplayName Attribute,_ DisplayName विशेषता,प्रदर्शित करें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0047533,Bind _ ID,बाइंड _ ID,फिल्टरों को व्यवस्थित करें,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0047541,Please provide a DisplayName Attribute,कोई डिसप्लेनाम विशेषता दें,कोई प्रदर्शितनाम विशेषता दें,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047543,Invalid Server URI,अवैध सर्वर URI,अवैध सर्वर URI,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047545,Add the Ekiga. net Directory,Ekiga. net निर्देशिका जोड़ें,Ekiga. net निर्देशिका जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047555,Conference room,सम्मेलन कक्ष,सम्मेलन कक्ष,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047559,Friend,मित्रlevel,मित्रlevel,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047567,You already have a contact with this address!,आपके पास पहले से यह पता संपर्क के साथ है!,आपके पास पहले से यह पता संपर्क के साथ है!,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047580,Consult the call history,कॉल इतिहास से संपर्क करें,कॉल इतिहास से संपर्क करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047583,Gatekeeper:,गेटकीपरः,गेटकीपरः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047587,Timeout:,टाइम-आउटः,टाइम- आउटः,marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0047591,You did not supply a user name for that account.,आपने एक नाम उपयोक्तानाम नहीं दिया है उस खाते के लिए.,आपने एक नाम उपयोक्तानाम नहीं दिया है उस खाते के लिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047592,The timeout should have a bigger value.,समय समाप्ति को बड़ा मान होना चाहिए.,समय समाप्ति को बड़ा मान होना चाहिए.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047605,Remote user rejected the call,दूरस्थ प्रयोक्ता ने कॉल अस्वीकार कर दिया,दूरस्थ प्रयोक्ता ने कॉल अस्वीकार कर दिया,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047607,Abnormal call termination,असामान्य कॉल बन्द,असामान्य कॉल बन्द,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047630,Not acceptable,स्वीकार्य नहीं,स्वीकार्य नहीं,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047650,Address incomplete,पता अपूर्ण,पता अपूर्ण,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047669,Could not send message,संदेश नहीं भेज सका,संदेश नहीं भेज सका,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047674,New resource list,नई संसाधन सूची,नई संसाधन सूची,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047679,Unnamed,बेनाम,बेनाम,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047681,_ Refresh contact list,संपर्क सूची ताजा करें,संपर्क सूची ताजा करें (_ R),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047684,Please edit the following fields (no identifier means global),कृपया निम्न क्षेत्र संपादित करें (कोई पहचानकर्ता नहीं का अर्थ है वैश्विक),कृपया निम्न क्षेत्र संपादित करें (कोई पहचानकर्ता नहीं का अर्थ है वैश्विक),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047686,Document root,दस्तावेज़ रूट,दस्तावेज़ रूट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047688,Writable,लिखने योग्य,लिखने योग्य,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047694,Please fill in this form to change an existing contact on a remote server,कृपया इस फॉर्म को भरें दूरस्थ सर्वर पर मौजूदा संपर्क बदलने के लिए,कृपया इस फॉर्म को भरें दूरस्थ सर्वर पर मौजूदा संपर्क बदलने के लिए,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047696,Click to fetch,पाने के लिए क्लिक करें,पाने के लिए क्लिक करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047698,% s / List #% d,% s/सूची #% d,% s/ सूची #% d,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047733,Ekiga. net Account,Ekiga. net खाता,एकिगा. net खाता,marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0047736,"The username and password are used to login to your existing account at the ekiga. net free SIP service. If you do not have an ekiga. net SIP address yet, you may first create an account below. This will provide a SIP address that allows people to call you. You may skip this step if you use an alternative SIP service, or if you would prefer to specify the login details later.","प्रयोक्ता नाम व कूटशब्द का प्रयोग आपके ekiga. net फ्री SIP सर्विस के मौजूदा खाता पर लॉगिन के लिए प्रयुक्त होता है. यदि आपके पास एक ekiga. net SIP पता अबतक नहीं है, आप पहले नीचे एक खाता बना सकते हैं. यह एक SIP पता देगा जो लोगों को आपको कॉल करने की स्वीकृति देगा. आप इस कदम को छोड़ सकते हैं यदि आप वैकल्पिक SIP सर्विस का प्रयोग करते हैं, या यदि आप बाद में लॉगिन विवरण निर्दिष्ट करने के लिए चुनाव करते हैं.","प्रयोक्ता नाम व कूटशब्द का प्रयोग आपके ekiga. net फ्री SIP सर्विस के मौजूदा खाता पर लॉगिन के लिए प्रयुक्त होता है. यदि आपके पास एक ekiga,net SIP पता अबतक नहीं है, आप पहले नीचे एक खाता बना सकते हैं. यह एक SIP पता देगा जो लोगों को आपको कॉल करने की स्वीकृति देगा. आप इस कदम को छोड़ सकते हैं यदि आप वैकल्पिक SIP सर्विस का प्रयोग करते हैं, या यदि आप बाद में लॉगिन विवरण निर्दिष्ट करने के लिए चुनाव करते हैं.",marian_en_hi,en,hi,untranslated_words
+en_hi_iitb_english_hindi_0047751,Keep current settings,वर्तमान विन्यास रखे रहें,वर्तमान विन्यास रखे रहें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047753,Audio Devices,ऑडियो डिवाइस,ऑडियो डिवाइस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047760,Please choose your video input device:,कृपया अपना विडियो इनपुट युक्ति चुनेंः,कृपया अपना विडियो इनपुट युक्ति चुनेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047771,Ekiga Call Out,Ekiga कालआउट,Ekiga कालआउट,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047774,Artwork:,कलाकारीः,कलाकारीः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047775,See AUTHORS file for full credits,पूर्ण श्रेय के लिए लेखक फाइल देखें,पूर्ण श्रेय के लिए लेखक फाइल देखें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047781,Help display is not supported by your GTK + version,मदद प्रदर्शन आपके GTK + संस्करण के द्वारा समर्थित नहीं है,मदद प्रदर्शन आपके GTK + संस्करण के द्वारा समर्थित नहीं है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047812,Could not open the chosen channel.,चयनित चैनल खोल नहीं सका.,चयनित चैनल खोल नहीं सका.,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047813,Your driver doesn 't seem to support any of the color formats supported by Ekiga. Please check your kernel driver documentation in order to determine which Palette is supported.,आपका ड्राइवर किसी रंग प्रारूप को समर्थन करता लगता नहीं है जो एकिगा द्वारा समर्थित है. अपना कर्नेल ड्राइवर दस्तावेज जांचे यह सुनिश्चत करने के लिये कि कौन सी रंगपट्टिका समर्थित है.,आपका ड्राइवर किसी रंग प्रारूप को समर्थन करता लगता नहीं है जो एकिगा द्वारा समर्थित है. अपना कर्नेल ड्राइवर दस्तावेज जांचे यह निर्धारित करने के लिये कि कौन सी रंगपट्टिका समर्थित है,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047827,"Unable to open the selected audio device for playing. In case it is a pluggable device it may be sufficient to reconnect it. If not, or if it still is not accessible, please check your audio setup, the permissions and that the device is not busy.","बजाने के लिए चयनित ऑडियो युक्ति खोलने में असमर्थ. यदि यह एक प्लगेबल युक्ति है, इसे फिर कनेक्ट करना पर्याप्त होगा. यदि नहीं, या यह अभी भी पहुँच योग्य नहीं है, कृपया अपने ऑडियो सेटअप को जाँचें, अनुमति, और देखें कि युक्ति व्यस्त तो नहीं है.","बजाने के लिए चयनित ऑडियो युक्ति खोलने में असमर्थ. यदि यह एक प्लगेबल युक्ति है, इसे फिर कनेक्ट करना पर्याप्त होगा.. यदि नहीं, या यह अभी भी पहुँच योग्य नहीं है, कृपया अपना ऑडियो सेटअप जाँचें, अनुमति, और देखें कि युक्ति व्यस्त तो नहीं है.",marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047837,Suspend _ Audio,ऑडियो सस्पेंड करें (_ A),वीडियो सस्पेंड करें (_ m),marian_en_hi,en,hi,grammar
+en_hi_iitb_english_hindi_0047851,Detected new audio input device:,नई ऑडियो इनपुट युक्ति पायाः,नई ऑडियो इनपुट युक्ति पायाः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047854,Video Devices,विडियो डिवाइस,विडियो डिवाइस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047869,Transfer the current call,वर्तमान कॉल हस्तांतरित करें,वर्तमान कॉल हस्तांतरित करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047874,_ Configuration Assistant,विन्यास सहायक (_ C),विन्यास सहायक (_ P),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0047875,Run the configuration assistant,विन्यास सहायक चलाएँ,विन्यास सहायक चलाएँ,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047885,_ Show Call Panel,काल पैनल दिखाएँ (_ S),काल पैनल दिखाएँ (_ S),marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047890,_ Picture - in - Picture,_ Picture-in-Picture,तस्वीर में तस्वीर (_ P),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0047918,Play sound for new instant messages,नये इंस्टेंट संदेश पर आवाज दें,नये इंस्टेंट संदेश पर आवाज दें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047937,Event,घटना,घटना,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047957,Ringing Device,रिंगिंग युक्ति,रिंगिंग युक्ति,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047959,Output device:,आउटपुट डिवाइसः,आउटपुट डिवाइसः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047992,Devices,डिवाइस,डिवाइस,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047995,Away,दूर,दूर,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0047999,Custom Message,पसंदीदा संदेश,पसंदीदा संदेश,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0048374,Please fill in this form to add a new element to the remote roster,कृपया इस फॉर्म में नया संपर्क जोड़ने के लिए भरें एकिगा दूरस्थ रोस्टर में नया संपर्क जोड़ने के लिए,कृपया इस फॉर्म में दूरस्थ रोस्टर में नया तत्व जोड़ें,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0048378,Please fill in this form to change an existing element of the remote roster,कृपया इस फॉर्म को भरें एकिगा के आंतरिक रोस्टर के मौजूदा तत्व को भरने के लिए,कृपया इस फॉर्म को भरें दूरस्थ रोस्टर के मौजूदा तत्व को भरने के लिए,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0048412,Remove,हटाएं (_ R),हटाएँ,marian_en_hi,en,hi,missing_words
+en_hi_iitb_english_hindi_0048692,Use it,इसे प्रयोग करें,इसे प्रयोग करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0048693,Device removed,युक्ति हटायी गई,युक्ति हटायी गई,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0048807,Missed call from,इससे मिस काल,इससे मिस काल,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0048931,TX: /,TX:/receive,टीएक्सः/,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0048982,"Enter a URI on the left, and click this button to place a call or to hang up","बायीं ओर URI दाखिल करें, इस बटन को क्लिक करें कोई कॉल या हैंगअप रखने के लिए","बायीं ओर URI दाखिल करें, इस बटन को क्लिक करें कोई कॉल या हैंगअप रखने के लिए",marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0048990,Ca _ ll a Number,किसी नंबर को कॉल करें (_ l),किसी नंबर को कॉल करें (_l),marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0049023,The Type of Service (TOS) byte on outgoing RTP IP packets. This byte is used by the network to provide some level of Quality of Service (QoS). Default value 184 (0xB8) corresponds to Expedited Forwarding (EF) PHB as defined in RFC 3246.,आउटगोइंड RTP IP पैकेट पर सेवा प्रकार (TOS). इस बाइट को संजाल के द्वारा समान स्तर की सेवा गुणवत्ता (QoS) देने के लिए प्रयोग की जाती है. तयशुदा मान 184 (0xB8) एक्सपेडीडेट फॉर्रवार्डिंग (EF) PHB के तदनुरूप है जैसा कि RFC 3246 में परिभाषित है.,आउटगोइंग RTP IP पैकेट पर सेवा प्रकार (TOS). इस बाइट को संजाल के द्वारा समान स्तर की सेवा गुणवत्ता (QoS) देने के लिए प्रयोग की जाती है. तयशुदा मान 184 (0xB8) PHB समान है जैसा कि RFC 3246 में परिभाषित है.,marian_en_hi,en,hi,untranslated_words
+en_hi_iitb_english_hindi_0049059,Enable H. 239 control,H. 239 नियंत्रण सक्रिय करें,H. 239 नियंत्रण सक्रिय करें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0049103,Forwarding,कॉल फ़ॉरवर्डिंग,आगे बढ़ाना,marian_en_hi,en,hi,named_entity
+en_hi_iitb_english_hindi_0049167,Position on the screen of the extended video window,ड्रयूड विंडो के स्क्रीन पर स्थिति,दूरस्थ वीडियो विंडो के स्क्रीन पर स्थिति,marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0049281,Use _ TLS,TLS प्रयोग करें,TLS प्रयोग करें (_ T),marian_en_hi,en,hi,extra_words
+en_hi_iitb_english_hindi_0049287,Please provide a DisplayName attribute,कोई डिसप्लेनाम विशेषता प्रदान करें,कोई प्रदर्शितनाम विशेषता दें,marian_en_hi,en,hi,ambiguity
+en_hi_iitb_english_hindi_0049312,Please fill in the following fields:,कृपया निम्नलिखित क्षेत्र में भरेंः,कृपया निम्नलिखित क्षेत्र में भरेंः,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0049321,"% s asks the permission to see your presence, saying: ""% s"".","% s आपकी उपस्थिति को देखने के लिए अनुमति चाहता है, कह रहा हैः ""% s"".","% s आपकी उपस्थिति को देखने के लिए अनुमति चाहता है, कह रहा हैः ""% s""",marian_en_hi,en,hi,word_order
+en_hi_iitb_english_hindi_0049323,grant him / her the permission to see your presence,आपकी उपस्थिति को देखने के लिए उन्हें अनुमति दें,आपकी उपस्थिति को देखने के लिए उन्हें अनुमति दें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0049328,Please fill in this form to add a new element to the remote roster,कृपया इस फॉर्म में दूरस्थ रोस्टर में नया तत्व जोड़ें,कृपया इस फॉर्म में दूरस्थ रोस्टर में नया तत्व जोड़ें,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0049337,Please fill in this form to change an existing element of the remote roster,कृपया इस फॉर्म को भरें दूरस्थ रोस्टर के मौजूदा तत्व को भरने के लिए,कृपया इस फॉर्म को भरें दूरस्थ रोस्टर के मौजूदा तत्व को भरने के लिए,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0049393,In transit,रास्ते में है,रास्ते में है,marian_en_hi,en,hi,none
+en_hi_iitb_english_hindi_0049394,Looking for work,काम की तलाश,काम की तलाश,marian_en_hi,en,hi,none

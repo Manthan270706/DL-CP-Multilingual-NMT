@@ -29,8 +29,8 @@ class ParallelNMTDataset(Dataset):
     def __init__(
         self, df: pd.DataFrame, src_col: str = "source_text", tgt_col: str = "target_text"
     ):
-        self.sources = df[src_col].astype(str).tolist()
-        self.targets = df[tgt_col].astype(str).tolist()
+        self.sources = [str(s) if s is not None and not pd.isna(s) else "" for s in df[src_col]]
+        self.targets = [str(t) if t is not None and not pd.isna(t) else "" for t in df[tgt_col]]
         self.sample_ids = (
             df["sample_id"].tolist()
             if "sample_id" in df.columns
@@ -46,6 +46,33 @@ class ParallelNMTDataset(Dataset):
             "target": self.targets[idx],
             "sample_id": self.sample_ids[idx],
         }
+
+
+class NMTDataCollator:
+    """Top-level picklable collator compatible with multi-process DataLoader workers on Windows."""
+
+    def __init__(
+        self,
+        model_wrapper: BaseTranslationModel,
+        src_lang: str,
+        tgt_lang: str,
+        max_source_length: int = 128,
+    ):
+        self.model_wrapper = model_wrapper
+        self.src_lang = src_lang
+        self.tgt_lang = tgt_lang
+        self.max_source_length = max_source_length
+
+    def __call__(self, batch: List[Dict[str, str]]) -> Dict[str, torch.Tensor]:
+        sources = [str(item["source"]) for item in batch]
+        targets = [str(item["target"]) for item in batch]
+        return self.model_wrapper.prepare_inputs(
+            sources=sources,
+            src_lang=self.src_lang,
+            tgt_lang=self.tgt_lang,
+            max_length=self.max_source_length,
+            targets=targets,
+        )
 
 
 class NMTTrainer:
@@ -86,8 +113,8 @@ class NMTTrainer:
     def _collate_batch(
         self, batch: List[Dict[str, str]], model_wrapper: BaseTranslationModel
     ) -> Dict[str, torch.Tensor]:
-        sources = [item["source"] for item in batch]
-        targets = [item["target"] for item in batch]
+        sources = [str(item["source"]) for item in batch]
+        targets = [str(item["target"]) for item in batch]
         max_len = self.config.get("max_source_length", 128)
         return model_wrapper.prepare_inputs(
             sources=sources,
@@ -127,13 +154,22 @@ class NMTTrainer:
         batch_size = self.config.get("per_device_train_batch_size", 4)
         eval_batch_size = self.config.get("per_device_eval_batch_size", 4)
         grad_accum = self.config.get("gradient_accumulation_steps", 4)
-
         train_dataset = ParallelNMTDataset(train_df)
+        num_workers = int(self.config.get("dataloader_num_workers", 6))
+        collator = NMTDataCollator(
+            model_wrapper=model_wrapper,
+            src_lang=self.src_lang,
+            tgt_lang=self.tgt_lang,
+            max_source_length=self.config.get("max_source_length", 128),
+        )
         train_loader = DataLoader(
             train_dataset,
             batch_size=batch_size,
             shuffle=True,
-            collate_fn=lambda b: self._collate_batch(b, model_wrapper),
+            collate_fn=collator,
+            num_workers=num_workers,
+            pin_memory=(num_workers > 0),
+            persistent_workers=(num_workers > 0),
         )
 
         epochs = self.config.get("num_train_epochs", 3)
@@ -170,6 +206,11 @@ class NMTTrainer:
 
             for step, batch in enumerate(train_loader):
                 try:
+                    # Move tensors to GPU asynchronously — transfer overlaps with previous step's compute
+                    batch = {
+                        k: v.to(self.device, non_blocking=True) if isinstance(v, torch.Tensor) else v
+                        for k, v in batch.items()
+                    }
                     _autocast_ctx = (
                         torch.amp.autocast(_amp_device_type, enabled=_use_amp)
                         if hasattr(torch.amp, "autocast")
@@ -181,6 +222,7 @@ class NMTTrainer:
 
                     scaler.scale(loss).backward()
                     epoch_loss += loss.item() * grad_accum
+                    del outputs, loss
 
                     if (step + 1) % grad_accum == 0 or (step + 1) == len(train_loader):
                         scaler.unscale_(optimizer)
@@ -206,8 +248,10 @@ class NMTTrainer:
             # Epoch Validation
             self.logger.info(f"Running Validation at Epoch {epoch + 1}...")
             model_wrapper.model.eval()
-            val_sources = val_df["source_text"].tolist()
-            val_refs = val_df["target_text"].tolist()
+            val_eval_n = self.config.get("val_eval_samples", len(val_df))
+            eval_val_df = val_df.iloc[: min(val_eval_n, len(val_df))]
+            val_sources = eval_val_df["source_text"].tolist()
+            val_refs = eval_val_df["target_text"].tolist()
 
             # Generate validation translations with deterministic beam search
             val_preds = model_wrapper.translate(

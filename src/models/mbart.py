@@ -59,8 +59,8 @@ class MBartTranslationModel(BaseTranslationModel):
         )
 
         model_inputs = {
-            "input_ids": inputs["input_ids"].to(self.device),
-            "attention_mask": inputs["attention_mask"].to(self.device),
+            "input_ids": inputs["input_ids"],
+            "attention_mask": inputs["attention_mask"],
         }
 
         if targets is not None:
@@ -73,7 +73,7 @@ class MBartTranslationModel(BaseTranslationModel):
                 return_tensors="pt",
             )["input_ids"]
             labels[labels == self.tokenizer.pad_token_id] = -100
-            model_inputs["labels"] = labels.to(self.device)
+            model_inputs["labels"] = labels
             # Reset back to source lang
             self.tokenizer.src_lang = mbart_src
 
@@ -132,7 +132,14 @@ class MBartTranslationModel(BaseTranslationModel):
                 )
 
             decoded = self.tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
-            all_decoded.extend([t.strip() for t in decoded])
+            cleaned = []
+            for t in decoded:
+                txt = t.strip()
+                if "\u094D" in txt or tgt_lang in ["hi", "mr"]:
+                    import re
+                    txt = re.sub(r"\s*्\s*", "्", txt)
+                cleaned.append(txt)
+            all_decoded.extend(cleaned)
             if torch.cuda.is_available():
                 torch.cuda.empty_cache()
 

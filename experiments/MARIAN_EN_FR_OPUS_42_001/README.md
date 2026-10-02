@@ -1,3 +1,7 @@
+> [!NOTE]
+> **ZERO-SHOT BASELINE — NOT FINAL FINE-TUNED RESULTS**
+> This experiment evaluated the pretrained base foundation model checkpoint directly.
+
 # Experiment: MARIAN_EN_FR_OPUS_42_001
 
 - Model: `marian_en_fr`

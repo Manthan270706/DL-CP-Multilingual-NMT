@@ -60,8 +60,8 @@ class MarianTranslationModel(BaseTranslationModel):
         )
 
         model_inputs = {
-            "input_ids": inputs["input_ids"].to(self.device),
-            "attention_mask": inputs["attention_mask"].to(self.device),
+            "input_ids": inputs["input_ids"],
+            "attention_mask": inputs["attention_mask"],
         }
 
         if targets is not None:
@@ -75,7 +75,7 @@ class MarianTranslationModel(BaseTranslationModel):
                 )["input_ids"]
             # Replace padding token id with -100 for loss computation
             labels[labels == self.tokenizer.pad_token_id] = -100
-            model_inputs["labels"] = labels.to(self.device)
+            model_inputs["labels"] = labels
 
         return model_inputs
 

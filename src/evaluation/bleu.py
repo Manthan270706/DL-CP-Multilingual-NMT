@@ -31,8 +31,8 @@ class BleuEvaluator:
         if not predictions or not references:
             return {"score": 0.0, "precisions": [], "bp": 0.0, "version": sacrebleu.__version__}
 
-        # sacrebleu expects references as list of lists (multiple references per candidate)
-        ref_list = [[r] for r in references]
+        # sacrebleu expects references as list of reference streams: [ [ref_1, ref_2, ...], [ref2_1, ...] ]
+        ref_list = [references]
         bleu = sacrebleu.corpus_bleu(
             predictions,
             ref_list,

@@ -102,3 +102,75 @@ def plot_sentence_length_analysis(
     plt.tight_layout()
     plt.savefig(save_path, dpi=300)
     plt.close()
+
+
+import matplotlib.font_manager as fm
+
+
+def _get_devanagari_font_prop(size: int = 9) -> fm.FontProperties:
+    """Find and return a FontProperties instance that supports Indic/Devanagari glyphs."""
+    candidates = ["Nirmala UI", "Nirmala Text", "Mangal", "Aparajita", "Kokila", "Arial Unicode MS"]
+    available = {f.name for f in fm.fontManager.ttflist}
+    for c in candidates:
+        if c in available:
+            return fm.FontProperties(family=c, size=size)
+    return fm.FontProperties(family="sans-serif", size=size)
+
+
+def plot_attention_heatmap(
+    cross_attn_matrix: np.ndarray,
+    src_tokens: list,
+    tgt_tokens: list,
+    title: str = "Decoder Cross-Attention Weights (Source vs Target Tokens)",
+    cmap: str = "magma",
+    figsize: tuple = (10, 7),
+    dark_mode: bool = True,
+):
+    """Generate a high-contrast publication-grade cross-attention heatmap figure."""
+    fig, ax = plt.subplots(figsize=figsize, dpi=180)
+
+    if dark_mode:
+        fig.patch.set_facecolor("#151C2C")
+        ax.set_facecolor("#0E131F")
+        text_color = "#F1F5F9"
+        tick_color = "#94A3B8"
+    else:
+        text_color = "#0F172A"
+        tick_color = "#475569"
+
+    cax = ax.matshow(cross_attn_matrix, cmap=cmap, aspect="auto")
+
+    ax.set_xticks(range(len(src_tokens)))
+    ax.set_yticks(range(len(tgt_tokens)))
+
+    font_prop = _get_devanagari_font_prop(size=9)
+    ax.set_xticklabels(src_tokens, rotation=45, ha="left", fontproperties=font_prop, color=tick_color)
+    ax.set_yticklabels(tgt_tokens, fontproperties=font_prop, color=tick_color)
+
+    ax.set_xlabel("Source Tokens (Encoder)", fontsize=11, fontweight="bold", labelpad=10, color=text_color)
+    ax.set_ylabel("Target Tokens (Decoder)", fontsize=11, fontweight="bold", labelpad=10, color=text_color)
+    ax.set_title(title, fontsize=12, fontweight="bold", pad=20, color=text_color)
+
+    cbar = fig.colorbar(cax, ax=ax, fraction=0.046, pad=0.04)
+    cbar.set_label("Attention Weight", color=text_color, fontsize=10, fontweight="normal")
+    cbar.ax.tick_params(colors=tick_color)
+
+    plt.tight_layout()
+    return fig
+
+
+def create_token_probability_df(tgt_tokens: list, token_probs: list) -> pd.DataFrame:
+    """Format token generation probabilities into a clean dataframe."""
+    min_len = min(len(tgt_tokens), len(token_probs))
+    data = []
+    for i in range(min_len):
+        tok = tgt_tokens[i]
+        prob = token_probs[i]
+        data.append({
+            "Position": i + 1,
+            "Target Token": tok,
+            "Generation Probability": prob,
+            "Probability (%)": f"{prob * 100:.1f}%",
+        })
+    return pd.DataFrame(data)
+

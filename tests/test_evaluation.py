@@ -11,10 +11,12 @@ from src.evaluation.sentence_length_analyzer import SentenceLengthAnalyzer
 
 
 def test_bleu_computation():
-    predictions = ["The cat is on the mat."]
-    references = ["The cat is on the mat."]
+    predictions = ["The cat is on the mat.", "A dog is in the garden."]
+    references = ["The cat is on the mat.", "The dog is in the yard."]
     res = BleuEvaluator.compute(predictions, references)
-    assert res["score"] > 95.0
+    assert res["score"] > 40.0
+    assert res["sys_len"] == 14
+    assert res["ref_len"] == 14
     assert "version" in res
 
 
