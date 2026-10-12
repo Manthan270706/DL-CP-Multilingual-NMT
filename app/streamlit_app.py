@@ -154,11 +154,11 @@ st.markdown(
         border-radius: 6px;
         padding: 12px 14px;
         min-height: 140px;
-        max-height: 140px;
-        overflow-y: auto;
         font-size: 0.98rem;
         color: #F8FAFC;
         line-height: 1.6;
+        word-break: break-word;
+        white-space: pre-wrap;
     }
 
     /* Inline Status Badges */
@@ -215,9 +215,27 @@ st.markdown(
         max-height: 140px !important;
         font-size: 0.98rem !important;
     }
-    textarea:focus {
-        border-color: #6366F1 !important;
-        box-shadow: 0 0 0 1px #6366F1 !important;
+    /* Metric Card Styling to Prevent Truncation */
+    div[data-testid="stMetricValue"] {
+        font-size: 1.12rem !important;
+        font-weight: 700 !important;
+        color: #F8FAFC !important;
+        white-space: nowrap !important;
+        overflow: visible !important;
+        text-overflow: clip !important;
+    }
+    div[data-testid="stMetricValue"] > div {
+        font-size: 1.12rem !important;
+        white-space: nowrap !important;
+        overflow: visible !important;
+        text-overflow: clip !important;
+    }
+    div[data-testid="stMetricLabel"] {
+        font-size: 0.76rem !important;
+        color: #94A3B8 !important;
+        font-weight: 600 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.03em !important;
     }
 </style>
 """,
@@ -492,8 +510,9 @@ def main():
                 # Telemetry Bar
                 st.markdown("<div style='height: 8px;'></div>", unsafe_allow_html=True)
                 m1, m2, m3, m4 = st.columns(4)
-                m1.metric("Latency", f"{res['latency_ms']} ms")
-                m2.metric("Generation Speed", f"{res['tokens_per_sec']} tok/s")
+                lat_display = f"{int(round(res['latency_ms']))} ms" if res['latency_ms'] >= 100 else f"{res['latency_ms']:.1f} ms"
+                m1.metric("Latency", lat_display)
+                m2.metric("Generation Speed", f"{res['tokens_per_sec']:.1f} tok/s")
                 m3.metric("Output Words", res["token_count"])
                 m4.metric("Peak GPU Memory", f"{res['peak_vram_mb']} MB")
 
@@ -566,8 +585,10 @@ def main():
                                 })
                             st.markdown(f'<div class="dark-output-box" style="min-height: 100px; max-height: 100px;">{r["translated_text"]}</div>', unsafe_allow_html=True)
                             mc1, mc2 = st.columns(2)
-                            mc1.metric("Latency", f"{r['latency_ms']} ms")
-                            mc2.metric("Speed", f"{r['tokens_per_sec']} tok/s")
+                            lat_display = f"{int(round(r['latency_ms']))} ms" if r['latency_ms'] >= 100 else f"{r['latency_ms']:.1f} ms"
+                            speed_display = f"{r['tokens_per_sec']:.1f} tok/s"
+                            mc1.metric("Latency", lat_display)
+                            mc2.metric("Speed", speed_display)
                             st.caption(f"Peak VRAM: `{r['peak_vram_mb']} MB`")
 
                 # Comparative Chart (Fixed Altair Scale Validation)
